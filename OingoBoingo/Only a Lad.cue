@@ -1,0 +1,43 @@
+TITLE "Only a Lad"
+PERFORMER "Oingo Boingo"
+REM GENRE "Rock"
+REM DATE "1981"
+REM DISCID 8008ED0A
+FILE "Only a Lad.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Little Girls"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:32
+  TRACK 02 AUDIO
+    TITLE "Perfect system"
+    INDEX 01 03:43:72
+  TRACK 03 AUDIO
+    TITLE "On the outside"
+    INDEX 00 07:29:57
+    INDEX 01 07:29:72
+  TRACK 04 AUDIO
+    TITLE "capitalism"
+    INDEX 00 11:21:00
+    INDEX 01 11:21:30
+  TRACK 05 AUDIO
+    TITLE "you really got me"
+    INDEX 00 15:01:32
+    INDEX 01 15:02:05
+  TRACK 06 AUDIO
+    TITLE "only a lad"
+    INDEX 00 19:38:67
+    INDEX 01 19:39:25
+  TRACK 07 AUDIO
+    TITLE "what you see"
+    INDEX 01 23:36:55
+  TRACK 08 AUDIO
+    TITLE "controller"
+    INDEX 00 27:31:47
+    INDEX 01 27:31:55
+  TRACK 09 AUDIO
+    TITLE "imposter"
+    INDEX 01 30:57:55
+  TRACK 10 AUDIO
+    TITLE "nasty habits"
+    INDEX 00 33:57:37
+    INDEX 01 33:57:55

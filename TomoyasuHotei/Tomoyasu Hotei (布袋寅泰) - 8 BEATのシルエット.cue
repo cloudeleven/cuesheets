@@ -1,0 +1,17 @@
+TITLE "8 BEATのシルエット"
+PERFORMER "Tomoyasu Hotei (布袋寅泰)"
+CATALOG 0600406687289
+REM DATE "2016"
+REM DISCID 09022402
+FILE "Tomoyasu Hotei (布袋寅泰) - 8 BEATのシルエット.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "8 BEATのシルエット"
+    PERFORMER "Tomoyasu Hotei (布袋寅泰)"
+    ISRC JPPO01614357
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "POWER"
+    PERFORMER "Tomoyasu Hotei (布袋寅泰)"
+    ISRC JPPO01614358
+    INDEX 00 05:00:41
+    INDEX 01 05:02:37

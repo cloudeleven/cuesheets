@@ -1,0 +1,29 @@
+TITLE "Somethin' Else"
+PERFORMER "Cannonball Adderley"
+REM GENRE "Jazz"
+REM DATE "1986"
+REM DISCID 4C0A5206
+FILE "Somethin' Else.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Autumn Leaves"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Love For Sale"
+    INDEX 00 10:58:28
+    INDEX 01 11:01:55
+  TRACK 03 AUDIO
+    TITLE "Somethin' Else"
+    INDEX 00 18:05:37
+    INDEX 01 18:08:35
+  TRACK 04 AUDIO
+    TITLE "One For Daddy-O"
+    INDEX 00 26:22:32
+    INDEX 01 26:23:40
+  TRACK 05 AUDIO
+    TITLE "Dancing In The Dark"
+    INDEX 00 34:48:67
+    INDEX 01 34:50:10
+  TRACK 06 AUDIO
+    TITLE "Alison's Uncle"
+    INDEX 00 38:55:27
+    INDEX 01 38:57:47

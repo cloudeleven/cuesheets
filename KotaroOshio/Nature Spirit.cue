@@ -1,0 +1,62 @@
+TITLE "Nature Spirit"
+PERFORMER "Kotaro Oshio"
+REM GENRE "Acoustic"
+REM DATE "2008"
+REM DISCID B30CA80E
+FILE "Nature Spirit.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Deep Silence"
+    FLAGS DCP
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Rushin'"
+    FLAGS DCP
+    INDEX 01 01:05:74
+  TRACK 03 AUDIO
+    TITLE "DREAMING"
+    FLAGS DCP
+    INDEX 01 05:23:55
+  TRACK 04 AUDIO
+    TITLE "My Home Town"
+    FLAGS DCP
+    INDEX 01 09:47:50
+  TRACK 05 AUDIO
+    TITLE "TREASURE　（アルバム・バージョン）"
+    FLAGS DCP
+    INDEX 01 13:52:15
+  TRACK 06 AUDIO
+    TITLE "Buzzer Beater"
+    FLAGS DCP
+    INDEX 01 18:10:33
+  TRACK 07 AUDIO
+    TITLE "ノスタルジア"
+    FLAGS DCP
+    INDEX 01 21:46:38
+  TRACK 08 AUDIO
+    TITLE "渚 with Jake Shimabukuro"
+    FLAGS DCP
+    INDEX 01 25:29:05
+  TRACK 09 AUDIO
+    TITLE "永遠の青い空"
+    FLAGS DCP
+    INDEX 01 29:38:58
+  TRACK 10 AUDIO
+    TITLE "Hangover"
+    FLAGS DCP
+    INDEX 01 33:29:18
+  TRACK 11 AUDIO
+    TITLE "IN MY LIFE with Jake Shimabukuro"
+    FLAGS DCP
+    INDEX 01 36:11:13
+  TRACK 12 AUDIO
+    TITLE "PEACE!"
+    FLAGS DCP
+    INDEX 01 41:40:17
+  TRACK 13 AUDIO
+    TITLE "スマイル"
+    FLAGS DCP
+    INDEX 01 45:29:58
+  TRACK 14 AUDIO
+    TITLE "Christmas Rose"
+    FLAGS DCP
+    INDEX 01 49:47:45

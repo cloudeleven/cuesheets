@@ -1,0 +1,88 @@
+TITLE "Something Else By The Kinks"
+PERFORMER "The Kinks"
+REM GENRE "Rock"
+REM DATE "1967"
+REM DISCID 400D9A15
+FILE "Something Else By The Kinks.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "David Watts"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Death of a Clown"
+    INDEX 00 02:30:12
+    INDEX 01 02:32:42
+  TRACK 03 AUDIO
+    TITLE "Two Sisters"
+    INDEX 00 05:34:30
+    INDEX 01 05:36:67
+  TRACK 04 AUDIO
+    TITLE "No Return"
+    INDEX 00 07:36:02
+    INDEX 01 07:38:50
+  TRACK 05 AUDIO
+    TITLE "Harry Rag"
+    INDEX 00 09:38:30
+    INDEX 01 09:41:57
+  TRACK 06 AUDIO
+    TITLE "Tin Soldier Man"
+    INDEX 00 11:56:25
+    INDEX 01 11:58:52
+  TRACK 07 AUDIO
+    TITLE "Situation Vacant"
+    INDEX 00 14:46:07
+    INDEX 01 14:48:02
+  TRACK 08 AUDIO
+    TITLE "Love Me Till the Sun Shines"
+    INDEX 00 18:02:57
+    INDEX 01 18:04:37
+  TRACK 09 AUDIO
+    TITLE "Lazy Old Sun"
+    INDEX 00 21:19:07
+    INDEX 01 21:20:60
+  TRACK 10 AUDIO
+    TITLE "Afternoon Tea"
+    INDEX 00 24:07:07
+    INDEX 01 24:09:50
+  TRACK 11 AUDIO
+    TITLE "Funny Face"
+    INDEX 00 27:34:37
+    INDEX 01 27:36:65
+  TRACK 12 AUDIO
+    TITLE "End of the Season"
+    INDEX 00 29:52:62
+    INDEX 01 29:54:25
+  TRACK 13 AUDIO
+    TITLE "Waterloo Sunset"
+    INDEX 00 32:51:00
+    INDEX 01 32:52:25
+  TRACK 14 AUDIO
+    TITLE "Act Nice and Gentle"
+    INDEX 00 36:05:47
+    INDEX 01 36:07:72
+  TRACK 15 AUDIO
+    TITLE "Autumn Almanac"
+    INDEX 00 38:45:42
+    INDEX 01 38:47:27
+  TRACK 16 AUDIO
+    TITLE "Susannah's Still Alive"
+    INDEX 00 41:51:07
+    INDEX 01 41:52:60
+  TRACK 17 AUDIO
+    TITLE "Wonderboy"
+    INDEX 00 44:13:17
+    INDEX 01 44:14:65
+  TRACK 18 AUDIO
+    TITLE "Polly"
+    INDEX 00 47:02:37
+    INDEX 01 47:03:70
+  TRACK 19 AUDIO
+    TITLE "Lincoln County"
+    INDEX 00 49:53:25
+    INDEX 01 49:55:40
+  TRACK 20 AUDIO
+    TITLE "There's No Life Without Love"
+    INDEX 00 53:05:32
+    INDEX 01 53:07:42
+  TRACK 21 AUDIO
+    TITLE "Lazy Old Sun"
+    INDEX 01 55:09:00

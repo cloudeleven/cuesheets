@@ -1,0 +1,92 @@
+X Lossless Decoder version 20110502 (132.0)
+
+XLD extraction logfile from 2011-05-03 16:48:58 +0900
+
+SUEMITSU & THE SUEMITH / Sunday'z Sun e.p.
+
+Used drive : MATSHITA DVD-R   UJ-868 (revision KB19)
+
+Ripper mode             : CDParanoia III 10.2
+Disable audio cache     : OK for the drive with a cache less than 2750KiB
+Make use of C2 pointers : NO
+Read offset correction  : 102
+Max retry count         : 100
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:27:57 |         0    |    20081   
+        2  | 04:27:57 | 04:28:33 |     20082    |    40214   
+        3  | 08:56:15 | 04:07:48 |     40215    |    58787   
+
+AccurateRip Summary
+    Track 01 : OK (confidence 1)
+    Track 02 : OK (confidence 1)
+    Track 03 : OK (confidence 1)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Users/m4c/Public/flac/Sunday'z Sun e.p..flac
+    CRC32 hash             : 3450C2D0
+    CRC32 hash (skip zero) : DD0BAC1D
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash             : FCBB786C
+    CRC32 hash (skip zero) : 51CB145D
+    AccurateRip signature  : D3F2E562
+        ->Accurately ripped! (confidence 1)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 02
+    Pre-gap length : 00:03:35
+
+    CRC32 hash             : 50559354
+    CRC32 hash (skip zero) : 8C21410D
+    AccurateRip signature  : 01594923
+        ->Accurately ripped! (confidence 1)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 03
+    Pre-gap length : 00:02:36
+
+    CRC32 hash             : 45D1897F
+    CRC32 hash (skip zero) : DCCF4BDA
+    AccurateRip signature  : D9F31C38
+        ->Accurately ripped! (confidence 1)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+No errors occurred
+
+End of status report

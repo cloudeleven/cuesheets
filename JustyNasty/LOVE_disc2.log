@@ -1,0 +1,82 @@
+X Lossless Decoder version 20140504 (147.0)
+
+XLD extraction logfile from 2014-08-12 00:24:00 +0900
+
+Justy-Nasty / LOVE
+
+Used drive : HL-DT-ST BD-RE  BH10NS30 (revision EL00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:37 | 04:18:53 |        37    |    19439   
+        2  | 04:19:15 | 04:13:72 |     19440    |    38486   
+        3  | 08:33:12 | 03:16:73 |     38487    |    53259   
+
+AccurateRip Summary (DiscID: 0001b278-00059b3a-1602c603)
+    Track 01 : OK (v1, confidence 1/2)
+    Track 02 : OK (v1, confidence 1/2)
+    Track 03 : OK (v1, confidence 1/2)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Users/m4c/tmp/flac/LOVE.flac
+    CRC32 hash               : 82428C4D
+    CRC32 hash (skip zero)   : 91330C29
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:37
+
+    CRC32 hash               : FE00ADA8
+    CRC32 hash (skip zero)   : B509F65D
+    AccurateRip v1 signature : FD2C4476
+    AccurateRip v2 signature : F956425A
+        ->Accurately ripped (v1, confidence 1/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+
+    CRC32 hash               : 2CE6D2B4
+    CRC32 hash (skip zero)   : 133F4DC7
+    AccurateRip v1 signature : 3036F1DE
+    AccurateRip v2 signature : 9AA438D3
+        ->Accurately ripped (v1, confidence 1/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+
+    CRC32 hash               : 13BF1B67
+    CRC32 hash (skip zero)   : 5D891CE8
+    AccurateRip v1 signature : EBDFAD24
+    AccurateRip v2 signature : 216FE8E8
+        ->Accurately ripped (v1, confidence 1/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

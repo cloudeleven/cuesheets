@@ -1,0 +1,65 @@
+TITLE "Oranges & Lemons"
+PERFORMER "XTC"
+REM GENRE "Pop"
+REM DATE "1989"
+REM DISCID D80E420F
+FILE "Oranges & Lemons.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Garden Of Earthly Delights"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "The Mayor Of Simpleton"
+    INDEX 00 05:02:55
+    INDEX 01 05:02:57
+  TRACK 03 AUDIO
+    TITLE "King For A Day"
+    INDEX 00 09:00:60
+    INDEX 01 09:00:62
+  TRACK 04 AUDIO
+    TITLE "Here Comes President Kill Again"
+    INDEX 00 12:37:65
+    INDEX 01 12:38:65
+  TRACK 05 AUDIO
+    TITLE "The Loving"
+    INDEX 00 16:12:55
+    INDEX 01 16:13:55
+  TRACK 06 AUDIO
+    TITLE "Poor Skeleton Steps Out"
+    INDEX 00 20:25:00
+    INDEX 01 20:25:02
+  TRACK 07 AUDIO
+    TITLE "One Of The Millions"
+    INDEX 00 23:52:20
+    INDEX 01 23:53:20
+  TRACK 08 AUDIO
+    TITLE "Scarecrow People"
+    INDEX 00 28:35:30
+    INDEX 01 28:35:32
+  TRACK 09 AUDIO
+    TITLE "Merely A Man"
+    INDEX 00 32:48:32
+    INDEX 01 32:48:35
+  TRACK 10 AUDIO
+    TITLE "Cynical Days"
+    INDEX 00 36:15:17
+    INDEX 01 36:15:20
+  TRACK 11 AUDIO
+    TITLE "Across This Antheap"
+    INDEX 00 39:32:67
+    INDEX 01 39:32:70
+  TRACK 12 AUDIO
+    TITLE "Hold Me My Daddy"
+    INDEX 00 44:23:50
+    INDEX 01 44:24:50
+  TRACK 13 AUDIO
+    TITLE "Pink Thing"
+    INDEX 00 48:12:37
+    INDEX 01 48:12:40
+  TRACK 14 AUDIO
+    TITLE "Miniature Sun"
+    INDEX 00 52:00:50
+    INDEX 01 52:00:52
+  TRACK 15 AUDIO
+    TITLE "Chalkhills And Children"
+    INDEX 00 55:57:40
+    INDEX 01 55:57:42

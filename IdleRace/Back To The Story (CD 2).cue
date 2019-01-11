@@ -1,0 +1,93 @@
+TITLE "Back To The Story (CD 2)"
+PERFORMER "The Idle Race"
+CATALOG 0724383816422
+REM DISCID 3B113C16
+FILE "Back To The Story (CD 2).flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Here We Go Round The Lemon Tree"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:20
+  TRACK 02 AUDIO
+    TITLE "My Father's Son"
+    INDEX 00 02:43:07
+    INDEX 01 02:45:12
+  TRACK 03 AUDIO
+    TITLE "Impostors Of Life's Magazine"
+    INDEX 00 04:58:42
+    INDEX 01 05:00:42
+  TRACK 04 AUDIO
+    TITLE "Knocking Nails Into My House"
+    INDEX 00 07:18:37
+    INDEX 01 07:21:55
+  TRACK 05 AUDIO
+    TITLE "Days Of The Broken Arrows"
+    INDEX 00 09:46:35
+    INDEX 01 09:48:62
+  TRACK 06 AUDIO
+    TITLE "Worn Red Carpet"
+    INDEX 00 13:36:37
+    INDEX 01 13:40:10
+  TRACK 07 AUDIO
+    TITLE "In The Summertime"
+    INDEX 00 16:41:10
+    INDEX 01 16:43:50
+  TRACK 08 AUDIO
+    TITLE "Told You Twice"
+    INDEX 00 19:39:30
+    INDEX 01 19:42:05
+  TRACK 09 AUDIO
+    TITLE "Neanderthal Man"
+    INDEX 00 23:17:52
+    INDEX 01 23:20:25
+  TRACK 10 AUDIO
+    TITLE "Victim Of Circumstance"
+    INDEX 00 27:14:10
+    INDEX 01 27:17:12
+  TRACK 11 AUDIO
+    TITLE "Dancing Flower"
+    INDEX 00 30:49:47
+    INDEX 01 30:53:25
+  TRACK 12 AUDIO
+    TITLE "Sad O' Sad"
+    INDEX 00 33:05:17
+    INDEX 01 33:07:65
+  TRACK 13 AUDIO
+    TITLE "The Clock"
+    INDEX 00 36:32:37
+    INDEX 01 36:35:67
+  TRACK 14 AUDIO
+    TITLE "I Will See You"
+    INDEX 00 39:55:65
+    INDEX 01 39:58:57
+  TRACK 15 AUDIO
+    TITLE "By The Sun"
+    INDEX 00 43:07:27
+    INDEX 01 43:10:42
+  TRACK 16 AUDIO
+    TITLE "Alcatraz"
+    INDEX 00 49:49:67
+    INDEX 01 49:52:57
+  TRACK 17 AUDIO
+    TITLE "And The Rain"
+    INDEX 00 53:52:50
+    INDEX 01 53:55:35
+  TRACK 18 AUDIO
+    TITLE "She Sang Hymns Out Of Tune"
+    INDEX 00 56:44:52
+    INDEX 01 56:47:67
+  TRACK 19 AUDIO
+    TITLE "Bitter Green"
+    INDEX 00 59:53:00
+    INDEX 01 59:55:60
+  TRACK 20 AUDIO
+    TITLE "We Want It All"
+    INDEX 00 63:37:55
+    INDEX 01 63:41:40
+  TRACK 21 AUDIO
+    TITLE "It's Only The Dog"
+    INDEX 00 67:51:02
+    INDEX 01 67:54:42
+  TRACK 22 AUDIO
+    TITLE "Your Friend"
+    INDEX 00 70:07:15
+    INDEX 01 70:10:10

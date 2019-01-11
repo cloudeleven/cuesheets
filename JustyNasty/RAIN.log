@@ -1,0 +1,174 @@
+X Lossless Decoder version 20140504 (147.0)
+
+XLD extraction logfile from 2014-08-12 01:34:16 +0900
+
+Justy-Nasty / RAIN
+
+Used drive : HL-DT-ST BD-RE  BH10NS30 (revision EL00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:37 | 03:56:38 |        37    |    17774   
+        2  | 03:57:00 | 03:51:07 |     17775    |    35106   
+        3  | 07:48:07 | 04:41:20 |     35107    |    56201   
+        4  | 12:29:27 | 03:35:05 |     56202    |    72331   
+        5  | 16:04:32 | 04:05:13 |     72332    |    90719   
+        6  | 20:09:45 | 04:07:15 |     90720    |   109259   
+        7  | 24:16:60 | 04:04:00 |    109260    |   127559   
+        8  | 28:20:60 | 03:47:42 |    127560    |   144626   
+        9  | 32:08:27 | 04:54:15 |    144627    |   166691   
+
+AccurateRip Summary (DiscID: 000c8458-005bf157-6b08ae09)
+    Track 01 : OK (v1, confidence 2/2)
+    Track 02 : OK (v1, confidence 2/2)
+    Track 03 : OK (v1, confidence 2/2)
+    Track 04 : OK (v1, confidence 2/2)
+    Track 05 : OK (v1, confidence 2/2)
+    Track 06 : OK (v1, confidence 2/2)
+    Track 07 : OK (v1, confidence 2/2)
+    Track 08 : OK (v1, confidence 2/2)
+    Track 09 : OK (v1, confidence 2/2)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Users/m4c/tmp/flac/RAIN.flac
+    CRC32 hash               : A22A8249
+    CRC32 hash (skip zero)   : C93BA686
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:37
+
+    CRC32 hash               : EF78FCFF
+    CRC32 hash (skip zero)   : F81BE11E
+    AccurateRip v1 signature : E1652148
+    AccurateRip v2 signature : AEA92B0A
+        ->Accurately ripped (v1, confidence 2/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+
+    CRC32 hash               : AEB25869
+    CRC32 hash (skip zero)   : 6C5809CF
+    AccurateRip v1 signature : 0D70EFC0
+    AccurateRip v2 signature : C00F138A
+        ->Accurately ripped (v1, confidence 2/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+
+    CRC32 hash               : 19075B47
+    CRC32 hash (skip zero)   : 793A3309
+    AccurateRip v1 signature : EB008706
+    AccurateRip v2 signature : 2E7C6FC9
+        ->Accurately ripped (v1, confidence 2/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+
+    CRC32 hash               : 284F4805
+    CRC32 hash (skip zero)   : E891BFC2
+    AccurateRip v1 signature : 62B6E9DE
+    AccurateRip v2 signature : 1722A0D1
+        ->Accurately ripped (v1, confidence 2/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+
+    CRC32 hash               : 2F2A42FC
+    CRC32 hash (skip zero)   : 187BB411
+    AccurateRip v1 signature : 9A3F6EE5
+    AccurateRip v2 signature : CD55CC32
+        ->Accurately ripped (v1, confidence 2/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+
+    CRC32 hash               : 51C6DA16
+    CRC32 hash (skip zero)   : EAECAA61
+    AccurateRip v1 signature : 52167B2D
+    AccurateRip v2 signature : 336A6436
+        ->Accurately ripped (v1, confidence 2/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+
+    CRC32 hash               : CB971FE7
+    CRC32 hash (skip zero)   : 4F9165E5
+    AccurateRip v1 signature : B6A5A082
+    AccurateRip v2 signature : 853BD9F5
+        ->Accurately ripped (v1, confidence 2/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Pre-gap length : 00:02:02
+
+    CRC32 hash               : 5B9EA35D
+    CRC32 hash (skip zero)   : BDB585EE
+    AccurateRip v1 signature : 2172A499
+    AccurateRip v2 signature : 95D8D0B6
+        ->Accurately ripped (v1, confidence 2/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+    Pre-gap length : 00:02:01
+
+    CRC32 hash               : 4B7AD84A
+    CRC32 hash (skip zero)   : B1F0F906
+    AccurateRip v1 signature : 4B942148
+    AccurateRip v2 signature : BBFF2C0E
+        ->Accurately ripped (v1, confidence 2/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

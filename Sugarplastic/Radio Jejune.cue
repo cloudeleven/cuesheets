@@ -1,0 +1,42 @@
+TITLE "Radio Jejune"
+PERFORMER "The Sugarplastic"
+REM DISCID 8108800A
+FILE "Radio Jejune.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Radio Jejune"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:32
+  TRACK 02 AUDIO
+    TITLE "Ways To Save Face"
+    INDEX 00 04:05:50
+    INDEX 01 04:08:07
+  TRACK 03 AUDIO
+    TITLE "Salmolina"
+    INDEX 01 07:51:15
+  TRACK 04 AUDIO
+    TITLE "Sun Goes Cold"
+    INDEX 01 11:33:05
+  TRACK 05 AUDIO
+    TITLE "Skinny Hotrod"
+    INDEX 00 14:17:47
+    INDEX 01 14:18:45
+  TRACK 06 AUDIO
+    TITLE "Please Mr. B."
+    INDEX 00 17:13:40
+    INDEX 01 17:14:62
+  TRACK 07 AUDIO
+    TITLE "Arizona"
+    INDEX 00 22:33:05
+    INDEX 01 22:33:50
+  TRACK 08 AUDIO
+    TITLE "Sir Sheever"
+    INDEX 00 24:58:00
+    INDEX 01 25:00:25
+  TRACK 09 AUDIO
+    TITLE "Officer G"
+    INDEX 00 29:31:22
+    INDEX 01 29:32:30
+  TRACK 10 AUDIO
+    TITLE "Howl A Little"
+    INDEX 00 31:30:05
+    INDEX 01 31:31:32

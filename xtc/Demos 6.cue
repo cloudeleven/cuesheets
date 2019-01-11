@@ -1,0 +1,72 @@
+TITLE "Demos 6"
+PERFORMER "XTC"
+REM GENRE "Rock"
+REM DISCID F40C9F11
+FILE "Demos 6.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Summer's Cauldron"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Grass"
+    INDEX 00 04:33:33
+    INDEX 01 04:35:35
+  TRACK 03 AUDIO
+    TITLE "The Meeting Place"
+    INDEX 00 07:21:10
+    INDEX 01 07:23:12
+  TRACK 04 AUDIO
+    TITLE "That's Reall Super, Supergirl"
+    INDEX 00 10:04:70
+    INDEX 01 10:06:72
+  TRACK 05 AUDIO
+    TITLE "Ballet For A Rainy Day"
+    INDEX 00 13:39:70
+    INDEX 01 13:41:72
+  TRACK 06 AUDIO
+    TITLE "1,000 Umbrellas"
+    INDEX 00 16:44:70
+    INDEX 01 16:46:72
+  TRACK 07 AUDIO
+    TITLE "Season Cycle"
+    INDEX 00 20:32:70
+    INDEX 01 20:34:72
+  TRACK 08 AUDIO
+    TITLE "Big Day"
+    INDEX 00 23:45:43
+    INDEX 01 23:47:45
+  TRACK 09 AUDIO
+    TITLE "Mermaid Smiled"
+    INDEX 00 28:12:38
+    INDEX 01 28:14:40
+  TRACK 10 AUDIO
+    TITLE "Dying"
+    INDEX 00 30:36:70
+    INDEX 01 30:38:72
+  TRACK 11 AUDIO
+    TITLE "Sacrificial Bonfire"
+    INDEX 00 33:12:20
+    INDEX 01 33:14:22
+  TRACK 12 AUDIO
+    TITLE "Gangway Electric Guitars"
+    INDEX 00 36:40:05
+    INDEX 01 36:42:07
+  TRACK 13 AUDIO
+    TITLE "Ban The Bomb"
+    INDEX 00 38:22:68
+    INDEX 01 38:24:70
+  TRACK 14 AUDIO
+    TITLE "Do You Really?"
+    INDEX 00 39:57:35
+    INDEX 01 39:59:37
+  TRACK 15 AUDIO
+    TITLE "Quicksilver"
+    INDEX 00 44:03:30
+    INDEX 01 44:05:32
+  TRACK 16 AUDIO
+    TITLE "Collideascope"
+    INDEX 00 46:44:15
+    INDEX 01 46:46:17
+  TRACK 17 AUDIO
+    TITLE "This Is The End"
+    INDEX 00 49:43:08
+    INDEX 01 49:45:10

@@ -1,0 +1,41 @@
+TITLE "Tomorrow is the Question"
+PERFORMER "Ornette Coleman"
+REM GENRE "Jazz"
+REM DATE "1959"
+REM DISCID 800A0A09
+FILE "Tomorrow is the Question.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Tomorrow is the Question"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Tears Inside"
+    INDEX 00 03:09:45
+    INDEX 01 03:12:47
+  TRACK 03 AUDIO
+    TITLE "Mind and Time"
+    INDEX 00 08:14:05
+    INDEX 01 08:17:20
+  TRACK 04 AUDIO
+    TITLE "Compassion"
+    INDEX 00 11:25:20
+    INDEX 01 11:28:72
+  TRACK 05 AUDIO
+    TITLE "Giggin'"
+    INDEX 00 16:05:27
+    INDEX 01 16:08:50
+  TRACK 06 AUDIO
+    TITLE "Rejoicing"
+    INDEX 00 19:27:65
+    INDEX 01 19:31:42
+  TRACK 07 AUDIO
+    TITLE "Lorraine"
+    INDEX 00 23:31:47
+    INDEX 01 23:35:15
+  TRACK 08 AUDIO
+    TITLE "Turnaround"
+    INDEX 00 29:31:27
+    INDEX 01 29:34:30
+  TRACK 09 AUDIO
+    TITLE "Endless"
+    INDEX 00 37:29:00
+    INDEX 01 37:32:62

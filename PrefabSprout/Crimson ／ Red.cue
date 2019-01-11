@@ -1,0 +1,68 @@
+TITLE "Crimson / Red"
+PERFORMER "Prefab Sprout"
+CATALOG 5060211501623
+REM GENRE "Indie Rock"
+REM DATE "2013"
+REM DISCNUMBER 1
+REM TOTALDISCS 1
+REM DISCID 7709910A
+FILE "Crimson ／ Red.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "The Best Jewel Thief in the World"
+    SONGWRITER "Paddy Mc Aloon"
+    ISRC UK46V1300001
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "List of Impossible Things"
+    SONGWRITER "Paddy Mc Aloon"
+    ISRC UK46V1300002
+    INDEX 00 03:49:01
+    INDEX 01 03:50:69
+  TRACK 03 AUDIO
+    TITLE "Adolesence"
+    SONGWRITER "Paddy Mc Aloon"
+    ISRC UK46V1300003
+    INDEX 00 07:31:65
+    INDEX 01 07:33:52
+  TRACK 04 AUDIO
+    TITLE "Grief Built the Taj Mahal"
+    SONGWRITER "Paddy Mc Aloon"
+    ISRC UK46V1300004
+    INDEX 00 12:00:33
+    INDEX 01 12:00:72
+  TRACK 05 AUDIO
+    TITLE "Devil Came a Calling"
+    SONGWRITER "Paddy Mc Aloon"
+    ISRC UK46V1300005
+    INDEX 00 15:28:03
+    INDEX 01 15:28:73
+  TRACK 06 AUDIO
+    TITLE "Billy"
+    SONGWRITER "Paddy Mc Aloon"
+    ISRC UK46V1300006
+    INDEX 00 19:09:27
+    INDEX 01 19:10:17
+  TRACK 07 AUDIO
+    TITLE "The Dreamer"
+    SONGWRITER "Paddy Mc Aloon"
+    ISRC UK46V1300007
+    INDEX 00 23:46:66
+    INDEX 01 23:47:37
+  TRACK 08 AUDIO
+    TITLE "The Songs of Danny Galway"
+    SONGWRITER "Paddy Mc Aloon"
+    ISRC UK46V1300008
+    INDEX 00 29:47:25
+    INDEX 01 29:48:05
+  TRACK 09 AUDIO
+    TITLE "The Old Magician"
+    SONGWRITER "Paddy Mc Aloon"
+    ISRC UK46V1300009
+    INDEX 00 33:36:02
+    INDEX 01 33:36:16
+  TRACK 10 AUDIO
+    TITLE "Mysterious"
+    SONGWRITER "Paddy Mc Aloon"
+    ISRC UK46V1300010
+    INDEX 00 36:26:73
+    INDEX 01 36:27:44

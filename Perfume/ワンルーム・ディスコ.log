@@ -1,0 +1,107 @@
+X Lossless Decoder version 20110417 (131.0)
+
+XLD extraction logfile from 2011-04-20 00:10:35 +0900
+
+Perfume / ワンルーム・ディスコ
+
+Used drive : MATSHITA DVD-R   UJ-868 (revision KB19)
+
+Ripper mode             : CDParanoia III 10.2
+Disable audio cache     : OK for the drive with a cache less than 2750KiB
+Make use of C2 pointers : NO
+Read offset correction  : 102
+Max retry count         : 100
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 05:06:15 |         0    |    22964   
+        2  | 05:06:15 | 05:17:44 |     22965    |    46783   
+        3  | 10:23:59 | 05:06:14 |     46784    |    69747   
+        4  | 15:29:73 | 05:16:07 |     69748    |    93454   
+
+AccurateRip Summary
+    Track 01 : OK (confidence 16)
+    Track 02 : OK (confidence 16)
+    Track 03 : OK (confidence 14)
+    Track 04 : NG
+        ->3 track(s) accurately ripped, 1 track(s) not, 0 track(s) not found
+
+All Tracks
+    Filename : /Users/m4c/Public/flac/ワンルーム・ディスコ.flac
+    CRC32 hash             : AAB08BD5
+    CRC32 hash (skip zero) : 10501BE2
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 5
+        Atom jitter error (maybe fixed)      : 1
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 1
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash             : 911D5700
+    CRC32 hash (skip zero) : A28767D9
+    AccurateRip signature  : F4F7B861
+        ->Accurately ripped! (confidence 16)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 02
+
+    CRC32 hash             : 8EF118BF
+    CRC32 hash (skip zero) : B764424A
+    AccurateRip signature  : A59ABC38
+        ->Accurately ripped! (confidence 16)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 03
+
+    CRC32 hash             : 294F05FA
+    CRC32 hash (skip zero) : BC2D0095
+    AccurateRip signature  : 65D941D6
+        ->Accurately ripped! (confidence 14)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 04
+
+    CRC32 hash             : 2DF532B9
+    CRC32 hash (skip zero) : 69D75925
+    AccurateRip signature  : 8A8DAD99
+        ->Rip may not be accurate.
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 5
+        Atom jitter error (maybe fixed)      : 1
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 1
+
+No errors occurred
+
+End of status report

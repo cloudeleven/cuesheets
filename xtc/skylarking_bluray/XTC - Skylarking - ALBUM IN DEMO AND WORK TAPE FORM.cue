@@ -1,0 +1,65 @@
+TITLE "Skylarking - ALBUM IN DEMO AND WORK TAPE FORM"
+PERFORMER "XTC"
+REM GENRE "Rock"
+REM DATE "2016"
+FILE "XTC - Skylarking - ALBUM IN DEMO AND WORK TAPE FORM.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Summer's Cauldron"
+    PERFORMER "XTC"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Grass"
+    PERFORMER "XTC"
+    INDEX 01 05:36:25
+  TRACK 03 AUDIO
+    TITLE "The Meeting Place"
+    PERFORMER "XTC"
+    INDEX 01 08:30:57
+  TRACK 04 AUDIO
+    TITLE "That's Really Super, Supergirl"
+    PERFORMER "XTC"
+    INDEX 01 13:08:74
+  TRACK 05 AUDIO
+    TITLE "Ballet For A Rainy Day"
+    PERFORMER "XTC"
+    INDEX 01 16:50:53
+  TRACK 06 AUDIO
+    TITLE "1000 Umbrellas"
+    PERFORMER "XTC"
+    INDEX 01 20:03:52
+  TRACK 07 AUDIO
+    TITLE "Season Cycle"
+    PERFORMER "XTC"
+    INDEX 01 24:34:29
+  TRACK 08 AUDIO
+    TITLE "Earn Enough For Us"
+    PERFORMER "XTC"
+    INDEX 01 29:26:51
+  TRACK 09 AUDIO
+    TITLE "Big Day"
+    PERFORMER "XTC"
+    INDEX 01 32:30:05
+  TRACK 10 AUDIO
+    TITLE "Another Satellite"
+    PERFORMER "XTC"
+    INDEX 01 36:58:41
+  TRACK 11 AUDIO
+    TITLE "Mermaid Smiled"
+    PERFORMER "XTC"
+    INDEX 01 42:09:70
+  TRACK 12 AUDIO
+    TITLE "The Man Who Sailed Around His Soul"
+    PERFORMER "XTC"
+    INDEX 01 44:37:47
+  TRACK 13 AUDIO
+    TITLE "Dear God"
+    PERFORMER "XTC"
+    INDEX 01 47:33:41
+  TRACK 14 AUDIO
+    TITLE "Dying"
+    PERFORMER "XTC"
+    INDEX 01 51:40:44
+  TRACK 15 AUDIO
+    TITLE "Sacrificial Bonfire"
+    PERFORMER "XTC"
+    INDEX 01 54:19:50

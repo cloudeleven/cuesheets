@@ -1,0 +1,20 @@
+TITLE "Easter Theatre"
+PERFORMER "XTC"
+REM GENRE "Alternative Rock"
+REM DATE "1999"
+REM DISCID 22058803
+FILE "Easter Theatre.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Easter Theatre"
+    ISRC GBCEJ9900045
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Easter Theatre (Home Demo)"
+    ISRC GBCEJ9900046
+    INDEX 00 04:47:25
+    INDEX 01 04:49:25
+  TRACK 03 AUDIO
+    TITLE "How Easter Theatre Came To Be"
+    ISRC GBCEJ9900047
+    INDEX 00 09:43:05
+    INDEX 01 09:45:55

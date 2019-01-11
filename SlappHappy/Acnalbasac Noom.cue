@@ -1,0 +1,84 @@
+TITLE "Acnalbasac Noom"
+PERFORMER "Slapp Happy"
+REM GENRE "Rock"
+REM DATE "1973"
+REM DISCID CE0BDA10
+FILE "Acnalbasac Noom.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Casablanca Moon"
+    FLAGS DCP
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Me and Paravati"
+    FLAGS DCP
+    INDEX 00 03:01:67
+    INDEX 01 03:05:21
+  TRACK 03 AUDIO
+    TITLE "Mr. Rainbow"
+    FLAGS DCP
+    INDEX 00 06:31:16
+    INDEX 01 06:36:31
+  TRACK 04 AUDIO
+    TITLE "Michelangelo / The Drum"
+    FLAGS DCP
+    INDEX 00 10:21:62
+    INDEX 01 10:26:42
+  TRACK 05 AUDIO
+    TITLE "A Little Something"
+    FLAGS DCP
+    INDEX 00 16:52:18
+    INDEX 01 16:57:35
+  TRACK 06 AUDIO
+    TITLE "(silence)"
+    FLAGS DCP
+    INDEX 01 20:14:65
+  TRACK 07 AUDIO
+    TITLE "The Secret"
+    FLAGS DCP
+    INDEX 00 20:18:65
+    INDEX 01 20:29:14
+  TRACK 08 AUDIO
+    TITLE "Dawn"
+    FLAGS DCP
+    INDEX 00 23:50:65
+    INDEX 01 23:54:18
+  TRACK 09 AUDIO
+    TITLE "Half Way There"
+    FLAGS DCP
+    INDEX 00 27:24:54
+    INDEX 01 27:30:42
+  TRACK 10 AUDIO
+    TITLE "Charlie 'n Charlie"
+    FLAGS DCP
+    INDEX 00 30:34:60
+    INDEX 01 30:39:22
+  TRACK 11 AUDIO
+    TITLE "Slow Moon's Rose"
+    FLAGS DCP
+    INDEX 00 32:57:18
+    INDEX 01 33:03:39
+  TRACK 12 AUDIO
+    TITLE "(one minute silence)"
+    FLAGS DCP
+    INDEX 00 36:08:40
+    INDEX 01 36:11:55
+  TRACK 13 AUDIO
+    TITLE "Everybody's Slimmin'"
+    FLAGS DCP
+    INDEX 00 37:07:03
+    INDEX 01 37:08:34
+  TRACK 14 AUDIO
+    TITLE "Blue Eyed William"
+    FLAGS DCP
+    INDEX 00 41:15:41
+    INDEX 01 41:20:60
+  TRACK 15 AUDIO
+    TITLE "Karen"
+    FLAGS DCP
+    INDEX 00 44:54:54
+    INDEX 01 44:58:16
+  TRACK 16 AUDIO
+    TITLE "Messages"
+    FLAGS DCP
+    INDEX 00 48:16:59
+    INDEX 01 48:21:16

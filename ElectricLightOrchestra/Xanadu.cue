@@ -1,0 +1,43 @@
+TITLE "Xanadu"
+PERFORMER "E.L.O. & Olivia Newton-John"
+REM GENRE "Soundtrack"
+REM DATE "1980"
+REM DISCID 6C09CF0A
+FILE "Xanadu.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "I'm Alive"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "The Fall"
+    INDEX 00 03:47:12
+    INDEX 01 03:48:12
+  TRACK 03 AUDIO
+    TITLE "Don't Walk Away"
+    INDEX 00 07:24:12
+    INDEX 01 07:25:25
+  TRACK 04 AUDIO
+    TITLE "All Over The World"
+    INDEX 01 12:13:12
+  TRACK 05 AUDIO
+    TITLE "Xanadu"
+    INDEX 00 16:18:25
+    INDEX 01 16:19:25
+  TRACK 06 AUDIO
+    TITLE "Magic"
+    INDEX 00 19:48:12
+    INDEX 01 19:49:50
+  TRACK 07 AUDIO
+    TITLE "Suddenly"
+    INDEX 00 24:18:25
+    INDEX 01 24:20:12
+  TRACK 08 AUDIO
+    TITLE "Dancin'"
+    INDEX 00 28:20:37
+    INDEX 01 28:21:50
+  TRACK 09 AUDIO
+    TITLE "Suspended In Time"
+    INDEX 00 33:37:25
+    INDEX 01 33:38:37
+  TRACK 10 AUDIO
+    TITLE "Whenever You're Away From Me"
+    INDEX 01 37:32:25

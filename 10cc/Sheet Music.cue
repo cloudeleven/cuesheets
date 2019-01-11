@@ -1,0 +1,46 @@
+TITLE "Sheet Music"
+PERFORMER "10cc"
+REM GENRE "Rock"
+REM DATE "1974"
+REM DISCID 7B08DC0A
+FILE "Sheet Music.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "The Wall Street Shuffle"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:33
+  TRACK 02 AUDIO
+    TITLE "The Worst Band In The World"
+    INDEX 00 03:53:03
+    INDEX 01 03:55:58
+  TRACK 03 AUDIO
+    TITLE "Hotel"
+    INDEX 00 06:42:38
+    INDEX 01 06:44:00
+  TRACK 04 AUDIO
+    TITLE "Old Wild Men"
+    INDEX 00 11:38:70
+    INDEX 01 11:41:35
+  TRACK 05 AUDIO
+    TITLE "Clockwork Creep"
+    INDEX 00 15:00:60
+    INDEX 01 15:04:45
+  TRACK 06 AUDIO
+    TITLE "Silly Love"
+    INDEX 00 17:48:00
+    INDEX 01 17:51:03
+  TRACK 07 AUDIO
+    TITLE "Somewhere In Hollywood"
+    INDEX 00 21:50:15
+    INDEX 01 21:53:15
+  TRACK 08 AUDIO
+    TITLE "Baron Samedi"
+    INDEX 00 28:30:20
+    INDEX 01 28:34:15
+  TRACK 09 AUDIO
+    TITLE "The Sacro-Iliac"
+    INDEX 00 32:17:58
+    INDEX 01 32:22:73
+  TRACK 10 AUDIO
+    TITLE "Oh Effendi"
+    INDEX 00 34:53:65
+    INDEX 01 34:57:58

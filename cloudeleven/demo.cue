@@ -1,0 +1,19 @@
+TITLE "demo"
+PERFORMER "angelicalbite"
+REM DISCID 2C034A04
+FILE "demo.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "The Way We Were"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "The Attractive"
+    INDEX 00 03:31:37
+    INDEX 01 03:33:37
+  TRACK 03 AUDIO
+    TITLE "Hit & Run"
+    INDEX 00 07:24:58
+    INDEX 01 07:26:58
+  TRACK 04 AUDIO
+    TITLE "The Lovely Weather"
+    INDEX 00 11:29:58
+    INDEX 01 11:31:58

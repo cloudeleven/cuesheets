@@ -1,0 +1,66 @@
+TITLE "Goodbye Blue Sky + 5 (remastered in 2006)"
+PERFORMER "Godley & Creme"
+CATALOG 0602498395233
+REM GENRE "Progressive Rock"
+REM DATE "2006"
+REM DISCID E20F860F
+FILE "Goodbye Blue Sky + 5 (remastered in 2006).flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "H.E.A.V.E.N."
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Don't Set Fire (To The One I Love)"
+    INDEX 00 05:04:40
+    INDEX 01 05:05:74
+  TRACK 03 AUDIO
+    TITLE "Golden Rings"
+    INDEX 00 08:31:48
+    INDEX 01 08:33:36
+  TRACK 04 AUDIO
+    TITLE "Crime & Punishment"
+    INDEX 00 12:47:59
+    INDEX 01 12:50:45
+  TRACK 05 AUDIO
+    TITLE "The Big Bang"
+    INDEX 00 20:12:18
+    INDEX 01 20:12:62
+  TRACK 06 AUDIO
+    TITLE "10.000 Angels"
+    INDEX 00 22:43:05
+    INDEX 01 22:45:18
+  TRACK 07 AUDIO
+    TITLE "Sweet Memory"
+    INDEX 00 28:00:24
+    INDEX 01 28:01:54
+  TRACK 08 AUDIO
+    TITLE "Airforce One"
+    INDEX 00 32:51:51
+    INDEX 01 32:52:30
+  TRACK 09 AUDIO
+    TITLE "The Last Page Of History"
+    INDEX 00 36:31:08
+    INDEX 01 36:33:00
+  TRACK 10 AUDIO
+    TITLE "Desperate Times"
+    INDEX 00 40:32:60
+    INDEX 01 40:34:67
+  TRACK 11 AUDIO
+    TITLE "A Little Piece Of Heaven (Extended Mix)"
+    INDEX 00 44:13:40
+    INDEX 01 44:16:27
+  TRACK 12 AUDIO
+    TITLE "Bits Of Blue Sky"
+    INDEX 00 50:23:18
+    INDEX 01 50:24:70
+  TRACK 13 AUDIO
+    TITLE "Hidden Heartbeat"
+    INDEX 00 56:10:32
+    INDEX 01 56:11:19
+  TRACK 14 AUDIO
+    TITLE "Rhino Rhino"
+    INDEX 00 60:43:16
+    INDEX 01 60:45:03
+  TRACK 15 AUDIO
+    TITLE "Can't Sleep"
+    INDEX 00 64:04:36
+    INDEX 01 64:06:23

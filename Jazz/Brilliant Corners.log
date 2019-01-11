@@ -1,0 +1,128 @@
+X Lossless Decoder version 20110502 (132.0)
+
+XLD extraction logfile from 2011-05-03 21:59:23 +0900
+
+Thelonious Monk / Brilliant Corners
+
+Used drive : MATSHITA DVD-R   UJ-868 (revision KB19)
+
+Ripper mode             : CDParanoia III 10.2
+Disable audio cache     : OK for the drive with a cache less than 2750KiB
+Make use of C2 pointers : NO
+Read offset correction  : 102
+Max retry count         : 100
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 07:45:01 |         0    |    34875   
+        2  | 07:45:01 | 13:09:33 |     34876    |    94083   
+        3  | 20:54:34 | 08:50:65 |     94084    |   133898   
+        4  | 29:45:24 | 05:28:00 |    133899    |   158498   
+        5  | 35:13:24 | 07:43:26 |    158499    |   193249   
+
+AccurateRip Summary
+    Track 01 : OK (confidence 2)
+    Track 02 : OK (confidence 2)
+    Track 03 : OK (confidence 2)
+    Track 04 : OK (confidence 2)
+    Track 05 : OK (confidence 2)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Users/m4c/Public/flac/Brilliant Corners.flac
+    CRC32 hash             : AD2658B6
+    CRC32 hash (skip zero) : B3A62E6E
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash             : 71E5C382
+    CRC32 hash (skip zero) : EBFC4F65
+    AccurateRip signature  : 15AC1B26
+        ->Accurately ripped! (confidence 2)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 02
+    Pre-gap length : 00:01:06
+
+    CRC32 hash             : BB80059B
+    CRC32 hash (skip zero) : 3C204E88
+    AccurateRip signature  : 94BC8ED9
+        ->Accurately ripped! (confidence 2)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 03
+    Pre-gap length : 00:01:37
+
+    CRC32 hash             : BB77D6FF
+    CRC32 hash (skip zero) : 5C2A24A2
+    AccurateRip signature  : A0012CE5
+        ->Accurately ripped! (confidence 2)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 04
+    Pre-gap length : 00:01:22
+
+    CRC32 hash             : CD145E9E
+    CRC32 hash (skip zero) : 12F8BF96
+    AccurateRip signature  : 02091CA8
+        ->Accurately ripped! (confidence 2)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 05
+    Pre-gap length : 00:01:62
+
+    CRC32 hash             : 30FEA459
+    CRC32 hash (skip zero) : A9B27BC8
+    AccurateRip signature  : 512AFDC3
+        ->Accurately ripped! (confidence 2)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+No errors occurred
+
+End of status report

@@ -1,0 +1,84 @@
+TITLE "Best Now"
+PERFORMER "Eddie Cochran"
+REM DATE "1993"
+REM DISCID 0D0A6C14
+FILE "Best Now.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Sittin' In The Balcony"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Skinny Jim"
+    INDEX 00 01:59:47
+    INDEX 01 02:02:22
+  TRACK 03 AUDIO
+    TITLE "Mean When I'm Mad"
+    INDEX 00 04:14:00
+    INDEX 01 04:16:50
+  TRACK 04 AUDIO
+    TITLE "Drive In Show"
+    INDEX 00 06:10:42
+    INDEX 01 06:13:17
+  TRACK 05 AUDIO
+    TITLE "Twenty Flight Rock"
+    INDEX 00 08:18:20
+    INDEX 01 08:20:70
+  TRACK 06 AUDIO
+    TITLE "Jeanie, Jeanie, Jeanie"
+    INDEX 00 10:04:52
+    INDEX 01 10:07:27
+  TRACK 07 AUDIO
+    TITLE "Pretty Girl"
+    INDEX 00 12:29:37
+    INDEX 01 12:32:12
+  TRACK 08 AUDIO
+    TITLE "C'mon Everybody"
+    INDEX 00 14:26:07
+    INDEX 01 14:28:57
+  TRACK 09 AUDIO
+    TITLE "Teenage Heaven"
+    INDEX 00 16:24:70
+    INDEX 01 16:27:45
+  TRACK 10 AUDIO
+    TITLE "Somethin' Else"
+    INDEX 00 18:35:17
+    INDEX 01 18:37:67
+  TRACK 11 AUDIO
+    TITLE "Summertime Blues"
+    INDEX 00 20:45:50
+    INDEX 01 20:48:25
+  TRACK 12 AUDIO
+    TITLE "Hallelujah I Love Her So"
+    INDEX 00 22:46:07
+    INDEX 01 22:48:57
+  TRACK 13 AUDIO
+    TITLE "Three Steps To Heaven"
+    INDEX 00 25:06:55
+    INDEX 01 25:09:30
+  TRACK 14 AUDIO
+    TITLE "Nervous Breakdown"
+    INDEX 00 27:31:57
+    INDEX 01 27:34:32
+  TRACK 15 AUDIO
+    TITLE "Eddie's Blues"
+    INDEX 00 29:53:57
+    INDEX 01 29:56:32
+  TRACK 16 AUDIO
+    TITLE "Pink-Peg Slacks"
+    INDEX 00 33:54:52
+    INDEX 01 33:57:27
+  TRACK 17 AUDIO
+    TITLE "Milk Cow Blues"
+    INDEX 00 36:07:02
+    INDEX 01 36:09:52
+  TRACK 18 AUDIO
+    TITLE "Blue Suede Shoes"
+    INDEX 00 38:50:67
+    INDEX 01 38:53:42
+  TRACK 19 AUDIO
+    TITLE "Weekend"
+    INDEX 00 40:42:10
+    INDEX 01 40:44:60
+  TRACK 20 AUDIO
+    TITLE "Cut Across Shorty"
+    INDEX 00 42:36:52
+    INDEX 01 42:39:27

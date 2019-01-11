@@ -1,0 +1,200 @@
+X Lossless Decoder version 20110417 (131.0)
+
+XLD extraction logfile from 2011-05-02 15:36:35 +0900
+
+Ornette Coleman / Tomorrow is the Question
+
+Used drive : HL-DT-ST BD-RE  BH10NS30 (revision EL00)
+
+Ripper mode             : CDParanoia III 10.2
+Disable audio cache     : OK for the drive with a cache less than 2750KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 100
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:12:47 |         0    |    14446   
+        2  | 03:12:47 | 05:04:48 |     14447    |    37294   
+        3  | 08:17:20 | 03:11:52 |     37295    |    51671   
+        4  | 11:28:72 | 04:39:53 |     51672    |    72649   
+        5  | 16:08:50 | 03:22:67 |     72650    |    87866   
+        6  | 19:31:42 | 04:03:48 |     87867    |   106139   
+        7  | 23:35:15 | 05:59:15 |    106140    |   133079   
+        8  | 29:34:30 | 07:58:32 |    133080    |   168961   
+        9  | 37:32:62 | 05:17:38 |    168962    |   192774   
+
+AccurateRip Summary
+    Track 01 : NG
+    Track 02 : NG
+    Track 03 : NG
+    Track 04 : NG
+    Track 05 : NG
+    Track 06 : NG
+    Track 07 : NG
+    Track 08 : NG
+    Track 09 : NG
+        ->0 track(s) accurately ripped, 9 track(s) not, 0 track(s) not found
+
+All Tracks
+    Filename : /Users/angelicalbite/Music/flac/Tomorrow is the Question.flac
+    CRC32 hash             : AF4BCB19
+    CRC32 hash (skip zero) : 0E56DCBE
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash             : 6EBCF329
+    CRC32 hash (skip zero) : 0FFEC07E
+    AccurateRip signature  : 8BCFE568
+        ->Rip may not be accurate.
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 02
+    Pre-gap length : 00:03:02
+
+    CRC32 hash             : 883182A5
+    CRC32 hash (skip zero) : 61B280BC
+    AccurateRip signature  : EA5E5812
+        ->Rip may not be accurate.
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 03
+    Pre-gap length : 00:03:15
+
+    CRC32 hash             : 8241BD3B
+    CRC32 hash (skip zero) : 1DA8D6C3
+    AccurateRip signature  : 8293AEEB
+        ->Rip may not be accurate.
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 04
+    Pre-gap length : 00:03:52
+
+    CRC32 hash             : 568B9E4B
+    CRC32 hash (skip zero) : A2F7E023
+    AccurateRip signature  : 89E6B57E
+        ->Rip may not be accurate.
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 05
+    Pre-gap length : 00:03:23
+
+    CRC32 hash             : D7C3D7C5
+    CRC32 hash (skip zero) : 01AE2389
+    AccurateRip signature  : CB74102B
+        ->Rip may not be accurate.
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 06
+    Pre-gap length : 00:03:52
+
+    CRC32 hash             : CFD9F72A
+    CRC32 hash (skip zero) : 45561CF9
+    AccurateRip signature  : D08433CD
+        ->Rip may not be accurate.
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 07
+    Pre-gap length : 00:03:43
+
+    CRC32 hash             : 2AE87EDD
+    CRC32 hash (skip zero) : 807658B5
+    AccurateRip signature  : E5D47AB9
+        ->Rip may not be accurate.
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 08
+    Pre-gap length : 00:03:03
+
+    CRC32 hash             : 470C92E9
+    CRC32 hash (skip zero) : D3D3367B
+    AccurateRip signature  : F108DD7C
+        ->Rip may not be accurate.
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 09
+    Pre-gap length : 00:03:62
+
+    CRC32 hash             : 95E4D705
+    CRC32 hash (skip zero) : 38439683
+    AccurateRip signature  : A080AC39
+        ->Rip may not be accurate.
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+No errors occurred
+
+End of status report

@@ -1,0 +1,65 @@
+TITLE "Blue Yonder"
+PERFORMER "Pilot"
+REM GENRE "Rock"
+REM DATE "2002"
+REM DISCID 9B0BC10C
+FILE "Blue Yonder.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Get Up and Go"
+    FLAGS DCP
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Library Door"
+    FLAGS DCP
+    INDEX 00 03:52:65
+    INDEX 01 03:54:65
+  TRACK 03 AUDIO
+    TITLE "Creeping 'round at Midnight"
+    FLAGS DCP
+    INDEX 00 07:41:37
+    INDEX 01 07:43:37
+  TRACK 04 AUDIO
+    TITLE "One Good Reason Why"
+    FLAGS DCP
+    INDEX 00 10:56:49
+    INDEX 01 10:58:49
+  TRACK 05 AUDIO
+    TITLE "There's a Place"
+    FLAGS DCP
+    INDEX 00 14:48:60
+    INDEX 01 14:50:60
+  TRACK 06 AUDIO
+    TITLE "I Wonder"
+    FLAGS DCP
+    INDEX 00 18:45:40
+    INDEX 01 18:47:40
+  TRACK 07 AUDIO
+    TITLE "Monday Tuesday"
+    FLAGS DCP
+    INDEX 00 22:43:11
+    INDEX 01 22:45:11
+  TRACK 08 AUDIO
+    TITLE "Ten Feet Tall"
+    FLAGS DCP
+    INDEX 00 26:41:03
+    INDEX 01 26:43:03
+  TRACK 09 AUDIO
+    TITLE "Evil Eye"
+    FLAGS DCP
+    INDEX 00 30:48:04
+    INDEX 01 30:50:04
+  TRACK 10 AUDIO
+    TITLE "When the Sun Comes"
+    FLAGS DCP
+    INDEX 00 34:59:11
+    INDEX 01 35:01:11
+  TRACK 11 AUDIO
+    TITLE "Lovely Lady Smile"
+    FLAGS DCP
+    INDEX 00 38:50:05
+    INDEX 01 38:52:05
+  TRACK 12 AUDIO
+    TITLE "Hold Me (Pilot Live in 1975)"
+    FLAGS DCP
+    INDEX 00 43:01:54
+    INDEX 01 43:03:54

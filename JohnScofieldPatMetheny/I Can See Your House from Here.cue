@@ -1,0 +1,50 @@
+TITLE "I Can See Your House from Here"
+PERFORMER "John Scofield & Pat Metheny"
+CATALOG 0724382776529
+REM GENRE "Jazz"
+REM DATE "1993"
+REM DISCID A810580B
+FILE "I Can See Your House from Here.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "I Can See Your House from Here"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "The Red One"
+    INDEX 00 07:47:00
+    INDEX 01 07:47:05
+  TRACK 03 AUDIO
+    TITLE "No Matter What"
+    INDEX 00 12:04:63
+    INDEX 01 12:06:33
+  TRACK 04 AUDIO
+    TITLE "Everybody's Party"
+    INDEX 00 19:23:08
+    INDEX 01 19:24:53
+  TRACK 05 AUDIO
+    TITLE "Message to My Friend"
+    INDEX 00 25:41:60
+    INDEX 01 25:44:40
+  TRACK 06 AUDIO
+    TITLE "No Way Jose"
+    INDEX 00 31:55:58
+    INDEX 01 31:57:60
+  TRACK 07 AUDIO
+    TITLE "Say the Brother's Name"
+    INDEX 00 39:15:68
+    INDEX 01 39:18:73
+  TRACK 08 AUDIO
+    TITLE "S.C.O."
+    INDEX 00 46:39:53
+    INDEX 01 46:41:05
+  TRACK 09 AUDIO
+    TITLE "Quiet Rising"
+    INDEX 00 51:25:38
+    INDEX 01 51:26:55
+  TRACK 10 AUDIO
+    TITLE "One Way To Be"
+    INDEX 00 56:52:28
+    INDEX 01 56:55:38
+  TRACK 11 AUDIO
+    TITLE "You Speak My Language"
+    INDEX 00 62:41:60
+    INDEX 01 62:44:40

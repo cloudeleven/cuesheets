@@ -1,0 +1,47 @@
+TITLE "Love For All"
+PERFORMER "Lilac Time"
+REM DISCID A00A160C
+FILE "Love For All.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Fields"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:37
+  TRACK 02 AUDIO
+    TITLE "All For Love & Love For All"
+    INDEX 01 05:21:49
+  TRACK 03 AUDIO
+    TITLE "Let Our Land Be The One"
+    INDEX 00 08:46:13
+    INDEX 01 08:48:29
+  TRACK 04 AUDIO
+    TITLE "I Went To The Dance"
+    INDEX 00 11:58:25
+    INDEX 01 11:59:57
+  TRACK 05 AUDIO
+    TITLE "Wait & See"
+    INDEX 00 15:57:63
+    INDEX 01 15:59:24
+  TRACK 06 AUDIO
+    TITLE "Honest To God"
+    INDEX 01 19:57:74
+  TRACK 07 AUDIO
+    TITLE "The Laundry"
+    INDEX 00 21:23:25
+    INDEX 01 21:27:12
+  TRACK 08 AUDIO
+    TITLE "Paper Boat"
+    INDEX 00 25:02:00
+    INDEX 01 25:04:12
+  TRACK 09 AUDIO
+    TITLE "Skabaskibilio"
+    INDEX 00 28:00:13
+    INDEX 01 28:02:12
+  TRACK 10 AUDIO
+    TITLE "It'll End In Tears (I Won't Cry)"
+    INDEX 01 29:32:69
+  TRACK 11 AUDIO
+    TITLE "Trinity"
+    INDEX 01 33:56:69
+  TRACK 12 AUDIO
+    TITLE "And On We Go"
+    INDEX 01 36:56:12

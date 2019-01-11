@@ -1,0 +1,76 @@
+TITLE "async"
+PERFORMER "Ryuichi Sakamoto"
+REM GENRE "New Age"
+REM DATE "2017"
+REM DISCID CE0E350E
+FILE "Ryuichi Sakamoto - async.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "andata"
+    PERFORMER "Ryuichi Sakamoto"
+    ISRC JPB601700371
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "disintegration"
+    PERFORMER "Ryuichi Sakamoto"
+    ISRC JPB601700372
+    INDEX 01 04:39:35
+  TRACK 03 AUDIO
+    TITLE "solari"
+    PERFORMER "Ryuichi Sakamoto"
+    ISRC JPB601700373
+    INDEX 01 10:25:67
+  TRACK 04 AUDIO
+    TITLE "ZURE"
+    PERFORMER "Ryuichi Sakamoto"
+    ISRC JPB601700374
+    INDEX 01 14:17:73
+  TRACK 05 AUDIO
+    TITLE "walker"
+    PERFORMER "Ryuichi Sakamoto"
+    ISRC JPB601700375
+    INDEX 01 19:29:52
+  TRACK 06 AUDIO
+    TITLE "stakra"
+    PERFORMER "Ryuichi Sakamoto"
+    ISRC JPB601700376
+    INDEX 01 23:49:70
+  TRACK 07 AUDIO
+    TITLE "ubi"
+    PERFORMER "Ryuichi Sakamoto"
+    ISRC JPB601700377
+    INDEX 01 27:31:09
+  TRACK 08 AUDIO
+    TITLE "fullmoon"
+    PERFORMER "Ryuichi Sakamoto"
+    ISRC JPB601700378
+    INDEX 01 31:34:23
+  TRACK 09 AUDIO
+    TITLE "async"
+    PERFORMER "Ryuichi Sakamoto"
+    ISRC JPB601700379
+    INDEX 01 36:47:46
+  TRACK 10 AUDIO
+    TITLE "tri"
+    PERFORMER "Ryuichi Sakamoto"
+    ISRC JPB601700380
+    INDEX 01 39:32:22
+  TRACK 11 AUDIO
+    TITLE "Life, Life"
+    PERFORMER "Ryuichi Sakamoto"
+    ISRC JPB601700381
+    INDEX 01 43:01:15
+  TRACK 12 AUDIO
+    TITLE "honj"
+    PERFORMER "Ryuichi Sakamoto"
+    ISRC JPB601700382
+    INDEX 01 47:24:58
+  TRACK 13 AUDIO
+    TITLE "ff"
+    PERFORMER "Ryuichi Sakamoto"
+    ISRC JPB601700383
+    INDEX 01 51:06:29
+  TRACK 14 AUDIO
+    TITLE "garden"
+    PERFORMER "Ryuichi Sakamoto"
+    ISRC JPB601700384
+    INDEX 01 56:18:74

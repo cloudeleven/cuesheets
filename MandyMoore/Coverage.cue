@@ -1,0 +1,66 @@
+TITLE "Coverage"
+PERFORMER "Mandy Moore"
+REM GENRE "Pop"
+REM DATE "2003"
+REM DISCID 9C0ADC0C
+FILE "Coverage.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Senses Working Overtime"
+    PERFORMER "Mandy Moore"
+    ISRC USSM10306675
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "The Whole of the Moon"
+    PERFORMER "Mandy Moore"
+    ISRC USSM10306676
+    INDEX 01 04:08:65
+  TRACK 03 AUDIO
+    TITLE "Can We Still Be Friends?"
+    PERFORMER "Mandy Moore"
+    ISRC USSM10306677
+    INDEX 01 09:10:42
+  TRACK 04 AUDIO
+    TITLE "I Feel the Earth Move"
+    PERFORMER "Mandy Moore"
+    ISRC USSM10306678
+    INDEX 01 12:48:37
+  TRACK 05 AUDIO
+    TITLE "Mona Lisas and Mad Hatters"
+    PERFORMER "Mandy Moore"
+    ISRC USSM10306679
+    INDEX 01 15:56:30
+  TRACK 06 AUDIO
+    TITLE "Drop the Pilot"
+    PERFORMER "Mandy Moore"
+    ISRC USSM10306680
+    INDEX 01 20:46:02
+  TRACK 07 AUDIO
+    TITLE "Moonshadow"
+    PERFORMER "Mandy Moore"
+    ISRC USSM10306681
+    INDEX 01 24:29:40
+  TRACK 08 AUDIO
+    TITLE "One Way or Another"
+    PERFORMER "Mandy Moore"
+    ISRC USSM10306682
+    INDEX 01 27:29:27
+  TRACK 09 AUDIO
+    TITLE "Breaking Us in Two"
+    PERFORMER "Mandy Moore"
+    ISRC USSM10306683
+    INDEX 01 31:00:65
+  TRACK 10 AUDIO
+    TITLE "Anticipation"
+    PERFORMER "Mandy Moore"
+    ISRC USSM10306684
+    INDEX 01 35:27:30
+  TRACK 11 AUDIO
+    TITLE "Help Me"
+    PERFORMER "Mandy Moore"
+    ISRC USSM10306685
+    INDEX 01 38:48:34
+  TRACK 12 AUDIO
+    TITLE "Have a Little Faith in Me"
+    PERFORMER "Mandy Moore"
+    ISRC USSM10306686
+    INDEX 01 42:17:72

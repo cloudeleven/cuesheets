@@ -1,0 +1,29 @@
+TITLE "Real Love"
+PERFORMER "The Beatles"
+CATALOG 0724388264624
+REM GENRE "Rock"
+REM DATE "1996"
+REM DISCNUMBER 1
+REM TOTALDISCS 1
+REM DISCID 2B02DB04
+FILE "Real Love.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Real Love"
+    SONGWRITER "John Lennon"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:32
+  TRACK 02 AUDIO
+    TITLE "Baby's In Black"
+    SONGWRITER "John Lennon"
+    INDEX 00 03:54:25
+    INDEX 01 03:55:62
+  TRACK 03 AUDIO
+    TITLE "Yellow Submarine"
+    SONGWRITER "Lennon-McCartney"
+    INDEX 00 06:59:10
+    INDEX 01 06:59:45
+  TRACK 04 AUDIO
+    TITLE "Here, There and Everywhere"
+    SONGWRITER "Paul McCartney"
+    INDEX 00 09:46:70
+    INDEX 01 09:47:47

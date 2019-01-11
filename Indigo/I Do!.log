@@ -1,0 +1,92 @@
+X Lossless Decoder version 20110417 (131.0)
+
+XLD extraction logfile from 2011-04-30 23:43:31 +0900
+
+The Indigo / I Do!
+
+Used drive : MATSHITA DVD-R   UJ-868 (revision KB19)
+
+Ripper mode             : CDParanoia III 10.2
+Disable audio cache     : OK for the drive with a cache less than 2750KiB
+Make use of C2 pointers : NO
+Read offset correction  : 102
+Max retry count         : 100
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:59:30 |         0    |    17954   
+        2  | 03:59:30 | 03:44:45 |     17955    |    34799   
+        3  | 07:44:00 | 03:14:25 |     34800    |    49374   
+
+AccurateRip Summary
+    Track 01 : OK (confidence 3)
+    Track 02 : OK (confidence 3)
+    Track 03 : OK (confidence 3)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Users/m4c/Public/flac/I Do!.flac
+    CRC32 hash             : 6424E1EB
+    CRC32 hash (skip zero) : AA241493
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash             : 6622BCC9
+    CRC32 hash (skip zero) : 48D4658C
+    AccurateRip signature  : 7F358DC1
+        ->Accurately ripped! (confidence 3)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 02
+    Pre-gap length : 00:02:43
+
+    CRC32 hash             : 5056EDD8
+    CRC32 hash (skip zero) : 4C2273EA
+    AccurateRip signature  : FEA2EECC
+        ->Accurately ripped! (confidence 3)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 03
+    Pre-gap length : 00:02:48
+
+    CRC32 hash             : 437E6161
+    CRC32 hash (skip zero) : 79A49A05
+    AccurateRip signature  : D7F32B02
+        ->Accurately ripped! (confidence 3)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+No errors occurred
+
+End of status report

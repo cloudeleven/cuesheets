@@ -1,0 +1,56 @@
+TITLE "地球的病気 -We are the d.e.p-"
+PERFORMER "The d.e.p"
+REM GENRE "New Age"
+REM DATE "2001"
+REM DISCID 7909D40A
+FILE "地球的病気 -We are the d.e.p-.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "What is the question"
+    PERFORMER "The d.e.p"
+    ISRC JPSR00101264
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "良薬苦口"
+    PERFORMER "The d.e.p"
+    ISRC JPSR00101265
+    INDEX 01 01:55:65
+  TRACK 03 AUDIO
+    TITLE "蜂蜜色の宙"
+    PERFORMER "The d.e.p"
+    ISRC JPSR00101266
+    INDEX 01 07:18:07
+  TRACK 04 AUDIO
+    TITLE "Mr. No Problem"
+    PERFORMER "The d.e.p"
+    ISRC JPSR00100281
+    INDEX 01 12:04:37
+  TRACK 05 AUDIO
+    TITLE "run and cry"
+    PERFORMER "The d.e.p"
+    ISRC JPSR00101267
+    INDEX 01 16:19:02
+  TRACK 06 AUDIO
+    TITLE "Frozen Tears"
+    PERFORMER "The d.e.p"
+    ISRC JPSR00101268
+    INDEX 01 20:09:25
+  TRACK 07 AUDIO
+    TITLE "地球のいい子"
+    PERFORMER "The d.e.p"
+    ISRC JPSR00101269
+    INDEX 01 24:48:50
+  TRACK 08 AUDIO
+    TITLE "Spider's Life"
+    PERFORMER "The d.e.p"
+    ISRC JPSR00101270
+    INDEX 01 29:08:65
+  TRACK 09 AUDIO
+    TITLE "太陽と月"
+    PERFORMER "The d.e.p"
+    ISRC JPSR00101271
+    INDEX 01 32:31:37
+  TRACK 10 AUDIO
+    TITLE "想要 Happy"
+    PERFORMER "The d.e.p"
+    ISRC JPSR00101272
+    INDEX 01 37:56:37

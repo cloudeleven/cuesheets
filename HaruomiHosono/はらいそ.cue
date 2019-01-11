@@ -1,0 +1,32 @@
+TITLE "はらいそ"
+PERFORMER "Haruomi Hosono"
+REM DATE "1978"
+REM DISCID 6C081809
+FILE "はらいそ.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "東京ラッシュ"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "四面道歌"
+    INDEX 01 03:31:07
+  TRACK 03 AUDIO
+    TITLE "ジャパニーズ･ルンバ"
+    INDEX 01 08:15:37
+  TRACK 04 AUDIO
+    TITLE "安里屋ユンタ"
+    INDEX 01 11:49:40
+  TRACK 05 AUDIO
+    TITLE "フジヤマ･ママ"
+    INDEX 01 14:04:07
+  TRACK 06 AUDIO
+    TITLE "ファム･ファタール〜妖婦"
+    INDEX 01 16:53:57
+  TRACK 07 AUDIO
+    TITLE "シャンバラ通信"
+    INDEX 01 21:53:52
+  TRACK 08 AUDIO
+    TITLE "ウォリー･ビーズ"
+    INDEX 01 25:29:62
+  TRACK 09 AUDIO
+    TITLE "はらいそ"
+    INDEX 01 29:57:35

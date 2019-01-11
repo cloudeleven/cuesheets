@@ -1,0 +1,42 @@
+TITLE "Balance Of Power"
+PERFORMER "Electric Light Orchestra"
+REM GENRE "Rock"
+REM DATE "1986"
+REM DISCID 6C081B0A
+FILE "Balance Of Power.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Heaven Only Knows"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "So Serious"
+    INDEX 00 02:55:62
+    INDEX 01 02:56:32
+  TRACK 03 AUDIO
+    TITLE "Getting To The Point"
+    INDEX 00 05:39:55
+    INDEX 01 05:40:10
+  TRACK 04 AUDIO
+    TITLE "Secret Lives"
+    INDEX 00 10:09:62
+    INDEX 01 10:10:42
+  TRACK 05 AUDIO
+    TITLE "Is It Alright"
+    INDEX 01 13:39:47
+  TRACK 06 AUDIO
+    TITLE "Sorrow About To Fall"
+    INDEX 01 17:04:22
+  TRACK 07 AUDIO
+    TITLE "Without Someone"
+    INDEX 00 21:08:32
+    INDEX 01 21:08:40
+  TRACK 08 AUDIO
+    TITLE "Calling America"
+    INDEX 00 24:59:10
+    INDEX 01 24:59:45
+  TRACK 09 AUDIO
+    TITLE "Endless Lies"
+    INDEX 01 28:28:17
+  TRACK 10 AUDIO
+    TITLE "Send It"
+    INDEX 00 31:26:00
+    INDEX 01 31:27:55

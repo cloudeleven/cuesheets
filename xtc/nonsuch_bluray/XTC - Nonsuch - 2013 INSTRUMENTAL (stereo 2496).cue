@@ -1,0 +1,95 @@
+TITLE "Nonsuch - 2013 INSTRUMENTAL (stereo 2496)"
+PERFORMER "XTC"
+REM GENRE "Pop"
+REM DATE "2013-11-04"
+FILE "XTC - Nonsuch - 2013 INSTRUMENTAL (stereo 2496).flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "The Ballad of Peter Pumpkinhead - 2013 INSTRUMENTAL (stereo 2496)"
+    PERFORMER "XTC"
+    SONGWRITER "Andy Partridge"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "My Bird Performs - 2013 INSTRUMENTAL (stereo 2496)"
+    PERFORMER "XTC"
+    SONGWRITER "Colin Moulding"
+    INDEX 01 05:03:22
+  TRACK 03 AUDIO
+    TITLE "Dear Madam Barnum - 2013 INSTRUMENTAL (stereo 2496)"
+    PERFORMER "XTC"
+    SONGWRITER "Andy Partridge"
+    INDEX 01 09:02:40
+  TRACK 04 AUDIO
+    TITLE "Humble Daisy - 2013 INSTRUMENTAL (stereo 2496)"
+    PERFORMER "XTC"
+    SONGWRITER "Andy Partridge"
+    INDEX 01 11:57:53
+  TRACK 05 AUDIO
+    TITLE "The Smartest Monkeys - 2013 INSTRUMENTAL (stereo 2496)"
+    PERFORMER "XTC"
+    SONGWRITER "Colin Moulding"
+    INDEX 01 15:39:70
+  TRACK 06 AUDIO
+    TITLE "The Disappointed - 2013 INSTRUMENTAL (stereo 2496)"
+    PERFORMER "XTC"
+    SONGWRITER "Andy Partridge"
+    INDEX 01 20:09:15
+  TRACK 07 AUDIO
+    TITLE "Holly Up On Poppy - 2013 INSTRUMENTAL (stereo 2496)"
+    PERFORMER "XTC"
+    SONGWRITER "Andy Partridge"
+    INDEX 01 23:46:31
+  TRACK 08 AUDIO
+    TITLE "Crocodile - 2013 INSTRUMENTAL (stereo 2496)"
+    PERFORMER "XTC"
+    SONGWRITER "Andy Partridge"
+    INDEX 01 26:55:46
+  TRACK 09 AUDIO
+    TITLE "Rook - 2013 INSTRUMENTAL (stereo 2496)"
+    PERFORMER "XTC"
+    SONGWRITER "Andy Partridge"
+    INDEX 01 30:59:64
+  TRACK 10 AUDIO
+    TITLE "Omnibus - 2013 INSTRUMENTAL (stereo 2496)"
+    PERFORMER "XTC"
+    SONGWRITER "Andy Partridge"
+    INDEX 01 34:51:06
+  TRACK 11 AUDIO
+    TITLE "That Wave - 2013 INSTRUMENTAL (stereo 2496)"
+    PERFORMER "XTC"
+    SONGWRITER "Andy Partridge"
+    INDEX 01 38:22:22
+  TRACK 12 AUDIO
+    TITLE "Then She Appeared - 2013 INSTRUMENTAL (stereo 2496)"
+    PERFORMER "XTC"
+    SONGWRITER "Andy Partridge"
+    INDEX 01 42:09:39
+  TRACK 13 AUDIO
+    TITLE "War Dance - 2013 INSTRUMENTAL (stereo 2496)"
+    PERFORMER "XTC"
+    SONGWRITER "Colin Moulding"
+    INDEX 01 46:15:57
+  TRACK 14 AUDIO
+    TITLE "Wrapped In Grey - 2013 INSTRUMENTAL (stereo 2496)"
+    PERFORMER "XTC"
+    SONGWRITER "Andy Partridge"
+    INDEX 01 49:39:73
+  TRACK 15 AUDIO
+    TITLE "The Ugly Underneath - 2013 INSTRUMENTAL (stereo 2496)"
+    PERFORMER "XTC"
+    SONGWRITER "Andy Partridge"
+    INDEX 01 53:30:15
+  TRACK 16 AUDIO
+    TITLE "Bungalow - 2013 INSTRUMENTAL (stereo 2496)"
+    PERFORMER "XTC"
+    SONGWRITER "Colin Moulding"
+    INDEX 01 57:28:33
+  TRACK 17 AUDIO
+    TITLE "Books Are Burning - 2013 INSTRUMENTAL (stereo 2496)"
+    PERFORMER "XTC"
+    SONGWRITER "Andy Partridge"
+    INDEX 01 60:22:46
+  TRACK 18 AUDIO
+    TITLE "Didn't Hurt A Bit - 2013 INSTRUMENTAL (stereo 2496)"
+    PERFORMER "XTC"
+    SONGWRITER "Colin Moulding"
+    INDEX 01 65:31:69

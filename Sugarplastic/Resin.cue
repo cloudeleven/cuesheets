@@ -1,0 +1,82 @@
+TITLE "Resin"
+PERFORMER "The Sugarplastic"
+REM GENRE "Rock"
+REM DATE "2001"
+REM DISCID 160AEC13
+FILE "Resin.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Big World"
+    FLAGS DCP
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Dunn The Worm"
+    FLAGS DCP
+    INDEX 01 01:13:01
+  TRACK 03 AUDIO
+    TITLE "Talk Back"
+    FLAGS DCP
+    INDEX 01 05:25:53
+  TRACK 04 AUDIO
+    TITLE "Oh Leo"
+    FLAGS DCP
+    INDEX 01 08:13:22
+  TRACK 05 AUDIO
+    TITLE "Little Ash Statue"
+    FLAGS DCP
+    INDEX 01 10:51:17
+  TRACK 06 AUDIO
+    TITLE "Rosy Malarkey"
+    FLAGS DCP
+    INDEX 01 12:44:08
+  TRACK 07 AUDIO
+    TITLE "Folk"
+    FLAGS DCP
+    INDEX 01 14:53:24
+  TRACK 08 AUDIO
+    TITLE "Funny Cigarettes"
+    FLAGS DCP
+    INDEX 01 17:07:32
+  TRACK 09 AUDIO
+    TITLE "Odium"
+    FLAGS DCP
+    INDEX 01 17:45:27
+  TRACK 10 AUDIO
+    TITLE "Intermission"
+    FLAGS DCP
+    INDEX 01 21:35:46
+  TRACK 11 AUDIO
+    TITLE "Ben Talks a Walk To Lose Company and On The Way He Sees Some Ice Skates"
+    FLAGS DCP
+    INDEX 01 22:11:66
+  TRACK 12 AUDIO
+    TITLE "Tamarind Tree"
+    FLAGS DCP
+    INDEX 01 23:58:56
+  TRACK 13 AUDIO
+    TITLE "Novelty Man"
+    FLAGS DCP
+    INDEX 01 28:03:51
+  TRACK 14 AUDIO
+    TITLE "Holy Moses"
+    FLAGS DCP
+    INDEX 01 30:38:59
+  TRACK 15 AUDIO
+    TITLE "Incidental #2"
+    FLAGS DCP
+    INDEX 01 32:55:34
+  TRACK 16 AUDIO
+    TITLE "Merecurochrome"
+    FLAGS DCP
+    INDEX 01 33:51:38
+  TRACK 17 AUDIO
+    TITLE "Auld Lang Syne 6/8 Time"
+    FLAGS DCP
+    INDEX 01 37:03:59
+  TRACK 18 AUDIO
+    TITLE "Motorola Rocketship"
+    FLAGS DCP
+    INDEX 01 40:23:33
+  TRACK 19 AUDIO
+    TITLE "Live at the Cafeteria"
+    FLAGS DCP
+    INDEX 01 44:56:55

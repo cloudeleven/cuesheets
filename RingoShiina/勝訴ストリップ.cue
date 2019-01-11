@@ -1,0 +1,45 @@
+TITLE "勝訴ストリップ"
+PERFORMER "椎名林檎"
+REM GENRE "Japanese Rock"
+REM DATE "2000"
+REM DISCID BF0D1B0D
+FILE "勝訴ストリップ.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "虚言症"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "浴室"
+    INDEX 01 05:25:47
+  TRACK 03 AUDIO
+    TITLE "弁解ドビュッシー"
+    INDEX 01 09:41:02
+  TRACK 04 AUDIO
+    TITLE "ギブス"
+    INDEX 01 12:57:07
+  TRACK 05 AUDIO
+    TITLE "闇に降る雨"
+    INDEX 01 18:35:30
+  TRACK 06 AUDIO
+    TITLE "アイデンティティ"
+    INDEX 01 23:39:00
+  TRACK 07 AUDIO
+    TITLE "罪と罰"
+    INDEX 01 26:44:27
+  TRACK 08 AUDIO
+    TITLE "ストイシズム"
+    INDEX 01 32:17:02
+  TRACK 09 AUDIO
+    TITLE "月に負け犬"
+    INDEX 01 34:03:22
+  TRACK 10 AUDIO
+    TITLE "サカナ"
+    INDEX 01 38:17:35
+  TRACK 11 AUDIO
+    TITLE "病床パブリック"
+    INDEX 01 42:01:25
+  TRACK 12 AUDIO
+    TITLE "本能"
+    INDEX 01 45:17:55
+  TRACK 13 AUDIO
+    TITLE "依存症"
+    INDEX 01 49:31:45

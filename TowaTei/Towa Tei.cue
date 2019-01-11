@@ -1,0 +1,45 @@
+TITLE "Towa Tei"
+PERFORMER "Sweet Robots Against The Machine"
+REM GENRE "Pop"
+REM DATE "2002"
+REM DISCID A60D9C0D
+FILE "Towa Tei.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Audio Sex"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Free"
+    INDEX 01 03:26:62
+  TRACK 03 AUDIO
+    TITLE "Wake Up"
+    INDEX 01 07:54:67
+  TRACK 04 AUDIO
+    TITLE "Togther"
+    INDEX 01 11:55:13
+  TRACK 05 AUDIO
+    TITLE "Latte & Macaron"
+    INDEX 01 13:50:07
+  TRACK 06 AUDIO
+    TITLE "Tikus"
+    INDEX 01 16:22:54
+  TRACK 07 AUDIO
+    TITLE "Hawaiian Tabla Chapa"
+    INDEX 01 19:23:51
+  TRACK 08 AUDIO
+    TITLE "Batik"
+    INDEX 01 22:29:09
+  TRACK 09 AUDIO
+    TITLE "Manis"
+    INDEX 01 25:29:06
+  TRACK 10 AUDIO
+    TITLE "I.Q. Infinity"
+    INDEX 01 29:09:57
+  TRACK 11 AUDIO
+    TITLE "The End of a love Affair"
+    INDEX 01 33:56:72
+  TRACK 12 AUDIO
+    TITLE "Sampling Principle"
+    INDEX 01 36:47:31
+  TRACK 13 AUDIO
+    TITLE "Pitamaha Bamboo"
+    INDEX 01 40:52:44

@@ -1,0 +1,100 @@
+X Lossless Decoder version 20151214 (149.1)
+
+XLD extraction logfile from 2016-04-05 01:39:55 +0900
+
+エリオをかまってちゃん / Os-宇宙人
+
+Used drive : HL-DT-ST BD-RE  BH10NS30 (revision EL00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:23:25 |         0    |    15249   
+        2  | 03:23:25 | 03:06:32 |     15250    |    29231   
+        3  | 06:29:57 | 03:22:48 |     29232    |    44429   
+        4  | 09:52:30 | 03:05:57 |     44430    |    58361   
+
+AccurateRip Summary (DiscID: 00023f4a-0008f7cf-28030a04)
+    Track 01 : OK (v1+v2, confidence 38/38)
+    Track 02 : OK (v1+v2, confidence 36/36)
+    Track 03 : OK (v1+v2, confidence 28/28)
+    Track 04 : OK (v1+v2, confidence 28/28)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Volumes/MyBook4TB1230/tmp/エリオをかまってちゃん - Os-宇宙人.flac
+    CRC32 hash               : 756B9E6E
+    CRC32 hash (skip zero)   : 80DBDDF9
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : E17950AF
+    CRC32 hash (skip zero)   : 555C1228
+    AccurateRip v1 signature : 28E0A0E4
+    AccurateRip v2 signature : 62105EC0
+        ->Accurately ripped (v1+v2, confidence 22+16/38)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Pre-gap length : 00:00:45
+
+    CRC32 hash               : 5BB9F87B
+    CRC32 hash (skip zero)   : 1A8A0AE9
+    AccurateRip v1 signature : DBE78542
+    AccurateRip v2 signature : 9B4E2516
+        ->Accurately ripped (v1+v2, confidence 21+15/36)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Pre-gap length : 00:02:45
+
+    CRC32 hash               : 6E8D6067
+    CRC32 hash (skip zero)   : 73BDE258
+    AccurateRip v1 signature : C20A002E
+    AccurateRip v2 signature : 8585AA37
+        ->Accurately ripped (v1+v2, confidence 14+14/28)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Pre-gap length : 00:00:45
+
+    CRC32 hash               : 60CA8187
+    CRC32 hash (skip zero)   : 45F014B4
+    AccurateRip v1 signature : 011FFF74
+    AccurateRip v2 signature : 2458FA29
+        ->Accurately ripped (v1+v2, confidence 14+14/28)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

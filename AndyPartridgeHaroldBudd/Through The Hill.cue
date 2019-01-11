@@ -1,0 +1,75 @@
+TITLE "Through The Hill"
+PERFORMER "Andy Partridge & Harold Budd"
+CATALOG 4988005143099
+REM GENRE "Ambient"
+REM DATE "1994"
+REM DISCID 0D0DDC12
+FILE "Through The Hill.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Hand 19"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:37
+  TRACK 02 AUDIO
+    TITLE "Through The Hill"
+    INDEX 01 01:19:57
+  TRACK 03 AUDIO
+    TITLE "Great Valley Of Gongs"
+    INDEX 01 05:25:22
+  TRACK 04 AUDIO
+    TITLE "Western Island Of Apples"
+    INDEX 00 08:32:41
+    INDEX 01 08:32:60
+  TRACK 05 AUDIO
+    TITLE "Anima Mundi"
+    INDEX 00 11:34:06
+    INDEX 01 11:35:40
+  TRACK 06 AUDIO
+    TITLE "Hand 20"
+    INDEX 00 16:18:63
+    INDEX 01 16:19:32
+  TRACK 07 AUDIO
+    TITLE "The Place Of Odd Glances"
+    INDEX 00 19:18:73
+    INDEX 01 19:19:70
+  TRACK 08 AUDIO
+    TITLE "Well For The Sweat Of The Moon"
+    INDEX 00 22:35:56
+    INDEX 01 22:37:40
+  TRACK 09 AUDIO
+    TITLE "Tenochtitlan's Numberless Bridges"
+    INDEX 00 26:00:26
+    INDEX 01 26:02:05
+  TRACK 10 AUDIO
+    TITLE "Ceramic Avenue"
+    INDEX 00 29:55:61
+    INDEX 01 29:57:15
+  TRACK 11 AUDIO
+    TITLE "Hand 21"
+    INDEX 00 35:13:13
+    INDEX 01 35:15:07
+  TRACK 12 AUDIO
+    TITLE "Missing Pieces To The Game Of Salt And Onyx"
+    INDEX 00 37:05:01
+    INDEX 01 37:08:27
+  TRACK 13 AUDIO
+    TITLE "Mantle Of Peacock Bones"
+    INDEX 01 43:07:62
+  TRACK 14 AUDIO
+    TITLE "Bronze Coins Showing Genitals"
+    INDEX 00 45:13:16
+    INDEX 01 45:15:17
+  TRACK 15 AUDIO
+    TITLE "Bearded Aphrodite"
+    INDEX 00 49:32:13
+    INDEX 01 49:33:40
+  TRACK 16 AUDIO
+    TITLE "Hand 22"
+    INDEX 01 52:08:37
+  TRACK 17 AUDIO
+    TITLE "Bosch"
+    INDEX 00 54:31:23
+    INDEX 01 54:33:05
+  TRACK 18 AUDIO
+    TITLE "Bruegel"
+    INDEX 00 56:22:23
+    INDEX 01 56:24:17

@@ -1,0 +1,54 @@
+TITLE "Second Flight"
+PERFORMER "Pilot"
+REM GENRE "Pop"
+REM DATE "1991"
+REM DISCID 940A170C
+FILE "Second Flight.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "You're My No. 1"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:33
+  TRACK 02 AUDIO
+    TITLE "Love Is"
+    INDEX 00 03:21:25
+    INDEX 01 03:24:65
+  TRACK 03 AUDIO
+    TITLE "Call Me Round"
+    INDEX 00 06:38:63
+    INDEX 01 06:41:73
+  TRACK 04 AUDIO
+    TITLE "55 Degree North 3 Degree West"
+    INDEX 00 09:43:55
+    INDEX 01 09:47:45
+  TRACK 05 AUDIO
+    TITLE "To You Alone"
+    INDEX 00 14:05:70
+    INDEX 01 14:12:23
+  TRACK 06 AUDIO
+    TITLE "Do Me Good"
+    INDEX 00 17:48:40
+    INDEX 01 17:53:08
+  TRACK 07 AUDIO
+    TITLE "Heard It All Before"
+    INDEX 00 21:39:35
+    INDEX 01 21:41:28
+  TRACK 08 AUDIO
+    TITLE "Bad To Me"
+    INDEX 00 24:56:58
+    INDEX 01 25:01:18
+  TRACK 09 AUDIO
+    TITLE "You're Devotion"
+    INDEX 00 28:11:40
+    INDEX 01 28:17:15
+  TRACK 10 AUDIO
+    TITLE "January"
+    INDEX 00 32:01:33
+    INDEX 01 32:04:08
+  TRACK 11 AUDIO
+    TITLE "Passion Piece"
+    INDEX 00 35:33:63
+    INDEX 01 35:40:20
+  TRACK 12 AUDIO
+    TITLE "Dear Artist"
+    INDEX 00 38:18:70
+    INDEX 01 38:24:55

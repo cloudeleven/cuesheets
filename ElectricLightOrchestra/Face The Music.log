@@ -1,0 +1,205 @@
+X Lossless Decoder version 20110417 (131.0)
+
+XLD extraction logfile from 2011-04-30 10:13:56 +0900
+
+Electric Light Orchestra / Face The Music
+
+Used drive : MATSHITA DVD-R   UJ-868 (revision KB19)
+
+Ripper mode             : CDParanoia III 10.2
+Disable audio cache     : OK for the drive with a cache less than 2750KiB
+Make use of C2 pointers : NO
+Read offset correction  : 102
+Max retry count         : 100
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 05:30:62 |         0    |    24811   
+        2  | 05:30:62 | 04:27:08 |     24812    |    44844   
+        3  | 09:57:70 | 04:19:12 |     44845    |    64281   
+        4  | 14:17:07 | 04:23:55 |     64282    |    84061   
+        5  | 18:40:62 | 03:31:53 |     84062    |    99939   
+        6  | 22:12:40 | 04:29:35 |     99940    |   120149   
+        7  | 26:42:00 | 03:54:10 |    120150    |   137709   
+        8  | 30:36:10 | 05:47:65 |    137710    |   163799   
+
+List of alternate offset correction values
+        #  | Absolute | Relative | Confidence 
+    ------------------------------------------
+        1  |     94   |     -8   |     14     
+
+AccurateRip Summary
+    Track 01 : OK (confidence 14, with different offset)
+    Track 02 : OK (confidence 14, with different offset)
+    Track 03 : OK (confidence 14, with different offset)
+    Track 04 : OK (confidence 14, with different offset)
+    Track 05 : OK (confidence 14, with different offset)
+    Track 06 : OK (confidence 14, with different offset)
+    Track 07 : OK (confidence 14, with different offset)
+    Track 08 : OK (confidence 14, with different offset)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Users/m4c/Public/flac/Face The Music.flac
+    CRC32 hash             : 65D5B47C
+    CRC32 hash (skip zero) : 0167F72B
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash             : EBE42956
+    CRC32 hash (skip zero) : 4D448E2D
+    AccurateRip signature  : 6A89AAB1
+        ->Accurately ripped! (confidence 14)
+          (matched with the different offset correction value;
+           calculated using an additional offset of -8;
+           the signature after correction is: A7E10C7E)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 02
+
+    CRC32 hash             : 2CB58698
+    CRC32 hash (skip zero) : 1BE82FBA
+    AccurateRip signature  : 577D1580
+        ->Accurately ripped! (confidence 14)
+          (matched with the different offset correction value;
+           calculated using an additional offset of -8;
+           the signature after correction is: 7250F3E6)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 03
+
+    CRC32 hash             : 8AD7A55C
+    CRC32 hash (skip zero) : 1A251A77
+    AccurateRip signature  : 203AE944
+        ->Accurately ripped! (confidence 14)
+          (matched with the different offset correction value;
+           calculated using an additional offset of -8;
+           the signature after correction is: 8920247D)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 04
+
+    CRC32 hash             : B793FA2F
+    CRC32 hash (skip zero) : 15E01408
+    AccurateRip signature  : 68F5B4B2
+        ->Accurately ripped! (confidence 14)
+          (matched with the different offset correction value;
+           calculated using an additional offset of -8;
+           the signature after correction is: E0CC5CAE)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 05
+    Pre-gap length : 00:00:57
+
+    CRC32 hash             : F668E81F
+    CRC32 hash (skip zero) : 9279C137
+    AccurateRip signature  : 4381FE43
+        ->Accurately ripped! (confidence 14)
+          (matched with the different offset correction value;
+           calculated using an additional offset of -8;
+           the signature after correction is: 73A2C26B)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 06
+
+    CRC32 hash             : AC27DCF9
+    CRC32 hash (skip zero) : 7B8AB1EC
+    AccurateRip signature  : A6463E10
+        ->Accurately ripped! (confidence 14)
+          (matched with the different offset correction value;
+           calculated using an additional offset of -8;
+           the signature after correction is: 32F12223)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 07
+
+    CRC32 hash             : 8F91B7B6
+    CRC32 hash (skip zero) : 685A0F69
+    AccurateRip signature  : 39778D67
+        ->Accurately ripped! (confidence 14)
+          (matched with the different offset correction value;
+           calculated using an additional offset of -8;
+           the signature after correction is: B7AF6384)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 08
+
+    CRC32 hash             : 301A1E0F
+    CRC32 hash (skip zero) : 688C659C
+    AccurateRip signature  : 2D018E9C
+        ->Accurately ripped! (confidence 14)
+          (matched with the different offset correction value;
+           calculated using an additional offset of -8;
+           the signature after correction is: 3CCB8D84)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+No errors occurred
+
+End of status report

@@ -1,0 +1,104 @@
+TITLE "The BBC Sessions"
+PERFORMER "The Move"
+REM DISCID 710FE919
+FILE "The BBC Sessions.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "You'd Better Believe Me"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:32
+  TRACK 02 AUDIO
+    TITLE "Night of Fear"
+    INDEX 00 02:57:67
+    INDEX 01 03:00:47
+  TRACK 03 AUDIO
+    TITLE "Stop, Get a Hold of Myself"
+    INDEX 00 05:19:32
+    INDEX 01 05:24:12
+  TRACK 04 AUDIO
+    TITLE "Kilroy Was Here"
+    INDEX 00 07:56:67
+    INDEX 01 07:59:60
+  TRACK 05 AUDIO
+    TITLE "Walk on the Water"
+    INDEX 00 10:36:30
+    INDEX 01 10:40:30
+  TRACK 06 AUDIO
+    TITLE "I Can Hear the Grass Grow"
+    INDEX 00 13:42:40
+    INDEX 01 13:45:22
+  TRACK 07 AUDIO
+    TITLE "Morning Dew"
+    INDEX 00 17:00:45
+    INDEX 01 17:03:25
+  TRACK 08 AUDIO
+    TITLE "Flowers in the Rain"
+    INDEX 00 19:43:22
+    INDEX 01 19:46:30
+  TRACK 09 AUDIO
+    TITLE "So You Wanna Be a Rock 'n' Roll Star"
+    INDEX 00 22:04:05
+    INDEX 01 22:06:62
+  TRACK 10 AUDIO
+    TITLE "Stephanie Knows Who"
+    INDEX 00 24:57:72
+    INDEX 01 25:02:12
+  TRACK 11 AUDIO
+    TITLE "Cherry Blossom Clinic"
+    INDEX 00 27:32:55
+    INDEX 01 27:34:47
+  TRACK 12 AUDIO
+    TITLE "Hey Grandma"
+    INDEX 00 29:58:27
+    INDEX 01 30:01:02
+  TRACK 13 AUDIO
+    TITLE "Fire Brigade"
+    INDEX 00 33:03:00
+    INDEX 01 33:05:15
+  TRACK 14 AUDIO
+    TITLE "Weekend"
+    INDEX 00 35:19:55
+    INDEX 01 35:22:42
+  TRACK 15 AUDIO
+    TITLE "It'll Be Me"
+    INDEX 00 37:12:67
+    INDEX 01 37:15:12
+  TRACK 16 AUDIO
+    TITLE "Useless Information"
+    INDEX 00 39:44:67
+    INDEX 01 39:47:72
+  TRACK 17 AUDIO
+    TITLE "Kentucky Woman"
+    INDEX 00 42:31:10
+    INDEX 01 42:34:12
+  TRACK 18 AUDIO
+    TITLE "Higher and Higher"
+    INDEX 00 45:00:45
+    INDEX 01 45:02:42
+  TRACK 19 AUDIO
+    TITLE "Long Black Veil"
+    INDEX 00 48:11:55
+    INDEX 01 48:12:50
+  TRACK 20 AUDIO
+    TITLE "Wild Tiger Woman"
+    INDEX 00 51:01:55
+    INDEX 01 51:06:12
+  TRACK 21 AUDIO
+    TITLE "Piece of My Heart"
+    INDEX 00 53:38:65
+    INDEX 01 53:39:62
+  TRACK 22 AUDIO
+    TITLE "Blackberry Way"
+    INDEX 00 56:40:62
+    INDEX 01 56:43:35
+  TRACK 23 AUDIO
+    TITLE "Going Back"
+    INDEX 00 59:49:57
+    INDEX 01 59:52:22
+  TRACK 24 AUDIO
+    TITLE "California Girls"
+    INDEX 00 62:41:17
+    INDEX 01 62:42:65
+  TRACK 25 AUDIO
+    TITLE "Christian Life"
+    INDEX 00 65:47:47
+    INDEX 01 65:51:05

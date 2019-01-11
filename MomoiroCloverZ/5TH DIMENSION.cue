@@ -1,0 +1,97 @@
+TITLE "5TH DIMENSION"
+PERFORMER "Momoiro Clover Z"
+CATALOG 4988003435561
+REM GENRE "Pop"
+REM DATE "2013"
+REM DISCNUMBER 1
+REM TOTALDISCS 1
+REM DISCID 980FE90D
+FILE "5TH DIMENSION.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Neo STARGATE"
+    PERFORMER "Momoiro Clover Z"
+    SONGWRITER "森由美子／大隅知宇／TeddyLoid"
+    ISRC JPKI01311174
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "仮想ディストピア"
+    PERFORMER "Momoiro Clover Z"
+    SONGWRITER "只野菜摘／AKIRASTAR"
+    ISRC JPKI01311179
+    INDEX 01 08:18:45
+  TRACK 03 AUDIO
+    TITLE "猛烈宇宙交響曲・第七楽章「無限の愛」"
+    PERFORMER "Momoiro Clover Z"
+    SONGWRITER "前山田健一"
+    ISRC JPKI01119496
+    INDEX 01 12:28:07
+  TRACK 04 AUDIO
+    TITLE "5 The POWER"
+    PERFORMER "Momoiro Clover Z"
+    SONGWRITER "いとうせいこう／MURO・SUI"
+    ISRC JPKI01311185
+    INDEX 00 17:38:61
+    INDEX 01 17:40:31
+  TRACK 05 AUDIO
+    TITLE "労働讃歌"
+    PERFORMER "Momoiro Clover Z"
+    SONGWRITER "大槻ケンヂ／Ian Parton"
+    ISRC JPKI01117318
+    INDEX 00 21:58:36
+    INDEX 01 21:59:43
+  TRACK 06 AUDIO
+    TITLE "ゲッダーン!"
+    PERFORMER "Momoiro Clover Z"
+    SONGWRITER "下地悠／Damian J.Kulash Jr."
+    ISRC JPKI01311187
+    INDEX 00 26:36:31
+    INDEX 01 26:38:01
+  TRACK 07 AUDIO
+    TITLE "Z女戦争"
+    PERFORMER "Momoiro Clover Z"
+    SONGWRITER "ティカ・α／近藤研二"
+    ISRC JPKI01213251
+    INDEX 00 30:11:23
+    INDEX 01 30:12:30
+  TRACK 08 AUDIO
+    TITLE "月と銀紙飛行船"
+    PERFORMER "Momoiro Clover Z"
+    SONGWRITER "岩里祐穂／永井ルイ"
+    ISRC JPKI01311188
+    INDEX 00 37:06:45
+    INDEX 01 37:09:15
+  TRACK 09 AUDIO
+    TITLE "BIRTH Ø BIRTH"
+    PERFORMER "Momoiro Clover Z"
+    SONGWRITER "前田たかひろ／NARASAKI"
+    ISRC JPKI01311189
+    INDEX 00 42:21:73
+    INDEX 01 42:25:05
+  TRACK 10 AUDIO
+    TITLE "上球物語 -Carpe diem-"
+    PERFORMER "Momoiro Clover Z"
+    SONGWRITER "zopp／横山克"
+    ISRC JPKI01311190
+    INDEX 00 47:25:40
+    INDEX 01 47:27:48
+  TRACK 11 AUDIO
+    TITLE "宙飛ぶ! お座敷列車"
+    PERFORMER "Momoiro Clover Z"
+    SONGWRITER "桑原永江／佐藤晃／長谷川智樹"
+    ISRC JPKI01311191
+    INDEX 00 51:29:23
+    INDEX 01 51:31:31
+  TRACK 12 AUDIO
+    TITLE "サラバ、愛しき悲しみたちよ"
+    PERFORMER "Momoiro Clover Z"
+    SONGWRITER "岩里祐穂／布袋寅秦"
+    ISRC JPKI01216926
+    INDEX 00 55:57:17
+    INDEX 01 56:00:24
+  TRACK 13 AUDIO
+    TITLE "灰とダイヤモンド"
+    PERFORMER "Momoiro Clover Z"
+    SONGWRITER "只野菜摘／前山田健一／近藤研二"
+    ISRC JPKI01311192
+    INDEX 00 60:58:33
+    INDEX 01 61:01:41

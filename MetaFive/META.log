@@ -1,0 +1,216 @@
+X Lossless Decoder version 20151214 (149.1)
+
+XLD extraction logfile from 2016-01-23 08:24:11 +0900
+
+METAFIVE / META
+
+Used drive : HL-DT-ST BD-RE  BH10NS30 (revision EL00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:48:35 |         0    |    21634   
+        2  | 04:48:35 | 04:26:07 |     21635    |    41591   
+        3  | 09:14:42 | 04:13:21 |     41592    |    60587   
+        4  | 13:27:63 | 04:39:72 |     60588    |    81584   
+        5  | 18:07:60 | 04:46:21 |     81585    |   103055   
+        6  | 22:54:06 | 04:47:06 |    103056    |   124586   
+        7  | 27:41:12 | 03:56:56 |    124587    |   142342   
+        8  | 31:37:68 | 04:11:09 |    142343    |   161176   
+        9  | 35:49:02 | 03:45:73 |    161177    |   178124   
+       10  | 39:35:00 | 04:34:62 |    178125    |   198736   
+       11  | 44:09:62 | 04:53:44 |    198737    |   220755   
+       12  | 49:03:31 | 05:18:55 |    220756    |   244660   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Filename : /Volumes/CanvioConnect/tmp/flac/METAFIVE - META.flac
+    CRC32 hash               : 95E99C5F
+    CRC32 hash (skip zero)   : 3C80CD59
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 78BF858F
+    CRC32 hash (skip zero)   : 7988200E
+    AccurateRip v1 signature : 7EF11466
+    AccurateRip v2 signature : F5A6BE26
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Pre-gap length : 00:00:10
+
+    CRC32 hash               : 78C0043D
+    CRC32 hash (skip zero)   : F2EF7E9D
+    AccurateRip v1 signature : 378674D3
+    AccurateRip v2 signature : 0D23583A
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Pre-gap length : 00:00:72
+
+    CRC32 hash               : CD35C4C1
+    CRC32 hash (skip zero)   : 1D81C353
+    AccurateRip v1 signature : D6ADB8DC
+    AccurateRip v2 signature : 61F1C6F0
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Pre-gap length : 00:01:24
+
+    CRC32 hash               : F3E1D3F1
+    CRC32 hash (skip zero)   : B53E945B
+    AccurateRip v1 signature : 5BD77E5F
+    AccurateRip v2 signature : 8B3DCC56
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Pre-gap length : 00:00:67
+
+    CRC32 hash               : EC4D61F8
+    CRC32 hash (skip zero)   : 2601CCEE
+    AccurateRip v1 signature : BEEC76B3
+    AccurateRip v2 signature : BE209707
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Pre-gap length : 00:00:39
+
+    CRC32 hash               : 8B60868E
+    CRC32 hash (skip zero)   : 1DC8065F
+    AccurateRip v1 signature : AF275A4E
+    AccurateRip v2 signature : 4E9E4DE1
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Pre-gap length : 00:01:73
+
+    CRC32 hash               : 5E5C3E32
+    CRC32 hash (skip zero)   : 1D0B22B7
+    AccurateRip v1 signature : 7F179C76
+    AccurateRip v2 signature : AD660D2F
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Pre-gap length : 00:00:03
+
+    CRC32 hash               : D8F7C956
+    CRC32 hash (skip zero)   : 0936DDD7
+    AccurateRip v1 signature : 424CA63B
+    AccurateRip v2 signature : 0F1F34E0
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+    Pre-gap length : 00:01:36
+
+    CRC32 hash               : 15C1A30E
+    CRC32 hash (skip zero)   : EA0E215C
+    AccurateRip v1 signature : 0029C935
+    AccurateRip v2 signature : 93922551
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 718C90AC
+    CRC32 hash (skip zero)   : C6E0CDDA
+    AccurateRip v1 signature : 7BECB4C8
+    AccurateRip v2 signature : 539DAA0B
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 11
+    Pre-gap length : 00:00:36
+
+    CRC32 hash               : CB7AD55A
+    CRC32 hash (skip zero)   : 6E387719
+    AccurateRip v1 signature : D4AA514C
+    AccurateRip v2 signature : 125F8031
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 12
+    Pre-gap length : 00:03:25
+
+    CRC32 hash               : BAFBE3B3
+    CRC32 hash (skip zero)   : 5BF5095C
+    AccurateRip v1 signature : 978BA3AB
+    AccurateRip v2 signature : CA4A16DB
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

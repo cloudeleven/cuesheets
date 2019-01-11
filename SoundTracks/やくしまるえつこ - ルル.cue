@@ -1,0 +1,42 @@
+TITLE "ルル"
+PERFORMER "やくしまるえつこ"
+CATALOG 4988003405724
+REM GENRE "Anime"
+REM DATE "2011"
+REM DISCID 3F051906
+FILE "やくしまるえつこ - ルル.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "ルル"
+    PERFORMER "やくしまるえつこ"
+    ISRC JPKI01112252
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "ときめきハッカー"
+    PERFORMER "やくしまるえつこ"
+    ISRC JPKI01112881
+    INDEX 00 03:29:27
+    INDEX 01 03:31:63
+  TRACK 03 AUDIO
+    TITLE "ルル (off vocal ver.)"
+    PERFORMER "やくしまるえつこ"
+    ISRC JPKI01112882
+    INDEX 00 09:26:74
+    INDEX 01 09:30:35
+  TRACK 04 AUDIO
+    TITLE "ときめきハッカー (off vocal ver.)"
+    PERFORMER "やくしまるえつこ"
+    ISRC JPKI01112883
+    INDEX 00 12:59:63
+    INDEX 01 13:02:24
+  TRACK 05 AUDIO
+    TITLE "ルル (tv-size)"
+    PERFORMER "やくしまるえつこ"
+    ISRC JPKI01112884
+    INDEX 00 18:57:35
+    INDEX 01 19:00:71
+  TRACK 06 AUDIO
+    TITLE "ときめきハッカー (EOG only)"
+    PERFORMER "やくしまるえつこ"
+    ISRC JPKI01112885
+    INDEX 00 20:31:39
+    INDEX 01 20:36:00

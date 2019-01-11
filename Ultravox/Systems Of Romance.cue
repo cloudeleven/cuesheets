@@ -1,0 +1,45 @@
+TITLE "Systems Of Romance"
+PERFORMER "Ultravox"
+REM GENRE "New Wave"
+REM DATE "1978"
+REM DISCID 7308980A
+FILE "Systems Of Romance.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Slow Motion"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Can't Stay Long"
+    INDEX 00 03:29:47
+    INDEX 01 03:32:40
+  TRACK 03 AUDIO
+    TITLE "Someone Else's Clothes"
+    INDEX 00 07:48:57
+    INDEX 01 07:52:07
+  TRACK 04 AUDIO
+    TITLE "Blue Light"
+    INDEX 00 12:17:27
+    INDEX 01 12:20:15
+  TRACK 05 AUDIO
+    TITLE "Some Of Them"
+    INDEX 00 15:29:55
+    INDEX 01 15:32:10
+  TRACK 06 AUDIO
+    TITLE "Quiet Men"
+    INDEX 00 18:02:17
+    INDEX 01 18:04:52
+  TRACK 07 AUDIO
+    TITLE "Dislocation"
+    INDEX 00 22:13:27
+    INDEX 01 22:16:30
+  TRACK 08 AUDIO
+    TITLE "Maximum Acceleration"
+    INDEX 00 25:11:50
+    INDEX 01 25:14:55
+  TRACK 09 AUDIO
+    TITLE "When You Walk Through Me"
+    INDEX 00 29:08:60
+    INDEX 01 29:10:60
+  TRACK 10 AUDIO
+    TITLE "Just For A Moment"
+    INDEX 00 33:26:30
+    INDEX 01 33:29:55

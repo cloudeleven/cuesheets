@@ -1,0 +1,76 @@
+TITLE "That Lucky Old Sun"
+PERFORMER "Brian Wilson"
+CATALOG 4988006866386
+REM GENRE "NewAge"
+REM DATE "2008"
+REM DISCID EE08EF11
+FILE "That Lucky Old Sun.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "That Lucky Old Sun"
+    ISRC USCA20804051
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Morning Beat"
+    ISRC USCA20804052
+    INDEX 01 00:56:74
+  TRACK 03 AUDIO
+    TITLE "Room With A View  (Narrative)"
+    ISRC USCA20804053
+    INDEX 01 03:51:39
+  TRACK 04 AUDIO
+    TITLE "Good Kind Of Love"
+    ISRC USCA20804054
+    INDEX 01 04:36:50
+  TRACK 05 AUDIO
+    TITLE "Forever She'll Be My Surfer Girl"
+    ISRC USCA20804055
+    INDEX 01 07:56:52
+  TRACK 06 AUDIO
+    TITLE "Venice Beach  (Narrative)"
+    ISRC USCA20804056
+    INDEX 01 10:48:54
+  TRACK 07 AUDIO
+    TITLE "Live Let Live - That Lucky Old Sun  (Reprise)"
+    ISRC USCA20804059
+    INDEX 01 11:33:60
+  TRACK 08 AUDIO
+    TITLE "Mexican Girl"
+    ISRC USCA20804060
+    INDEX 01 14:08:29
+  TRACK 09 AUDIO
+    TITLE "Cinco de Mayo  (Narrative)"
+    ISRC USCA20804057
+    INDEX 01 16:50:61
+  TRACK 10 AUDIO
+    TITLE "California Role - That Lucky Old Sun  (Reprise)"
+    ISRC USCA20804061
+    INDEX 01 17:36:64
+  TRACK 11 AUDIO
+    TITLE "Between Pictures  (Narrative)"
+    ISRC USCA20804058
+    INDEX 01 20:17:48
+  TRACK 12 AUDIO
+    TITLE "Oxygen To The Brain"
+    ISRC USCA20804062
+    INDEX 01 21:05:43
+  TRACK 13 AUDIO
+    TITLE "Can't Wait Too Long"
+    ISRC USCA20804066
+    INDEX 01 24:33:42
+  TRACK 14 AUDIO
+    TITLE "Midnight's Another Day"
+    ISRC USCA20804067
+    INDEX 01 25:27:66
+  TRACK 15 AUDIO
+    TITLE "That Lucky Old Sun  (Reprise)"
+    ISRC USCA20804068
+    INDEX 01 29:25:09
+  TRACK 16 AUDIO
+    TITLE "Going Home"
+    ISRC USCA20804063
+    INDEX 01 30:08:44
+  TRACK 17 AUDIO
+    TITLE "Southern California"
+    ISRC USCA20804064
+    INDEX 00 33:12:00
+    INDEX 01 33:12:48

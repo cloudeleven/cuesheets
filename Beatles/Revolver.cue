@@ -1,0 +1,62 @@
+TITLE "Revolver"
+PERFORMER "The Beatles"
+REM GENRE "Rock"
+REM DATE "1966"
+REM DISCID C808330E
+FILE "Revolver.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Taxman"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:33
+  TRACK 02 AUDIO
+    TITLE "Eleanor Rigby"
+    INDEX 00 02:37:53
+    INDEX 01 02:39:33
+  TRACK 03 AUDIO
+    TITLE "I'm Only Sleeping"
+    INDEX 00 04:44:20
+    INDEX 01 04:47:08
+  TRACK 04 AUDIO
+    TITLE "Love You To"
+    INDEX 00 07:45:25
+    INDEX 01 07:48:58
+  TRACK 05 AUDIO
+    TITLE "Here, There And Everywhere"
+    INDEX 00 10:46:60
+    INDEX 01 10:49:73
+  TRACK 06 AUDIO
+    TITLE "Yellow Submarine"
+    INDEX 00 13:13:00
+    INDEX 01 13:15:63
+  TRACK 07 AUDIO
+    TITLE "She Said She Said"
+    INDEX 00 15:53:10
+    INDEX 01 15:56:18
+  TRACK 08 AUDIO
+    TITLE "Good Day Sunshine"
+    INDEX 00 18:31:05
+    INDEX 01 18:33:28
+  TRACK 09 AUDIO
+    TITLE "And Your Bird Can Sing"
+    INDEX 00 20:41:30
+    INDEX 01 20:43:10
+  TRACK 10 AUDIO
+    TITLE "For No One"
+    INDEX 00 22:42:20
+    INDEX 01 22:44:65
+  TRACK 11 AUDIO
+    TITLE "Doctor Robert"
+    INDEX 00 24:43:15
+    INDEX 01 24:46:43
+  TRACK 12 AUDIO
+    TITLE "I Want To Tell You"
+    INDEX 00 26:59:53
+    INDEX 01 27:01:58
+  TRACK 13 AUDIO
+    TITLE "Got To Get You Into My Life"
+    INDEX 00 29:28:48
+    INDEX 01 29:31:48
+  TRACK 14 AUDIO
+    TITLE "Tomorrow Never Knows"
+    INDEX 00 31:59:68
+    INDEX 01 32:02:20

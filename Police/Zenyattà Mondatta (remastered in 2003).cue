@@ -1,0 +1,57 @@
+TITLE "Zenyattà Mondatta (remastered in 2003)"
+PERFORMER "The Police"
+CATALOG 0606949365424
+REM GENRE "Rock"
+REM DATE "1980"
+REM DISCID 9A0E450C
+FILE "Zenyattà Mondatta (remastered in 2003).flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Don't Stand So Close To Me"
+    ISRC GBAAM0201148
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Driven To Tears"
+    ISRC GBAAM0201149
+    INDEX 00 04:02:50
+    INDEX 01 04:04:18
+  TRACK 03 AUDIO
+    TITLE "When The World Is Running Down, You Make The Best Of What's Still Around"
+    ISRC GBAAM0201150
+    INDEX 01 07:24:58
+  TRACK 04 AUDIO
+    TITLE "Canary In A Coalmine"
+    ISRC GBAAM0201151
+    INDEX 00 11:01:33
+    INDEX 01 11:02:58
+  TRACK 05 AUDIO
+    TITLE "Voices Inside My Head"
+    ISRC GBAAM0201152
+    INDEX 01 13:29:33
+  TRACK 06 AUDIO
+    TITLE "Bombs Away"
+    ISRC GBAAM0201153
+    INDEX 01 17:22:52
+  TRACK 07 AUDIO
+    TITLE "De Do Do Do, De Da Da Da"
+    ISRC GBAAM0201154
+    INDEX 00 20:30:43
+    INDEX 01 20:32:18
+  TRACK 08 AUDIO
+    TITLE "Behind My Camel [Instrumental]"
+    ISRC GBAAM0201155
+    INDEX 00 24:39:40
+    INDEX 01 24:41:60
+  TRACK 09 AUDIO
+    TITLE "Man In A Suitcase"
+    ISRC GBAAM0201156
+    INDEX 00 27:35:30
+    INDEX 01 27:36:52
+  TRACK 10 AUDIO
+    TITLE "Shadows In The Rain"
+    ISRC GBAAM0201157
+    INDEX 00 29:54:57
+    INDEX 01 29:56:23
+  TRACK 11 AUDIO
+    TITLE "The Other Way Of Stopping [Instrumental]"
+    ISRC GBAAM0201158
+    INDEX 01 34:59:00

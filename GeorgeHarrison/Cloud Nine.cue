@@ -1,0 +1,51 @@
+TITLE "Cloud Nine"
+PERFORMER "George Harrison"
+CATALOG 0075992564328
+REM GENRE "Pop"
+REM DATE "1987"
+REM DISCID 9709B10B
+FILE "Cloud Nine.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Cloud 9"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:32
+  TRACK 02 AUDIO
+    TITLE "That's What It Takes"
+    INDEX 00 03:14:23
+    INDEX 01 03:16:17
+  TRACK 03 AUDIO
+    TITLE "Fish On The Sand"
+    INDEX 00 07:14:68
+    INDEX 01 07:17:20
+  TRACK 04 AUDIO
+    TITLE "Just For Today"
+    INDEX 00 10:39:00
+    INDEX 01 10:41:40
+  TRACK 05 AUDIO
+    TITLE "This Is Love"
+    INDEX 00 14:45:70
+    INDEX 01 14:47:32
+  TRACK 06 AUDIO
+    TITLE "When We Was Fab"
+    INDEX 00 18:34:60
+    INDEX 01 18:36:62
+  TRACK 07 AUDIO
+    TITLE "Devil's Radio"
+    INDEX 00 22:31:68
+    INDEX 01 22:34:55
+  TRACK 08 AUDIO
+    TITLE "Someplace Else"
+    INDEX 00 26:26:03
+    INDEX 01 26:28:27
+  TRACK 09 AUDIO
+    TITLE "Wreck Of The Hesperus"
+    INDEX 00 30:19:10
+    INDEX 01 30:21:07
+  TRACK 10 AUDIO
+    TITLE "Breath Away From Heaven"
+    INDEX 00 33:50:60
+    INDEX 01 33:54:45
+  TRACK 11 AUDIO
+    TITLE "Got My Mind  Set On You"
+    INDEX 00 37:29:33
+    INDEX 01 37:30:40

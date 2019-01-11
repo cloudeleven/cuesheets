@@ -1,0 +1,110 @@
+X Lossless Decoder version 20110417 (131.0)
+
+XLD extraction logfile from 2011-04-25 20:28:11 +0900
+
+Various Artists / まりあ†ほりっく　エンディングテーマ　君に、胸キュン。
+
+Used drive : MATSHITA DVD-R   UJ-868 (revision KB19)
+
+Ripper mode             : CDParanoia III 10.2
+Disable audio cache     : OK for the drive with a cache less than 2750KiB
+Make use of C2 pointers : NO
+Read offset correction  : 102
+Max retry count         : 100
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:45:22 |         0    |    21396   
+        2  | 04:45:22 | 03:42:56 |     21397    |    38102   
+        3  | 08:28:03 | 04:45:23 |     38103    |    59500   
+        4  | 13:13:26 | 03:39:43 |     59501    |    75968   
+
+AccurateRip Summary
+    Track 01 : OK (confidence 6)
+    Track 02 : OK (confidence 6)
+    Track 03 : OK (confidence 4)
+    Track 04 : OK (confidence 4)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Users/m4c/Public/flac/まりあ†ほりっく　エンディングテーマ　君に、胸キュン。.flac
+    CRC32 hash             : AF483750
+    CRC32 hash (skip zero) : 657A2710
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash             : 422BA9F0
+    CRC32 hash (skip zero) : 56131371
+    AccurateRip signature  : 1EB4296C
+        ->Accurately ripped! (confidence 6)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 02
+    Pre-gap length : 00:02:13
+
+    CRC32 hash             : 3341BA0F
+    CRC32 hash (skip zero) : 6C20E239
+    AccurateRip signature  : 23B06C8D
+        ->Accurately ripped! (confidence 6)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 03
+    Pre-gap length : 00:03:13
+
+    CRC32 hash             : 03A83C41
+    CRC32 hash (skip zero) : CB128A57
+    AccurateRip signature  : 21156FF8
+        ->Accurately ripped! (confidence 4)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 04
+    Pre-gap length : 00:02:13
+
+    CRC32 hash             : 2A9EA33A
+    CRC32 hash (skip zero) : 081781A6
+    AccurateRip signature  : 94F3FE74
+        ->Accurately ripped! (confidence 4)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+No errors occurred
+
+End of status report

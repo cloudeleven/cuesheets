@@ -1,0 +1,58 @@
+TITLE "COMBO 66"
+PERFORMER "John Scofield"
+CATALOG 0602567884583
+REM DATE "2018"
+REM DISCID 8D10470A
+FILE "John Scofield - COMBO 66.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Can’t Dance"
+    PERFORMER "John Scofield"
+    ISRC FRUM71801481
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Combo Theme"
+    PERFORMER "John Scofield"
+    ISRC FRUM71801482
+    INDEX 01 07:32:03
+  TRACK 03 AUDIO
+    TITLE "Icons at the Fair"
+    PERFORMER "John Scofield"
+    ISRC FRUM71801483
+    INDEX 01 14:53:73
+  TRACK 04 AUDIO
+    TITLE "Willa Jean"
+    PERFORMER "John Scofield"
+    ISRC FRUM71801484
+    INDEX 01 20:26:52
+  TRACK 05 AUDIO
+    TITLE "Uncle Southern"
+    PERFORMER "John Scofield"
+    ISRC FRUM71801485
+    INDEX 01 28:26:01
+  TRACK 06 AUDIO
+    TITLE "Dang Swing"
+    PERFORMER "John Scofield"
+    ISRC FRUM71801486
+    INDEX 01 34:05:05
+  TRACK 07 AUDIO
+    TITLE "New Waltzo"
+    PERFORMER "John Scofield"
+    ISRC FRUM71801487
+    INDEX 01 40:13:71
+  TRACK 08 AUDIO
+    TITLE "I’m Sleeping In"
+    PERFORMER "John Scofield"
+    ISRC FRUM71801488
+    INDEX 01 49:06:21
+  TRACK 09 AUDIO
+    TITLE "King of Belgium"
+    PERFORMER "John Scofield"
+    ISRC FRUM71801489
+    INDEX 01 54:10:42
+  TRACK 10 AUDIO
+    TITLE "Ringing Out"
+    PERFORMER "John Scofield"
+    ISRC FRUM71801490
+    REM COMMENT "Bonus Track"
+    INDEX 00 60:28:16
+    INDEX 01 60:31:16

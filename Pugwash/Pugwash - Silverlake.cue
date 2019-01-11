@@ -1,0 +1,66 @@
+TITLE "Silverlake"
+PERFORMER "Pugwash"
+CATALOG 5060397531254
+REM DATE "2017"
+REM DISCID AB09650C
+FILE "Pugwash - Silverlake.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "The Perfect Summer"
+    PERFORMER "Pugwash"
+    ISRC GBHMW1700001
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "What Are You Like"
+    PERFORMER "Pugwash"
+    ISRC GBHMW1700003
+    INDEX 01 03:33:72
+  TRACK 03 AUDIO
+    TITLE "Why Do I"
+    PERFORMER "Pugwash"
+    ISRC GBHMW1700004
+    INDEX 01 06:33:16
+  TRACK 04 AUDIO
+    TITLE "Better Than Nothing At All"
+    PERFORMER "Pugwash"
+    ISRC GBHMW1700002
+    INDEX 01 10:07:69
+  TRACK 05 AUDIO
+    TITLE "Without You"
+    PERFORMER "Pugwash"
+    ISRC GBHMW1700005
+    INDEX 01 13:10:63
+  TRACK 06 AUDIO
+    TITLE "Sunshine True"
+    PERFORMER "Pugwash"
+    ISRC GBHMW1700006
+    INDEX 01 17:02:16
+  TRACK 07 AUDIO
+    TITLE "Everyone Knows That You're Mine"
+    PERFORMER "Pugwash"
+    ISRC GBHMW1700007
+    INDEX 01 19:52:13
+  TRACK 08 AUDIO
+    TITLE "Make It Yourself"
+    PERFORMER "Pugwash"
+    ISRC GBHMW1700008
+    INDEX 01 23:10:10
+  TRACK 09 AUDIO
+    TITLE "Such A Shame"
+    PERFORMER "Pugwash"
+    ISRC GBHMW1700009
+    INDEX 01 25:48:34
+  TRACK 10 AUDIO
+    TITLE "Easier Done Than Said"
+    PERFORMER "Pugwash"
+    ISRC GBHMW1700010
+    INDEX 01 29:42:27
+  TRACK 11 AUDIO
+    TITLE "Autarch"
+    PERFORMER "Pugwash"
+    ISRC GBHMW1700011
+    INDEX 01 32:56:27
+  TRACK 12 AUDIO
+    TITLE "Deeper Deeper"
+    PERFORMER "Pugwash"
+    ISRC GBHMW1700012
+    INDEX 01 36:25:72

@@ -1,0 +1,40 @@
+TITLE "Thinks: School Stinks"
+PERFORMER "Hotlegs"
+REM DISCID 650A1F09
+FILE "Thinks: School Stinks.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Neandethal Man"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:32
+  TRACK 02 AUDIO
+    TITLE "How Many Times"
+    INDEX 00 04:13:30
+    INDEX 01 04:15:22
+  TRACK 03 AUDIO
+    TITLE "Desperate Dan"
+    INDEX 00 08:03:60
+    INDEX 01 08:05:32
+  TRACK 04 AUDIO
+    TITLE "Take Me Back"
+    INDEX 00 10:18:10
+    INDEX 01 10:19:55
+  TRACK 05 AUDIO
+    TITLE "Um Wah, Um Woh"
+    INDEX 00 15:21:25
+    INDEX 01 15:22:65
+  TRACK 06 AUDIO
+    TITLE "Suite F.A."
+    INDEX 00 20:57:07
+    INDEX 01 20:58:70
+  TRACK 07 AUDIO
+    TITLE "Fly Away"
+    INDEX 00 33:41:00
+    INDEX 01 33:42:40
+  TRACK 08 AUDIO
+    TITLE "Run Baby Run"
+    INDEX 00 36:26:12
+    INDEX 01 36:28:00
+  TRACK 09 AUDIO
+    TITLE "All God's Children"
+    INDEX 00 39:18:65
+    INDEX 01 39:20:52

@@ -1,0 +1,36 @@
+TITLE "At Budokan"
+PERFORMER "Cheap Trick"
+REM GENRE "Rock"
+REM DATE "1979"
+REM DISCID 8409E70A
+FILE "At Budokan.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Hello There"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Come On, Come On"
+    INDEX 01 02:27:62
+  TRACK 03 AUDIO
+    TITLE "Lookout"
+    INDEX 01 05:46:00
+  TRACK 04 AUDIO
+    TITLE "Big Eyes"
+    INDEX 01 08:47:25
+  TRACK 05 AUDIO
+    TITLE "Need Your Love"
+    INDEX 01 12:43:12
+  TRACK 06 AUDIO
+    TITLE "Ain't That A Shame"
+    INDEX 01 21:33:62
+  TRACK 07 AUDIO
+    TITLE "I Want You To Want Me"
+    INDEX 01 26:50:20
+  TRACK 08 AUDIO
+    TITLE "Surrender"
+    INDEX 01 30:35:25
+  TRACK 09 AUDIO
+    TITLE "Goodnight"
+    INDEX 01 35:00:00
+  TRACK 10 AUDIO
+    TITLE "Clock Strikes Ten"
+    INDEX 01 38:11:20

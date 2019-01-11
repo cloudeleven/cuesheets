@@ -1,0 +1,233 @@
+X Lossless Decoder version 20130720 (144.0)
+
+XLD extraction logfile from 2013-10-31 01:29:48 +0900
+
+Prefab Sprout / Andromeda Heights (remastered 2009)
+
+Used drive : HL-DT-ST BD-RE  BH10NS30 (revision EL00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:41:09 |         0    |    16583   
+        2  | 03:41:09 | 05:01:57 |     16584    |    39215   
+        3  | 08:42:66 | 04:37:55 |     39216    |    60045   
+        4  | 13:20:46 | 03:44:63 |     60046    |    76908   
+        5  | 17:05:34 | 04:35:10 |     76909    |    97543   
+        6  | 21:40:44 | 02:47:38 |     97544    |   110106   
+        7  | 24:28:07 | 03:41:46 |    110107    |   126727   
+        8  | 28:09:53 | 03:59:30 |    126728    |   144682   
+        9  | 32:09:08 | 02:36:14 |    144683    |   156396   
+       10  | 34:45:22 | 04:42:65 |    156397    |   177611   
+       11  | 39:28:12 | 03:36:55 |    177612    |   193866   
+       12  | 43:04:67 | 04:07:22 |    193867    |   212413   
+       13  | 47:12:14 | 03:52:45 |    212414    |   229858   
+
+AccurateRip Summary (DiscID: 00190dee-00f846c4-9c0bf80d)
+    Track 01 : OK (v1+v2, confidence 2/2)
+    Track 02 : OK (v1+v2, confidence 2/2)
+    Track 03 : OK (v1+v2, confidence 2/2)
+    Track 04 : OK (v1+v2, confidence 2/2)
+    Track 05 : OK (v1+v2, confidence 2/2)
+    Track 06 : OK (v1+v2, confidence 2/2)
+    Track 07 : OK (v1+v2, confidence 2/2)
+    Track 08 : OK (v1+v2, confidence 2/2)
+    Track 09 : OK (v1+v2, confidence 2/2)
+    Track 10 : OK (v1+v2, confidence 2/2)
+    Track 11 : OK (v1+v2, confidence 2/2)
+    Track 12 : OK (v1+v2, confidence 2/2)
+    Track 13 : OK (v1+v2, confidence 2/2)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Users/m4c/tmp/flac/Andromeda Heights (remastered 2009).flac
+    CRC32 hash               : 7A2B4BC1
+    CRC32 hash (skip zero)   : 91FBC315
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 286D5132
+    CRC32 hash (skip zero)   : 9B7EEBD4
+    AccurateRip v1 signature : 8EC6C462
+    AccurateRip v2 signature : 2857D8AB
+        ->Accurately ripped (v1+v2, confidence 1+1/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+
+    CRC32 hash               : 8EBA809A
+    CRC32 hash (skip zero)   : 952994CF
+    AccurateRip v1 signature : 181DCA37
+    AccurateRip v2 signature : 5678208B
+        ->Accurately ripped (v1+v2, confidence 1+1/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+
+    CRC32 hash               : 19B0A353
+    CRC32 hash (skip zero)   : F8D859AF
+    AccurateRip v1 signature : 4DAF13F0
+    AccurateRip v2 signature : 49D1128F
+        ->Accurately ripped (v1+v2, confidence 1+1/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+
+    CRC32 hash               : E07C5339
+    CRC32 hash (skip zero)   : A71E5231
+    AccurateRip v1 signature : 0CE43039
+    AccurateRip v2 signature : CC6CDE6B
+        ->Accurately ripped (v1+v2, confidence 1+1/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+
+    CRC32 hash               : 7AC105A6
+    CRC32 hash (skip zero)   : CFF3D0EE
+    AccurateRip v1 signature : E9DED008
+    AccurateRip v2 signature : BD37B029
+        ->Accurately ripped (v1+v2, confidence 1+1/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+
+    CRC32 hash               : 71752BAE
+    CRC32 hash (skip zero)   : 6D7F7101
+    AccurateRip v1 signature : B546658F
+    AccurateRip v2 signature : 2544FB16
+        ->Accurately ripped (v1+v2, confidence 1+1/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+
+    CRC32 hash               : D2C363AB
+    CRC32 hash (skip zero)   : 8DF0FFFA
+    AccurateRip v1 signature : FC9EA52A
+    AccurateRip v2 signature : F03AB21A
+        ->Accurately ripped (v1+v2, confidence 1+1/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+
+    CRC32 hash               : 0B567E77
+    CRC32 hash (skip zero)   : E06EECA1
+    AccurateRip v1 signature : 92CDA686
+    AccurateRip v2 signature : BC9FB715
+        ->Accurately ripped (v1+v2, confidence 1+1/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+
+    CRC32 hash               : 71192D20
+    CRC32 hash (skip zero)   : AD144C6F
+    AccurateRip v1 signature : 93A5A6C9
+    AccurateRip v2 signature : F8FB0624
+        ->Accurately ripped (v1+v2, confidence 1+1/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+
+    CRC32 hash               : 60649720
+    CRC32 hash (skip zero)   : 8B522F22
+    AccurateRip v1 signature : 184D2B41
+    AccurateRip v2 signature : 1E79C220
+        ->Accurately ripped (v1+v2, confidence 1+1/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 11
+
+    CRC32 hash               : 36876634
+    CRC32 hash (skip zero)   : B6393D22
+    AccurateRip v1 signature : 1AE489D5
+    AccurateRip v2 signature : 32D4F1B2
+        ->Accurately ripped (v1+v2, confidence 1+1/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 12
+
+    CRC32 hash               : E69D3835
+    CRC32 hash (skip zero)   : A3F55FDC
+    AccurateRip v1 signature : 11F2C361
+    AccurateRip v2 signature : FE164768
+        ->Accurately ripped (v1+v2, confidence 1+1/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 13
+    Pre-gap length : 00:02:60
+
+    CRC32 hash               : A29F545D
+    CRC32 hash (skip zero)   : 56DE7C13
+    AccurateRip v1 signature : 2C494FAB
+    AccurateRip v2 signature : 3E2C7B14
+        ->Accurately ripped (v1+v2, confidence 1+1/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

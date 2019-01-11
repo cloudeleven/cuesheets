@@ -1,0 +1,229 @@
+X Lossless Decoder version 20110417 (131.0)
+
+XLD extraction logfile from 2011-04-30 11:07:36 +0900
+
+Electric Light Orchestra / Discovery
+
+Used drive : HL-DT-ST BD-RE  BH10NS30 (revision EL00)
+
+Ripper mode             : CDParanoia III 10.2
+Disable audio cache     : OK for the drive with a cache less than 2750KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 100
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:44:67 |         0    |    21366   
+        2  | 04:44:67 | 03:43:70 |     21367    |    38161   
+        3  | 08:28:62 | 05:13:50 |     38162    |    61686   
+        4  | 13:42:37 | 04:21:50 |     61687    |    81311   
+        5  | 18:04:12 | 04:34:13 |     81312    |   101874   
+        6  | 22:38:25 | 04:20:50 |    101875    |   121424   
+        7  | 26:59:00 | 03:57:62 |    121425    |   139261   
+        8  | 30:56:62 | 04:14:50 |    139262    |   158361   
+        9  | 35:11:37 | 04:05:63 |    158362    |   176799   
+
+List of alternate offset correction values
+        #  | Absolute | Relative | Confidence 
+    ------------------------------------------
+        1  |    879   |    212   |     29     
+        2  |    887   |    220   |     18     
+        3  |    966   |    299   |     16     
+        4  |    694   |     27   |      9     
+        5  |    474   |   -193   |      3     
+
+AccurateRip Summary
+    Track 01 : OK (AR2, confidence 2, with different offset)
+    Track 02 : OK (AR2, confidence 2, with different offset)
+    Track 03 : OK (AR2, confidence 2, with different offset)
+    Track 04 : OK (AR2, confidence 2, with different offset)
+    Track 05 : OK (AR2, confidence 2, with different offset)
+    Track 06 : OK (AR2, confidence 2, with different offset)
+    Track 07 : OK (AR2, confidence 2, with different offset)
+    Track 08 : OK (AR2, confidence 2, with different offset)
+    Track 09 : OK (AR2, confidence 2, with different offset)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Users/angelicalbite/Music/flac/Discovery.flac
+    CRC32 hash             : E1773014
+    CRC32 hash (skip zero) : D926F4BE
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash             : 126FB587
+    CRC32 hash (skip zero) : 3B04CD31
+    AccurateRip signature  : 21F50392
+        ->Accurately ripped! (AR2, confidence 2)
+          (matched with the different offset correction value;
+           calculated using an additional offset of 212;
+           the signature after correction is: 899ADEFA)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 02
+
+    CRC32 hash             : CB2749ED
+    CRC32 hash (skip zero) : A7265A9A
+    AccurateRip signature  : DCA14D66
+        ->Accurately ripped! (AR2, confidence 2)
+          (matched with the different offset correction value;
+           calculated using an additional offset of 212;
+           the signature after correction is: 7A713800)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 03
+
+    CRC32 hash             : 6E239ECE
+    CRC32 hash (skip zero) : 0C0AB041
+    AccurateRip signature  : 9AA043CC
+        ->Accurately ripped! (AR2, confidence 2)
+          (matched with the different offset correction value;
+           calculated using an additional offset of 212;
+           the signature after correction is: 6B17AAD4)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 04
+
+    CRC32 hash             : 2B9D4C4C
+    CRC32 hash (skip zero) : 4C535C86
+    AccurateRip signature  : 83538EF2
+        ->Accurately ripped! (AR2, confidence 2)
+          (matched with the different offset correction value;
+           calculated using an additional offset of 212;
+           the signature after correction is: 76F73807)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 05
+    Pre-gap length : 00:02:60
+
+    CRC32 hash             : EDC95C89
+    CRC32 hash (skip zero) : 32CCD695
+    AccurateRip signature  : C9369158
+        ->Accurately ripped! (AR2, confidence 2)
+          (matched with the different offset correction value;
+           calculated using an additional offset of 212;
+           the signature after correction is: DB9C88A0)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 06
+
+    CRC32 hash             : C4396F8F
+    CRC32 hash (skip zero) : B4CABD40
+    AccurateRip signature  : EFBA6DED
+        ->Accurately ripped! (AR2, confidence 2)
+          (matched with the different offset correction value;
+           calculated using an additional offset of 212;
+           the signature after correction is: 43D45D85)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 07
+
+    CRC32 hash             : E48B67A8
+    CRC32 hash (skip zero) : 8CE71435
+    AccurateRip signature  : 150741C6
+        ->Accurately ripped! (AR2, confidence 2)
+          (matched with the different offset correction value;
+           calculated using an additional offset of 212;
+           the signature after correction is: DCB5CE81)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 08
+
+    CRC32 hash             : FDFF8ACF
+    CRC32 hash (skip zero) : 38DFF0D5
+    AccurateRip signature  : 75DC2E1F
+        ->Accurately ripped! (AR2, confidence 2)
+          (matched with the different offset correction value;
+           calculated using an additional offset of 212;
+           the signature after correction is: 31A24BD9)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 09
+
+    CRC32 hash             : 1149CD58
+    CRC32 hash (skip zero) : 887C5F66
+    AccurateRip signature  : BF76283E
+        ->Accurately ripped! (AR2, confidence 2)
+          (matched with the different offset correction value;
+           calculated using an additional offset of 212;
+           the signature after correction is: CB890934)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+No errors occurred
+
+End of status report

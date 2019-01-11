@@ -1,0 +1,55 @@
+TITLE "The Original Soundtrack (remastered in 1996)"
+PERFORMER "10cc"
+CATALOG 4988005400413
+REM GENRE "Rock"
+REM DATE "1975"
+REM DISCID 880B7A0A
+FILE "The Original Soundtrack (remastered in 1996).flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Une Nuit A Paris (Part I)/The Same Night In Paris(Part 2)/Later The Same Night In Paris(Part 3)"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "I'm Not In Love"
+    ISRC GBFO87500001
+    INDEX 00 08:39:47
+    INDEX 01 08:43:57
+  TRACK 03 AUDIO
+    TITLE "Blackmail"
+    ISRC GBFO87500041
+    INDEX 00 14:46:20
+    INDEX 01 14:52:17
+  TRACK 04 AUDIO
+    TITLE "The Second Sitting For The Last Supper"
+    ISRC GBFO87500042
+    INDEX 00 19:19:25
+    INDEX 01 19:24:17
+  TRACK 05 AUDIO
+    TITLE "Brand New Day"
+    ISRC GBFO87500043
+    INDEX 00 23:48:10
+    INDEX 01 23:55:05
+  TRACK 06 AUDIO
+    TITLE "Flying Junk"
+    ISRC GBFO87500044
+    INDEX 00 27:59:50
+    INDEX 01 28:00:57
+  TRACK 07 AUDIO
+    TITLE "Life Is A Minestrone"
+    ISRC GBFO87500015
+    INDEX 00 32:12:62
+    INDEX 01 32:16:30
+  TRACK 08 AUDIO
+    TITLE "The Film Of My Love"
+    ISRC GBFO87500045
+    INDEX 00 36:57:22
+    INDEX 01 37:03:12
+  TRACK 09 AUDIO
+    TITLE "Channel Swimmer"
+    ISRC GBFO87500016
+    INDEX 00 42:06:30
+    INDEX 01 42:11:72
+  TRACK 10 AUDIO
+    TITLE "Good News"
+    ISRC GBFO87500017
+    INDEX 00 45:01:52
+    INDEX 01 45:08:52

@@ -1,0 +1,66 @@
+X Lossless Decoder version 20151214 (149.1)
+
+XLD extraction logfile from 2016-04-12 00:08:24 +0900
+
+Tomoyasu Hotei (布袋寅泰) / 8 BEATのシルエット
+
+Used drive : HL-DT-ST BD-RE  BH10NS30 (revision EL00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 05:02:37 |         0    |    22686   
+        2  | 05:02:37 | 04:05:64 |     22687    |    41125   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Filename : /Volumes/MyBook4TB1230/tmp/Tomoyasu Hotei (布袋寅泰) - 8 BEATのシルエット.flac
+    CRC32 hash               : D8250C8E
+    CRC32 hash (skip zero)   : 1CD7DDC5
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 4E3E7065
+    CRC32 hash (skip zero)   : D8D0FC9B
+    AccurateRip v1 signature : 0911191F
+    AccurateRip v2 signature : D2E0D87D
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Pre-gap length : 00:01:71
+
+    CRC32 hash               : 36BCCCA4
+    CRC32 hash (skip zero)   : 8177E162
+    AccurateRip v1 signature : B4DD309F
+    AccurateRip v2 signature : 441CC3D9
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

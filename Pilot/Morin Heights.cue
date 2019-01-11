@@ -1,0 +1,53 @@
+TITLE "Morin Heights"
+PERFORMER "Pilot"
+REM GENRE "Pop"
+REM DATE "1976"
+REM DISCID 8B08530B
+FILE "Morin Heights.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Hold On"
+    ISRC `````0000000
+    INDEX 00 00:00:00
+    INDEX 01 00:00:32
+  TRACK 02 AUDIO
+    TITLE "Canada"
+    ISRC `````0000000
+    INDEX 01 02:43:12
+  TRACK 03 AUDIO
+    TITLE "First After Me"
+    ISRC `````0000000
+    INDEX 00 05:18:52
+    INDEX 01 05:18:55
+  TRACK 04 AUDIO
+    TITLE "Steps"
+    ISRC `````0000000
+    INDEX 01 07:23:57
+  TRACK 05 AUDIO
+    TITLE "The Mover"
+    ISRC `````0000000
+    INDEX 00 10:56:67
+    INDEX 01 10:57:05
+  TRACK 06 AUDIO
+    TITLE "Penny In My Pocket"
+    ISRC `````0000000
+    INDEX 01 14:09:22
+  TRACK 07 AUDIO
+    TITLE "Lies And Lies"
+    ISRC `````0000000
+    INDEX 01 18:19:17
+  TRACK 08 AUDIO
+    TITLE "Running Water"
+    ISRC `````0000000
+    INDEX 01 21:24:35
+  TRACK 09 AUDIO
+    TITLE "Trembling"
+    ISRC `````0000000
+    INDEX 01 24:44:52
+  TRACK 10 AUDIO
+    TITLE "Maniac"
+    ISRC `````0000000
+    INDEX 01 27:58:72
+  TRACK 11 AUDIO
+    TITLE "Too Many Hopes"
+    ISRC `````0000000
+    INDEX 01 31:20:55

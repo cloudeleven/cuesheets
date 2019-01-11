@@ -1,0 +1,59 @@
+TITLE "Deface the Music"
+PERFORMER "Utopia"
+CATALOG 0075677087326
+REM GENRE "Pop"
+REM DATE "1980"
+REM DISCID AB07B20D
+FILE "Deface the Music.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "I Just Want to Touch You"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:32
+  TRACK 02 AUDIO
+    TITLE "Crystal Ball"
+    INDEX 00 02:02:05
+    INDEX 01 02:04:52
+  TRACK 03 AUDIO
+    TITLE "Where Does the World Go to Hide"
+    INDEX 00 04:04:33
+    INDEX 01 04:07:10
+  TRACK 04 AUDIO
+    TITLE "Silly Boy"
+    INDEX 00 05:49:50
+    INDEX 01 05:52:32
+  TRACK 05 AUDIO
+    TITLE "Alone"
+    INDEX 00 08:13:23
+    INDEX 01 08:16:20
+  TRACK 06 AUDIO
+    TITLE "That's Not Right"
+    INDEX 00 10:27:03
+    INDEX 01 10:29:42
+  TRACK 07 AUDIO
+    TITLE "Take It Home"
+    INDEX 00 13:07:03
+    INDEX 01 13:10:25
+  TRACK 08 AUDIO
+    TITLE "Hoi Poloi"
+    INDEX 00 16:03:08
+    INDEX 01 16:05:10
+  TRACK 09 AUDIO
+    TITLE "Life Goes On"
+    INDEX 00 18:40:10
+    INDEX 01 18:42:07
+  TRACK 10 AUDIO
+    TITLE "Feel Too Good"
+    INDEX 00 21:02:73
+    INDEX 01 21:05:32
+  TRACK 11 AUDIO
+    TITLE "Always Late"
+    INDEX 00 24:09:18
+    INDEX 01 24:13:40
+  TRACK 12 AUDIO
+    TITLE "All Smiles"
+    INDEX 00 26:36:48
+    INDEX 01 26:39:20
+  TRACK 13 AUDIO
+    TITLE "Everybody Else Is Wrong"
+    INDEX 00 29:06:08
+    INDEX 01 29:10:70

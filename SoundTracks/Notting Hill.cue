@@ -1,0 +1,91 @@
+TITLE "Notting Hill"
+CATALOG 4988011363122
+REM GENRE "Pop"
+REM DATE "1999"
+REM DISCID CB0E340F
+REM COMPILATION TRUE
+FILE "Notting Hill.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "She"
+    PERFORMER "Elvis Costello"
+    ISRC USIR29900128
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "You've Got a Way"
+    PERFORMER "Shania Twain"
+    ISRC USMR19900071
+    INDEX 00 03:07:00
+    INDEX 01 03:08:50
+  TRACK 03 AUDIO
+    TITLE "I Do (Cherish You)"
+    PERFORMER "98 Degrees"
+    ISRC USMO19883529
+    INDEX 00 06:30:70
+    INDEX 01 06:32:28
+  TRACK 04 AUDIO
+    TITLE "Ain't No Sunshine"
+    PERFORMER "Bill Withers"
+    INDEX 00 10:18:30
+    INDEX 01 10:19:30
+  TRACK 05 AUDIO
+    TITLE "How Can You Mend A Broken Heart?"
+    PERFORMER "Al Green"
+    INDEX 00 12:22:70
+    INDEX 01 12:24:58
+  TRACK 06 AUDIO
+    TITLE "In Our Lifetime"
+    PERFORMER "Texas"
+    ISRC GBF089900102
+    INDEX 01 18:49:53
+  TRACK 07 AUDIO
+    TITLE "Gimme Some Lovin'"
+    PERFORMER "The Spencer Davis Group"
+    ISRC GBAKW6600008
+    INDEX 00 22:55:43
+    INDEX 01 22:57:08
+  TRACK 08 AUDIO
+    TITLE "When You Say Nothing at All"
+    PERFORMER "Ronan Keating"
+    ISRC GBAKW9900103
+    INDEX 00 25:55:10
+    INDEX 01 25:57:33
+  TRACK 09 AUDIO
+    TITLE "Ain't No Sunshine"
+    PERFORMER "Lighthouse Family"
+    ISRC GBAKW9900138
+    INDEX 01 30:12:30
+  TRACK 10 AUDIO
+    TITLE "From the Heart"
+    PERFORMER "Another Level"
+    INDEX 00 33:53:53
+    INDEX 01 33:55:33
+  TRACK 11 AUDIO
+    TITLE "Everything About You"
+    PERFORMER "Steve Poltz"
+    ISRC USMR19887473
+    INDEX 00 38:47:15
+    INDEX 01 38:49:03
+  TRACK 12 AUDIO
+    TITLE "Will and Anna"
+    PERFORMER "Trevor Jones"
+    ISRC USIR29900129
+    INDEX 00 42:44:10
+    INDEX 01 42:45:53
+  TRACK 13 AUDIO
+    TITLE "Notting Hill"
+    PERFORMER "Trevor Jones"
+    ISRC USIR29900130
+    INDEX 00 46:21:43
+    INDEX 01 46:23:28
+  TRACK 14 AUDIO
+    TITLE "Born to Cry"
+    PERFORMER "Pulp"
+    ISRC GBAAN9900095
+    INDEX 00 51:08:53
+    INDEX 01 51:10:18
+  TRACK 15 AUDIO
+    TITLE "Filth and Dreams"
+    PERFORMER "Swing Out Sister"
+    ISRC USMR19900031
+    INDEX 00 56:43:38
+    INDEX 01 56:45:05

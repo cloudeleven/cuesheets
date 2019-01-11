@@ -1,0 +1,117 @@
+X Lossless Decoder version 20110417 (131.0)
+
+XLD extraction logfile from 2011-04-26 08:55:00 +0900
+
+The Beatles / Real Love
+
+Used drive : HL-DT-ST BD-RE  BH10NS30 (revision EL00)
+
+Ripper mode             : CDParanoia III 10.2
+Disable audio cache     : OK for the drive with a cache less than 2750KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 100
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:32 | 03:55:30 |        32    |    17686   
+        2  | 03:55:62 | 03:03:58 |     17687    |    31469   
+        3  | 06:59:45 | 02:48:02 |     31470    |    44071   
+        4  | 09:47:47 | 02:23:65 |     44072    |    54861   
+
+List of alternate offset correction values
+        #  | Absolute | Relative | Confidence 
+    ------------------------------------------
+        1  |   1661   |    994   |     48     
+        2  |   2119   |   1452   |     29     
+        3  |   2034   |   1367   |      6     
+
+AccurateRip Summary
+    Track 01 : OK (confidence 14)
+    Track 02 : OK (confidence 15)
+    Track 03 : OK (confidence 15)
+    Track 04 : OK (confidence 15)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Users/angelicalbite/Music/flac/Real Love.flac
+    CRC32 hash             : CBDBD944
+    CRC32 hash (skip zero) : D5B1C7DD
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 01
+    Pre-gap length : 00:02:32
+
+    CRC32 hash             : B9FE5BEE
+    CRC32 hash (skip zero) : 85BB98F7
+    AccurateRip signature  : 24CC41F4
+        ->Accurately ripped! (confidence 14)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 02
+    Pre-gap length : 00:01:37
+
+    CRC32 hash             : EE82FF3C
+    CRC32 hash (skip zero) : 0410C1AA
+    AccurateRip signature  : 12F11482
+        ->Accurately ripped! (confidence 15)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 03
+    Pre-gap length : 00:00:35
+
+    CRC32 hash             : 4FF029AF
+    CRC32 hash (skip zero) : D406FDA2
+    AccurateRip signature  : 2A12E489
+        ->Accurately ripped! (confidence 15)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 04
+    Pre-gap length : 00:00:52
+
+    CRC32 hash             : 7ABD6178
+    CRC32 hash (skip zero) : 3380B132
+    AccurateRip signature  : D055509F
+        ->Accurately ripped! (confidence 15)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+No errors occurred
+
+End of status report

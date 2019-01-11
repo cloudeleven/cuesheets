@@ -1,0 +1,48 @@
+TITLE "Armchair Theatre"
+PERFORMER "Jeff Lynne"
+REM GENRE "Rock"
+REM DISCID 8E08B10B
+FILE "Armchair Theatre.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Every Little Thing"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Don't Let Go"
+    INDEX 00 03:43:05
+    INDEX 01 03:45:25
+  TRACK 03 AUDIO
+    TITLE "Lift Me Up"
+    INDEX 00 06:45:62
+    INDEX 01 06:46:60
+  TRACK 04 AUDIO
+    TITLE "Nobody Home"
+    INDEX 00 10:23:30
+    INDEX 01 10:25:12
+  TRACK 05 AUDIO
+    TITLE "September Song"
+    INDEX 00 14:17:32
+    INDEX 01 14:18:62
+  TRACK 06 AUDIO
+    TITLE "Now You're Gone"
+    INDEX 00 17:16:42
+    INDEX 01 17:18:12
+  TRACK 07 AUDIO
+    TITLE "Don't Say Goodbye"
+    INDEX 00 21:15:57
+    INDEX 01 21:16:32
+  TRACK 08 AUDIO
+    TITLE "What Would It Take"
+    INDEX 00 24:25:62
+    INDEX 01 24:26:65
+  TRACK 09 AUDIO
+    TITLE "Stormy Weather"
+    INDEX 00 27:07:60
+    INDEX 01 27:09:17
+  TRACK 10 AUDIO
+    TITLE "Blown Away"
+    INDEX 00 30:51:22
+    INDEX 01 30:53:15
+  TRACK 11 AUDIO
+    TITLE "Save Me Now"
+    INDEX 00 34:22:67
+    INDEX 01 34:26:15

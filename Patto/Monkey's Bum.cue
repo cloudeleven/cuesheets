@@ -1,0 +1,43 @@
+TITLE "Monkey's Bum"
+PERFORMER "Patto"
+REM DISCID 8508BD0A
+FILE "Monkey's Bum.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "My Days Are Numbered"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "The Dream I Had Last Night"
+    INDEX 00 05:07:50
+    INDEX 01 05:10:50
+  TRACK 03 AUDIO
+    TITLE "Sugar Cube 1967"
+    INDEX 00 06:58:62
+    INDEX 01 07:00:62
+  TRACK 04 AUDIO
+    TITLE "I Need You"
+    INDEX 00 11:05:12
+    INDEX 01 11:07:12
+  TRACK 05 AUDIO
+    TITLE "Good Friend"
+    INDEX 00 14:32:62
+    INDEX 01 14:34:62
+  TRACK 06 AUDIO
+    TITLE "Get Up And Do It"
+    INDEX 00 18:15:62
+    INDEX 01 18:17:62
+  TRACK 07 AUDIO
+    TITLE "Sausages"
+    INDEX 00 21:25:12
+    INDEX 01 21:26:12
+  TRACK 08 AUDIO
+    TITLE "Hedyob"
+    INDEX 00 25:36:00
+    INDEX 01 25:38:00
+  TRACK 09 AUDIO
+    TITLE "Pick Up The Phone"
+    INDEX 00 30:44:37
+    INDEX 01 30:46:37
+  TRACK 10 AUDIO
+    TITLE "General Custer"
+    INDEX 00 33:57:00
+    INDEX 01 33:58:00

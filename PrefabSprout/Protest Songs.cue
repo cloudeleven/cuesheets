@@ -1,0 +1,44 @@
+TITLE "Protest Songs"
+PERFORMER "Prefab Sprout"
+REM GENRE "Rock"
+REM DATE "1989"
+REM DISCID 8609E20A
+FILE "Protest Songs.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "The World Awake"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Life Of Surprises"
+    INDEX 00 04:24:56
+    INDEX 01 04:26:25
+  TRACK 03 AUDIO
+    TITLE "Horsechimes"
+    INDEX 00 08:31:52
+    INDEX 01 08:34:27
+  TRACK 04 AUDIO
+    TITLE "Wicked Things"
+    INDEX 00 12:56:05
+    INDEX 01 12:58:55
+  TRACK 05 AUDIO
+    TITLE "Dublin"
+    INDEX 00 16:07:53
+    INDEX 01 16:10:52
+  TRACK 06 AUDIO
+    TITLE "Tiffanys"
+    INDEX 00 19:51:12
+    INDEX 01 19:53:12
+  TRACK 07 AUDIO
+    TITLE "Diana"
+    INDEX 00 23:42:67
+    INDEX 01 23:43:67
+  TRACK 08 AUDIO
+    TITLE "Talking Scarlet"
+    INDEX 00 27:53:07
+    INDEX 01 27:54:62
+  TRACK 09 AUDIO
+    TITLE "'Til The Cows Come Home"
+    INDEX 00 32:27:29
+    INDEX 01 32:29:32
+  TRACK 10 AUDIO
+    TITLE "Pearly Gates"
+    INDEX 01 36:41:65

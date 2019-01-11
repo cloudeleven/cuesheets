@@ -1,0 +1,35 @@
+TITLE "Beautiful Noise"
+PERFORMER "布袋寅泰"
+REM GENRE "Rock"
+REM DISCID 61086D08
+FILE "Beautiful Noise.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Kaleidoscope"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Neputune"
+    INDEX 01 06:22:55
+  TRACK 03 AUDIO
+    TITLE "Dawn"
+    INDEX 00 10:22:52
+    INDEX 01 10:23:55
+  TRACK 04 AUDIO
+    TITLE "Masquerade"
+    INDEX 00 15:48:00
+    INDEX 01 15:50:42
+  TRACK 05 AUDIO
+    TITLE "Night breeze"
+    INDEX 00 21:29:30
+    INDEX 01 21:30:70
+  TRACK 06 AUDIO
+    TITLE "Chill"
+    INDEX 00 24:18:32
+    INDEX 01 24:19:15
+  TRACK 07 AUDIO
+    TITLE "Tears of joy"
+    INDEX 00 30:01:42
+    INDEX 01 30:03:10
+  TRACK 08 AUDIO
+    TITLE "Rebirth"
+    INDEX 00 34:02:42
+    INDEX 01 34:03:50

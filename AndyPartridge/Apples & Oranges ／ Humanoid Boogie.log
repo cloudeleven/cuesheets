@@ -1,0 +1,97 @@
+X Lossless Decoder version 20181019 (151.1)
+
+XLD extraction logfile from 2018-12-27 22:37:42 +0900
+
+Andy Partridge / Apples & Oranges / Humanoid Boogie
+
+Used drive : HL-DT-ST BD-RE  BH10NS30 (revision EL00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:50:73 |         0    |    17322   
+        2  | 03:50:73 | 04:04:29 |     17323    |    35651   
+        3  | 07:55:27 | 03:50:60 |     35652    |    52961   
+        4  | 11:46:12 | 04:02:69 |     52962    |    71180   
+
+AccurateRip Summary (DiscID: 0002b3de-000ad2ec-2a03b504)
+    Track 01 : OK (v2, confidence 7/7)
+    Track 02 : OK (v2, confidence 7/7)
+    Track 03 : OK (v2, confidence 7/7)
+    Track 04 : OK (v2, confidence 7/7)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Users/m4c/Music/Andy Partridge - Apples & Oranges ／ Humanoid Boogie.flac
+    CRC32 hash               : 945D6287
+    CRC32 hash (skip zero)   : FB576837
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : B2E61E65
+    CRC32 hash (skip zero)   : ACDADA9B
+    AccurateRip v1 signature : B6F8AC0F
+    AccurateRip v2 signature : 46C2F3F2
+        ->Accurately ripped (v2, confidence 7/7)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+
+    CRC32 hash               : 5881C555
+    CRC32 hash (skip zero)   : 7F4C03C1
+    AccurateRip v1 signature : 4B72D7D8
+    AccurateRip v2 signature : 286D6419
+        ->Accurately ripped (v2, confidence 7/7)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+
+    CRC32 hash               : A416AA1F
+    CRC32 hash (skip zero)   : F590B116
+    AccurateRip v1 signature : 23F9CBA3
+    AccurateRip v2 signature : 807EFA11
+        ->Accurately ripped (v2, confidence 7/7)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+
+    CRC32 hash               : EC84D1B8
+    CRC32 hash (skip zero)   : 508D72DC
+    AccurateRip v1 signature : 4EC9E820
+    AccurateRip v2 signature : 9B244241
+        ->Accurately ripped (v2, confidence 7/7)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

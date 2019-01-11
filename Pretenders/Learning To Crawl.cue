@@ -1,0 +1,101 @@
+TITLE "Learning To Crawl"
+PERFORMER "Pretenders"
+CATALOG 0081227999872
+REM GENRE "Rock"
+REM DATE "2007"
+REM DISCNUMBER 1
+REM TOTALDISCS 1
+REM DISCID E9105811
+FILE "Learning To Crawl.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Middle Of The Road"
+    SONGWRITER "Chrissie Hynde"
+    ISRC GBAHT0700186
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Back On The Chain Gang"
+    SONGWRITER "Chrissie Hynde"
+    ISRC GBAHT0700187
+    INDEX 01 04:14:22
+  TRACK 03 AUDIO
+    TITLE "Time The Avenger"
+    SONGWRITER "Chrissie Hynde"
+    ISRC GBAHT0700188
+    INDEX 01 08:05:31
+  TRACK 04 AUDIO
+    TITLE "Watching The Clothes"
+    SONGWRITER "Chrissie Hynde"
+    ISRC GBAHT0700189
+    INDEX 01 13:01:37
+  TRACK 05 AUDIO
+    TITLE "Show Me"
+    SONGWRITER "Chrissie Hynde"
+    ISRC GBAHT0700190
+    INDEX 01 15:54:32
+  TRACK 06 AUDIO
+    TITLE "Thumbelina"
+    SONGWRITER "Chrissie Hynde"
+    ISRC GBAHT0700191
+    INDEX 00 20:08:24
+    INDEX 01 20:10:63
+  TRACK 07 AUDIO
+    TITLE "My City Was Gone"
+    SONGWRITER "Chrissie Hynde"
+    ISRC GBAHT0700192
+    INDEX 01 23:28:51
+  TRACK 08 AUDIO
+    TITLE "Thin Line Between Love And Hate"
+    SONGWRITER "Chrissie Hynde"
+    ISRC GBAHT0700193
+    INDEX 01 28:53:64
+  TRACK 09 AUDIO
+    TITLE "I Hurt You"
+    SONGWRITER "Chrissie Hynde"
+    ISRC GBAHT0700194
+    INDEX 01 32:34:60
+  TRACK 10 AUDIO
+    TITLE "2000 Miles"
+    SONGWRITER "Chrissie Hynde"
+    ISRC GBAHT0700195
+    INDEX 01 37:12:12
+  TRACK 11 AUDIO
+    TITLE "Fast Or Slow (The Law's The Law Bonus)"
+    SONGWRITER "Chrissie Hynde"
+    ISRC GBAHT0700206
+    INDEX 00 40:52:44
+    INDEX 01 40:58:19
+  TRACK 12 AUDIO
+    TITLE "Tequila (Bonus)"
+    SONGWRITER "Chrissie Hynde"
+    ISRC GBAHT0700207
+    INDEX 00 44:12:09
+    INDEX 01 44:13:26
+  TRACK 13 AUDIO
+    TITLE "I Hurt You (Denmark Street Demo)"
+    SONGWRITER "Chrissie Hynde"
+    ISRC GBAHT0700209
+    INDEX 00 47:47:10
+    INDEX 01 47:49:12
+  TRACK 14 AUDIO
+    TITLE "When I Change My Life (Denmark Street Demo)"
+    SONGWRITER "Chrissie Hynde"
+    ISRC GBAHT0700212
+    INDEX 00 51:54:35
+    INDEX 01 51:56:01
+  TRACK 15 AUDIO
+    TITLE "Ramblin' Rob (Denmark Street Demo)"
+    SONGWRITER "Chrissie Hynde"
+    ISRC GBAHT0700215
+    INDEX 00 56:36:70
+    INDEX 01 56:39:25
+  TRACK 16 AUDIO
+    TITLE "My City Was Gone (Live)"
+    SONGWRITER "Chrissie Hynde"
+    ISRC GBAHT0700218
+    INDEX 00 60:09:45
+    INDEX 01 60:11:49
+  TRACK 17 AUDIO
+    TITLE "Money (Live)"
+    SONGWRITER "Chrissie Hynde"
+    ISRC GBAHT0700219
+    INDEX 01 65:05:24

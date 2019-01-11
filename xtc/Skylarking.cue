@@ -1,0 +1,62 @@
+TITLE "Skylarking"
+PERFORMER "XTC"
+REM GENRE "Rock"
+REM DATE "1992"
+REM DISCID B10ABC0E
+FILE "Skylarking.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Summer's Cauldron"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:33
+  TRACK 02 AUDIO
+    TITLE "Grass"
+    INDEX 00 03:19:28
+    INDEX 01 03:19:30
+  TRACK 03 AUDIO
+    TITLE "The Meeting Place"
+    INDEX 00 06:25:18
+    INDEX 01 06:25:20
+  TRACK 04 AUDIO
+    TITLE "That's Really Super, Supergirl"
+    INDEX 00 09:39:18
+    INDEX 01 09:39:20
+  TRACK 05 AUDIO
+    TITLE "Ballet For a Rainy Day"
+    INDEX 00 13:00:25
+    INDEX 01 13:00:28
+  TRACK 06 AUDIO
+    TITLE "1000 Umbrellas"
+    INDEX 00 15:50:40
+    INDEX 01 15:50:43
+  TRACK 07 AUDIO
+    TITLE "Season Cycle"
+    INDEX 00 19:34:48
+    INDEX 01 19:34:50
+  TRACK 08 AUDIO
+    TITLE "Earn Enough For Us"
+    INDEX 00 22:56:08
+    INDEX 01 22:56:20
+  TRACK 09 AUDIO
+    TITLE "Big Day"
+    INDEX 00 25:50:23
+    INDEX 01 25:50:25
+  TRACK 10 AUDIO
+    TITLE "Another Satellite"
+    INDEX 00 29:22:33
+    INDEX 01 29:22:35
+  TRACK 11 AUDIO
+    TITLE "Mermaid Smiled"
+    INDEX 00 33:38:23
+    INDEX 01 33:38:28
+  TRACK 12 AUDIO
+    TITLE "The Man Who Sailed Around His Soul"
+    INDEX 00 36:04:60
+    INDEX 01 36:04:65
+  TRACK 13 AUDIO
+    TITLE "Dying"
+    INDEX 00 39:28:65
+    INDEX 01 39:28:70
+  TRACK 14 AUDIO
+    TITLE "Sacrificial Bonfire"
+    INDEX 00 42:00:23
+    INDEX 01 42:00:28

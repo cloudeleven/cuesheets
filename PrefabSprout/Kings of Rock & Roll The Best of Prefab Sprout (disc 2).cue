@@ -1,0 +1,83 @@
+TITLE "Kings of Rock & Roll The Best of Prefab Sprout (disc 2)"
+PERFORMER "Prefab Sprout"
+REM GENRE "Pop"
+REM DATE "2007"
+REM DISCNUMBER 2
+REM TOTALDISCS 2
+REM DISCID 1311BE13
+FILE "Kings of Rock & Roll The Best of Prefab Sprout (disc 2).flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Faron Young"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Hey Manhattan!"
+    INDEX 00 03:43:00
+    INDEX 01 03:44:51
+  TRACK 03 AUDIO
+    TITLE "Don't Sing"
+    INDEX 00 08:31:45
+    INDEX 01 08:33:21
+  TRACK 04 AUDIO
+    TITLE "If You Don't Love Me"
+    INDEX 00 12:25:30
+    INDEX 01 12:27:06
+  TRACK 05 AUDIO
+    TITLE "Looking For Atlantis"
+    INDEX 00 16:09:47
+    INDEX 01 16:11:23
+  TRACK 06 AUDIO
+    TITLE "Electric Guitars"
+    INDEX 00 20:11:53
+    INDEX 01 20:13:29
+  TRACK 07 AUDIO
+    TITLE "I Remember That"
+    INDEX 00 23:54:12
+    INDEX 01 23:55:63
+  TRACK 08 AUDIO
+    TITLE "Green Isaac"
+    INDEX 00 28:10:36
+    INDEX 01 28:12:12
+  TRACK 09 AUDIO
+    TITLE "Here on the Eerie"
+    INDEX 00 31:41:55
+    INDEX 01 31:43:31
+  TRACK 10 AUDIO
+    TITLE "The Yearning Loins"
+    INDEX 00 35:41:70
+    INDEX 01 35:43:46
+  TRACK 11 AUDIO
+    TITLE "Cruel"
+    INDEX 00 39:23:66
+    INDEX 01 39:25:42
+  TRACK 12 AUDIO
+    TITLE "Swans"
+    INDEX 00 43:45:09
+    INDEX 01 43:46:60
+  TRACK 13 AUDIO
+    TITLE "I Never Play Basketball Now"
+    INDEX 00 46:22:35
+    INDEX 01 46:24:11
+  TRACK 14 AUDIO
+    TITLE "Donna Summer"
+    INDEX 00 50:03:05
+    INDEX 01 50:04:56
+  TRACK 15 AUDIO
+    TITLE "The Ice Maiden"
+    INDEX 00 53:18:16
+    INDEX 01 53:19:67
+  TRACK 16 AUDIO
+    TITLE "The Mystery of Love"
+    INDEX 00 56:40:30
+    INDEX 01 56:42:06
+  TRACK 17 AUDIO
+    TITLE "Scarlet Nights"
+    INDEX 00 61:19:52
+    INDEX 01 61:21:28
+  TRACK 18 AUDIO
+    TITLE "Anne Marie"
+    INDEX 00 65:35:40
+    INDEX 01 65:37:16
+  TRACK 19 AUDIO
+    TITLE "Pearly Gates"
+    INDEX 00 70:11:25
+    INDEX 01 70:13:01

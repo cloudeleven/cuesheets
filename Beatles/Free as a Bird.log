@@ -1,0 +1,115 @@
+X Lossless Decoder version 20110417 (131.0)
+
+XLD extraction logfile from 2011-04-26 07:45:39 +0900
+
+The Beatles / Free as a Bird
+
+Used drive : HL-DT-ST BD-RE  BH10NS30 (revision EL00)
+
+Ripper mode             : CDParanoia III 10.2
+Disable audio cache     : OK for the drive with a cache less than 2750KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 100
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:26:22 |         0    |    19971   
+        2  | 04:26:22 | 02:51:45 |     19972    |    32841   
+        3  | 07:17:67 | 03:17:48 |     32842    |    47664   
+        4  | 10:35:40 | 03:03:30 |     47665    |    61419   
+
+List of alternate offset correction values
+        #  | Absolute | Relative | Confidence 
+    ------------------------------------------
+        1  |      3   |   -664   |      5     
+
+AccurateRip Summary
+    Track 01 : NG
+    Track 02 : OK (AR2, confidence 7)
+    Track 03 : OK (AR2, confidence 7)
+    Track 04 : OK (AR2, confidence 7)
+        ->3 track(s) accurately ripped, 1 track(s) not, 0 track(s) not found
+
+All Tracks
+    Filename : /Users/angelicalbite/Music/flac/Free as a Bird.flac
+    CRC32 hash             : A281F7EF
+    CRC32 hash (skip zero) : 2D158982
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 2
+        Atom jitter error (maybe fixed)      : 1
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 1
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash             : 99844D35
+    CRC32 hash (skip zero) : 82E9FF2F
+    AccurateRip signature  : 526D5A3C
+        ->Rip may not be accurate.
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 2
+        Atom jitter error (maybe fixed)      : 1
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 1
+
+Track 02
+    Pre-gap length : 00:01:50
+
+    CRC32 hash             : 147FD532
+    CRC32 hash (skip zero) : 417F255A
+    AccurateRip signature  : 5AF760D9
+        ->Accurately ripped! (AR2, confidence 7)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 03
+    Pre-gap length : 00:00:30
+
+    CRC32 hash             : 683A52C3
+    CRC32 hash (skip zero) : D13764F4
+    AccurateRip signature  : 544ACE79
+        ->Accurately ripped! (AR2, confidence 7)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 04
+    Pre-gap length : 00:00:03
+
+    CRC32 hash             : 41FD5AC4
+    CRC32 hash (skip zero) : 70623727
+    AccurateRip signature  : D2019DC6
+        ->Accurately ripped! (AR2, confidence 7)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+No errors occurred
+
+End of status report

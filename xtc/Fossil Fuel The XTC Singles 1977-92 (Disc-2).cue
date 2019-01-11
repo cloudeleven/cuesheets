@@ -1,0 +1,65 @@
+TITLE "Fossil Fuel The XTC Singles 1977-92 (Disc-2)"
+PERFORMER "XTC"
+REM GENRE "Rock"
+REM DATE "1996"
+REM DISCID D80D9A0F
+FILE "Fossil Fuel The XTC Singles 1977-92 (Disc-2).flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Great Fire"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Wonderland"
+    INDEX 00 03:50:50
+    INDEX 01 03:50:52
+  TRACK 03 AUDIO
+    TITLE "Love On A Farmboy's Wages."
+    INDEX 00 08:06:10
+    INDEX 01 08:06:12
+  TRACK 04 AUDIO
+    TITLE "All You Pretty Girls"
+    INDEX 00 12:05:30
+    INDEX 01 12:05:32
+  TRACK 05 AUDIO
+    TITLE "This World Over"
+    INDEX 00 16:04:47
+    INDEX 01 16:04:50
+  TRACK 06 AUDIO
+    TITLE "Wake Up"
+    INDEX 00 20:50:20
+    INDEX 01 20:50:22
+  TRACK 07 AUDIO
+    TITLE "Grass"
+    INDEX 00 24:31:10
+    INDEX 01 24:31:12
+  TRACK 08 AUDIO
+    TITLE "The Meeting Place"
+    INDEX 00 27:13:72
+    INDEX 01 27:14:00
+  TRACK 09 AUDIO
+    TITLE "Dear God"
+    INDEX 00 30:27:07
+    INDEX 01 30:27:10
+  TRACK 10 AUDIO
+    TITLE "The Mayor Of Simpleton"
+    INDEX 00 34:04:37
+    INDEX 01 34:04:40
+  TRACK 11 AUDIO
+    TITLE "King For A Day"
+    INDEX 00 38:02:32
+    INDEX 01 38:02:35
+  TRACK 12 AUDIO
+    TITLE "The Loving"
+    INDEX 00 41:39:02
+    INDEX 01 41:39:05
+  TRACK 13 AUDIO
+    TITLE "The Disappointed"
+    INDEX 00 45:33:40
+    INDEX 01 45:33:42
+  TRACK 14 AUDIO
+    TITLE "The Ballad Of Peter Pumpkinhead"
+    INDEX 00 49:11:60
+    INDEX 01 49:11:62
+  TRACK 15 AUDIO
+    TITLE "Wrapped In Grey"
+    INDEX 00 54:12:05
+    INDEX 01 54:15:02

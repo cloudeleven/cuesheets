@@ -1,0 +1,105 @@
+TITLE "The Craighall Demos 71:76"
+PERFORMER "Pilot"
+REM GENRE "Pop"
+REM DATE "2007"
+REM DISCID 250EC214
+FILE "The Craighall Demos 71:76.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "The Library Door"
+    FLAGS DCP
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Lazy Davie"
+    FLAGS DCP
+    INDEX 00 03:22:16
+    INDEX 01 03:24:16
+  TRACK 03 AUDIO
+    TITLE "Joe"
+    FLAGS DCP
+    INDEX 00 07:16:47
+    INDEX 01 07:18:47
+  TRACK 04 AUDIO
+    TITLE "Love Has Got Me By The Throat"
+    FLAGS DCP
+    INDEX 00 10:02:65
+    INDEX 01 10:04:65
+  TRACK 05 AUDIO
+    TITLE "Meet Me Now"
+    FLAGS DCP
+    INDEX 00 13:23:34
+    INDEX 01 13:25:34
+  TRACK 06 AUDIO
+    TITLE "Now That I Found You"
+    FLAGS DCP
+    INDEX 00 16:13:11
+    INDEX 01 16:15:11
+  TRACK 07 AUDIO
+    TITLE "My Lonely Companion"
+    FLAGS DCP
+    INDEX 00 20:25:66
+    INDEX 01 20:27:66
+  TRACK 08 AUDIO
+    TITLE "Reason"
+    FLAGS DCP
+    INDEX 00 23:43:28
+    INDEX 01 23:45:28
+  TRACK 09 AUDIO
+    TITLE "Sky Blue(Bonus Track)"
+    FLAGS DCP
+    INDEX 00 27:27:63
+    INDEX 01 27:29:63
+  TRACK 10 AUDIO
+    TITLE "Cold Stories"
+    FLAGS DCP
+    INDEX 00 31:41:10
+    INDEX 01 31:43:10
+  TRACK 11 AUDIO
+    TITLE "You're My Number One"
+    FLAGS DCP
+    INDEX 00 34:01:10
+    INDEX 01 34:03:10
+  TRACK 12 AUDIO
+    TITLE "Passion Piece"
+    FLAGS DCP
+    INDEX 00 36:55:66
+    INDEX 01 36:57:66
+  TRACK 13 AUDIO
+    TITLE "January"
+    FLAGS DCP
+    INDEX 00 38:59:14
+    INDEX 01 39:01:14
+  TRACK 14 AUDIO
+    TITLE "Your Devotion"
+    FLAGS DCP
+    INDEX 00 43:02:18
+    INDEX 01 43:04:18
+  TRACK 15 AUDIO
+    TITLE "Heard It All Before"
+    FLAGS DCP
+    INDEX 00 46:29:48
+    INDEX 01 46:31:48
+  TRACK 16 AUDIO
+    TITLE "Lady Luck"
+    FLAGS DCP
+    INDEX 00 49:44:40
+    INDEX 01 49:46:40
+  TRACK 17 AUDIO
+    TITLE "Scorpio"
+    FLAGS DCP
+    INDEX 00 52:23:30
+    INDEX 01 52:25:30
+  TRACK 18 AUDIO
+    TITLE "Get Up And Go"
+    FLAGS DCP
+    INDEX 00 55:46:59
+    INDEX 01 55:48:59
+  TRACK 19 AUDIO
+    TITLE "Goldmine"
+    FLAGS DCP
+    INDEX 00 58:36:67
+    INDEX 01 58:38:67
+  TRACK 20 AUDIO
+    TITLE "Lost Within Your Dreams(Hidden Track)"
+    FLAGS DCP
+    INDEX 00 61:12:63
+    INDEX 01 61:27:63

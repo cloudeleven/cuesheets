@@ -1,0 +1,54 @@
+TITLE "Ogdens' Nut Gone Flake"
+PERFORMER "Small Faces"
+REM GENRE "Pop"
+REM DATE "1968"
+REM DISCID 9A09050C
+FILE "Ogdens' Nut Gone Flake.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Ogdens' Nut Gone Flake"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:32
+  TRACK 02 AUDIO
+    TITLE "Afterglow Of Your Love"
+    INDEX 00 02:28:10
+    INDEX 01 02:28:37
+  TRACK 03 AUDIO
+    TITLE "Long Agos And Worlds Apart"
+    INDEX 00 05:58:20
+    INDEX 01 05:58:27
+  TRACK 04 AUDIO
+    TITLE "Rene"
+    INDEX 00 08:32:47
+    INDEX 01 08:32:50
+  TRACK 05 AUDIO
+    TITLE "Song Of A Baker"
+    INDEX 00 13:02:25
+    INDEX 01 13:03:57
+  TRACK 06 AUDIO
+    TITLE "Lazy Sunday"
+    INDEX 00 16:20:20
+    INDEX 01 16:20:55
+  TRACK 07 AUDIO
+    TITLE "Hapiness Stan"
+    INDEX 00 19:27:52
+    INDEX 01 19:27:55
+  TRACK 08 AUDIO
+    TITLE "Rollin' Over"
+    INDEX 00 22:04:60
+    INDEX 01 22:04:62
+  TRACK 09 AUDIO
+    TITLE "The Hungry Intruder"
+    INDEX 00 24:54:35
+    INDEX 01 24:54:37
+  TRACK 10 AUDIO
+    TITLE "The Journey"
+    INDEX 00 27:10:02
+    INDEX 01 27:10:05
+  TRACK 11 AUDIO
+    TITLE "Mad John"
+    INDEX 00 31:19:70
+    INDEX 01 31:19:72
+  TRACK 12 AUDIO
+    TITLE "Happy Days Toy Town"
+    INDEX 00 34:10:42
+    INDEX 01 34:10:45

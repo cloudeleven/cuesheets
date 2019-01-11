@@ -1,0 +1,30 @@
+TITLE "Black List (disc 1) (remastered in 2006)"
+PERFORMER "Barbee Boys"
+REM DATE "1988"
+REM DISCID 4104E206
+FILE "Black List (disc 1) (remastered in 2006).flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "C'mon Let's go!"
+    ISRC JPES08800700
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Blue Blue Rose"
+    ISRC JPES08800610
+    INDEX 01 02:49:43
+  TRACK 03 AUDIO
+    TITLE "でも!? しょうがない"
+    ISRC JPES08800660
+    INDEX 01 06:02:11
+  TRACK 04 AUDIO
+    TITLE "暗闇で DANCE"
+    ISRC JPES08800650
+    INDEX 00 10:26:32
+    INDEX 01 10:28:34
+  TRACK 05 AUDIO
+    TITLE "瞳の奥でまばたくな"
+    ISRC JPES08800740
+    INDEX 01 13:34:03
+  TRACK 06 AUDIO
+    TITLE "チャンス到来"
+    ISRC JPES08800630
+    INDEX 01 16:09:00

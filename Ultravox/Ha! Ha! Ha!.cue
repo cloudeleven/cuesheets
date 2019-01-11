@@ -1,0 +1,35 @@
+TITLE "Ha! Ha! Ha!"
+PERFORMER "Ultravox"
+REM GENRE "Rock"
+REM DATE "1977"
+REM DISCID 6E082808
+FILE "Ha! Ha! Ha!.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "RockWrok"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:37
+  TRACK 02 AUDIO
+    TITLE "Frozen Ones"
+    INDEX 00 03:35:06
+    INDEX 01 03:36:35
+  TRACK 03 AUDIO
+    TITLE "Fear in the Western World"
+    INDEX 01 07:43:15
+  TRACK 04 AUDIO
+    TITLE "Distant Smile"
+    INDEX 01 11:43:37
+  TRACK 05 AUDIO
+    TITLE "Man Who Dies Every Day"
+    INDEX 01 17:04:47
+  TRACK 06 AUDIO
+    TITLE "Artificial Life"
+    INDEX 00 21:15:13
+    INDEX 01 21:17:15
+  TRACK 07 AUDIO
+    TITLE "While I'm Still Alive"
+    INDEX 00 26:15:11
+    INDEX 01 26:17:40
+  TRACK 08 AUDIO
+    TITLE "Hiroshima Mon Amour"
+    INDEX 00 29:31:56
+    INDEX 01 29:33:65

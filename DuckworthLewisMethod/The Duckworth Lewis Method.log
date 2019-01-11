@@ -1,0 +1,226 @@
+X Lossless Decoder version 20141129a (148.2)
+
+XLD extraction logfile from 2015-10-13 03:02:38 +0900
+
+The Duckworth Lewis Method / The Duckworth Lewis Method
+
+Used drive : HL-DT-ST BD-RE  BH10NS30 (revision EL00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 01:08:20 |         0    |     5119   
+        2  | 01:08:20 | 03:56:06 |      5120    |    22825   
+        3  | 05:04:26 | 03:18:66 |     22826    |    37741   
+        4  | 08:23:17 | 03:06:59 |     37742    |    51750   
+        5  | 11:30:01 | 03:23:63 |     51751    |    67038   
+        6  | 14:53:64 | 04:22:33 |     67039    |    86721   
+        7  | 19:16:22 | 01:13:58 |     86722    |    92254   
+        8  | 20:30:05 | 03:12:69 |     92255    |   106723   
+        9  | 23:42:74 | 04:49:18 |    106724    |   128416   
+       10  | 28:32:17 | 04:18:13 |    128417    |   147779   
+       11  | 32:50:30 | 04:02:04 |    147780    |   165933   
+       12  | 36:52:34 | 02:50:61 |    165934    |   178744   
+
+AccurateRip Summary (DiscID: 0010a5ef-009f02c1-8e094f0c)
+    Track 01 : OK (v1+v2, confidence 74/74)
+    Track 02 : OK (v1+v2, confidence 74/74)
+    Track 03 : OK (v1+v2, confidence 75/75)
+    Track 04 : OK (v1+v2, confidence 75/75)
+    Track 05 : OK (v1+v2, confidence 74/74)
+    Track 06 : OK (v1+v2, confidence 74/74)
+    Track 07 : OK (v1+v2, confidence 74/74)
+    Track 08 : OK (v1+v2, confidence 74/74)
+    Track 09 : OK (v1+v2, confidence 74/74)
+    Track 10 : OK (v1+v2, confidence 74/74)
+    Track 11 : OK (v1+v2, confidence 74/74)
+    Track 12 : OK (v1+v2, confidence 75/75)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Users/m4c/tmp/flac/The Duckworth Lewis Method.flac
+    CRC32 hash               : 2AF1377A
+    CRC32 hash (skip zero)   : 258E4846
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 61D12C64
+    CRC32 hash (skip zero)   : 988B8CAD
+    AccurateRip v1 signature : DAE59BF1
+    AccurateRip v2 signature : 33EFCDE6
+        ->Accurately ripped (v1+v2, confidence 43+31/74)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+
+    CRC32 hash               : F660E264
+    CRC32 hash (skip zero)   : 215D59DD
+    AccurateRip v1 signature : CC0C6521
+    AccurateRip v2 signature : 968D00F5
+        ->Accurately ripped (v1+v2, confidence 43+31/74)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Pre-gap length : 00:00:05
+
+    CRC32 hash               : 0C3C25F2
+    CRC32 hash (skip zero)   : 134143D7
+    AccurateRip v1 signature : D49018B9
+    AccurateRip v2 signature : 56D215B0
+        ->Accurately ripped (v1+v2, confidence 44+31/75)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Pre-gap length : 00:00:15
+
+    CRC32 hash               : F685EFCF
+    CRC32 hash (skip zero)   : 32FDCAD8
+    AccurateRip v1 signature : EBFFB02F
+    AccurateRip v2 signature : D594629C
+        ->Accurately ripped (v1+v2, confidence 44+31/75)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Pre-gap length : 00:00:73
+
+    CRC32 hash               : 8ED451F9
+    CRC32 hash (skip zero)   : D3572BC4
+    AccurateRip v1 signature : B471967F
+    AccurateRip v2 signature : C691FA95
+        ->Accurately ripped (v1+v2, confidence 43+31/74)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Pre-gap length : 00:00:02
+
+    CRC32 hash               : C8B393CF
+    CRC32 hash (skip zero)   : B59DF75A
+    AccurateRip v1 signature : 7A6EE7A8
+    AccurateRip v2 signature : 3428524E
+        ->Accurately ripped (v1+v2, confidence 43+31/74)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Pre-gap length : 00:00:34
+
+    CRC32 hash               : 55627B20
+    CRC32 hash (skip zero)   : F7B68262
+    AccurateRip v1 signature : 509CC150
+    AccurateRip v2 signature : 79EF0099
+        ->Accurately ripped (v1+v2, confidence 43+31/74)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Pre-gap length : 00:01:09
+
+    CRC32 hash               : 4D1A0C99
+    CRC32 hash (skip zero)   : F3F3D688
+    AccurateRip v1 signature : 6887FF1A
+    AccurateRip v2 signature : 1D967EBD
+        ->Accurately ripped (v1+v2, confidence 43+31/74)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+    Pre-gap length : 00:00:39
+
+    CRC32 hash               : BF58F712
+    CRC32 hash (skip zero)   : 29BFEDF5
+    AccurateRip v1 signature : 58458D15
+    AccurateRip v2 signature : FAD2F8EE
+        ->Accurately ripped (v1+v2, confidence 43+31/74)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+    Pre-gap length : 00:01:21
+
+    CRC32 hash               : BAA0028F
+    CRC32 hash (skip zero)   : E859F08C
+    AccurateRip v1 signature : AFECD688
+    AccurateRip v2 signature : 53E70CD4
+        ->Accurately ripped (v1+v2, confidence 43+31/74)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 11
+
+    CRC32 hash               : 0169EF27
+    CRC32 hash (skip zero)   : 29F34313
+    AccurateRip v1 signature : D89D7786
+    AccurateRip v2 signature : 9280F39C
+        ->Accurately ripped (v1+v2, confidence 43+31/74)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 12
+    Pre-gap length : 00:00:08
+
+    CRC32 hash               : 28AE5CF3
+    CRC32 hash (skip zero)   : F3B29BA2
+    AccurateRip v1 signature : 59D3D93F
+    AccurateRip v2 signature : 7C5923FE
+        ->Accurately ripped (v1+v2, confidence 44+31/75)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

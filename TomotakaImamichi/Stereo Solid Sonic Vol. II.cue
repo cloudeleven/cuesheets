@@ -1,0 +1,47 @@
+TITLE "Stereo Solid Sonic Vol. II"
+PERFORMER "Love Dynamights"
+CATALOG 4988031011669
+REM DISCID 8B088C0A
+FILE "Stereo Solid Sonic Vol. II.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Perfect!"
+    ISRC JPKT09404401
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Speed Meter / The Alternative Version"
+    ISRC JPKT09404402
+    INDEX 01 01:32:22
+  TRACK 03 AUDIO
+    TITLE "Sex Guitar's in Love"
+    ISRC JPKT09404403
+    INDEX 00 04:30:00
+    INDEX 01 04:31:50
+  TRACK 04 AUDIO
+    TITLE "観 - 音 〜 Can-non-ade 〜"
+    ISRC JPKT09404404
+    INDEX 01 08:35:45
+  TRACK 05 AUDIO
+    TITLE "Free Talk / The デンジャラ 3 Version"
+    ISRC JPKT09404405
+    INDEX 01 14:02:42
+  TRACK 06 AUDIO
+    TITLE "Bat Guys"
+    ISRC JPKT09404406
+    INDEX 01 17:45:72
+  TRACK 07 AUDIO
+    TITLE "Come Together"
+    ISRC JPKT09404407
+    INDEX 01 21:16:10
+  TRACK 08 AUDIO
+    TITLE "Living on Roar Street"
+    ISRC JPKT09404408
+    INDEX 01 25:22:42
+  TRACK 09 AUDIO
+    TITLE "Zero-1000"
+    ISRC JPKT09404409
+    INDEX 01 29:24:20
+  TRACK 10 AUDIO
+    TITLE "風雷暴 〜 Who lied boy ? 〜"
+    ISRC JPKT09404410
+    INDEX 00 32:29:65
+    INDEX 01 32:32:40

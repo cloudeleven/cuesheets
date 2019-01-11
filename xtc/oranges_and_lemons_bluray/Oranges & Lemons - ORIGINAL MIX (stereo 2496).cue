@@ -1,0 +1,64 @@
+TITLE "Oranges & Lemons - ORIGINAL MIX (stereo 2496)"
+PERFORMER "XTC"
+REM DATE "2015-10-30"
+FILE "Oranges & Lemons - ORIGINAL MIX (stereo 2496).flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Garden of Earthly Delights - ORIGINAL MIX (stereo 2496)"
+    PERFORMER "XTC"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "The Mayor of Simpleton - ORIGINAL MIX (stereo 2496)"
+    PERFORMER "XTC"
+    INDEX 01 05:14:73
+  TRACK 03 AUDIO
+    TITLE "King for a Day - ORIGINAL MIX (stereo 2496)"
+    PERFORMER "XTC"
+    INDEX 01 09:19:16
+  TRACK 04 AUDIO
+    TITLE "Here Comes President Kill Again - ORIGINAL MIX (stereo 2496)"
+    PERFORMER "XTC"
+    INDEX 01 12:59:27
+  TRACK 05 AUDIO
+    TITLE "The Loving - ORIGINAL MIX (stereo 2496)"
+    PERFORMER "XTC"
+    INDEX 01 16:34:43
+  TRACK 06 AUDIO
+    TITLE "Poor Skeleton Steps Out - ORIGINAL MIX (stereo 2496)"
+    PERFORMER "XTC"
+    INDEX 01 21:04:22
+  TRACK 07 AUDIO
+    TITLE "One of the Millions - ORIGINAL MIX (stereo 2496)"
+    PERFORMER "XTC"
+    INDEX 01 24:54:21
+  TRACK 08 AUDIO
+    TITLE "Scarecrow People - ORIGINAL MIX (stereo 2496)"
+    PERFORMER "XTC"
+    INDEX 01 29:35:42
+  TRACK 09 AUDIO
+    TITLE "Merely a Man - ORIGINAL MIX (stereo 2496)"
+    PERFORMER "XTC"
+    INDEX 01 33:53:61
+  TRACK 10 AUDIO
+    TITLE "Cynical Days - ORIGINAL MIX (stereo 2496)"
+    PERFORMER "XTC"
+    INDEX 01 37:27:62
+  TRACK 11 AUDIO
+    TITLE "Across This Antheap - ORIGINAL MIX (stereo 2496)"
+    PERFORMER "XTC"
+    INDEX 01 41:01:03
+  TRACK 12 AUDIO
+    TITLE "Hold Me My Daddy - ORIGINAL MIX (stereo 2496)"
+    PERFORMER "XTC"
+    INDEX 01 45:55:44
+  TRACK 13 AUDIO
+    TITLE "Pink Thing - ORIGINAL MIX (stereo 2496)"
+    PERFORMER "XTC"
+    INDEX 01 49:56:02
+  TRACK 14 AUDIO
+    TITLE "Miniature Sun - ORIGINAL MIX (stereo 2496)"
+    PERFORMER "XTC"
+    INDEX 01 53:55:14
+  TRACK 15 AUDIO
+    TITLE "Chalkhills and Children - ORIGINAL MIX (stereo 2496)"
+    PERFORMER "XTC"
+    INDEX 01 58:10:11

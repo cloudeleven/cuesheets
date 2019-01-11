@@ -1,0 +1,43 @@
+TITLE "Discovery"
+PERFORMER "Electric Light Orchestra"
+REM GENRE "Rock"
+REM DATE "1979"
+REM DISCID 66093509
+FILE "Discovery.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Shine A Little Love"
+    FLAGS PRE
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Confusion"
+    FLAGS PRE
+    INDEX 01 04:44:67
+  TRACK 03 AUDIO
+    TITLE "Need Her Love"
+    FLAGS PRE
+    INDEX 01 08:28:62
+  TRACK 04 AUDIO
+    TITLE "The Diary Of Horace Wimp"
+    FLAGS PRE
+    INDEX 01 13:42:37
+  TRACK 05 AUDIO
+    TITLE "Last Train To London"
+    FLAGS PRE
+    INDEX 00 18:01:27
+    INDEX 01 18:04:12
+  TRACK 06 AUDIO
+    TITLE "Midnight Blue"
+    FLAGS PRE
+    INDEX 01 22:38:25
+  TRACK 07 AUDIO
+    TITLE "On The Run"
+    FLAGS PRE
+    INDEX 01 26:59:00
+  TRACK 08 AUDIO
+    TITLE "Wishing"
+    FLAGS PRE
+    INDEX 01 30:56:62
+  TRACK 09 AUDIO
+    TITLE "Don't Bring Me Down"
+    FLAGS PRE
+    INDEX 01 35:11:37

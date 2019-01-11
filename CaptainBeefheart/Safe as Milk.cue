@@ -1,0 +1,78 @@
+TITLE "Safe as Milk"
+PERFORMER "Captain Beefheart and His Magic Band"
+REM DISCID 1510B113
+FILE "Safe as Milk.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Sure 'Nuff 'N Yes I Do"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Zig Zag Wanderer"
+    INDEX 00 02:14:50
+    INDEX 01 02:15:35
+  TRACK 03 AUDIO
+    TITLE "Call on Me"
+    INDEX 00 04:54:20
+    INDEX 01 04:55:40
+  TRACK 04 AUDIO
+    TITLE "Dropout Boogie"
+    INDEX 00 07:31:60
+    INDEX 01 07:32:42
+  TRACK 05 AUDIO
+    TITLE "I'm Glad"
+    INDEX 00 10:03:42
+    INDEX 01 10:04:57
+  TRACK 06 AUDIO
+    TITLE "Electricity"
+    INDEX 00 13:35:12
+    INDEX 01 13:36:07
+  TRACK 07 AUDIO
+    TITLE "Yellow Brick Road"
+    INDEX 00 16:42:37
+    INDEX 01 16:43:42
+  TRACK 08 AUDIO
+    TITLE "Abba Zaba"
+    INDEX 00 19:10:65
+    INDEX 01 19:11:65
+  TRACK 09 AUDIO
+    TITLE "Plastic Factory"
+    INDEX 00 21:55:42
+    INDEX 01 21:56:15
+  TRACK 10 AUDIO
+    TITLE "Where There's Woman"
+    INDEX 00 25:03:50
+    INDEX 01 25:04:57
+  TRACK 11 AUDIO
+    TITLE "Grown So Ugly"
+    INDEX 00 27:13:27
+    INDEX 01 27:14:22
+  TRACK 12 AUDIO
+    TITLE "Autumn's Child"
+    INDEX 01 29:41:45
+  TRACK 13 AUDIO
+    TITLE "Safe as Milk (Take 5)"
+    INDEX 00 33:43:25
+    INDEX 01 33:43:70
+  TRACK 14 AUDIO
+    TITLE "On Tomorrow"
+    INDEX 00 37:57:00
+    INDEX 01 37:57:35
+  TRACK 15 AUDIO
+    TITLE "Big Black Baby Shoes"
+    INDEX 00 44:52:35
+    INDEX 01 44:54:27
+  TRACK 16 AUDIO
+    TITLE "Flower Pot"
+    INDEX 00 49:43:50
+    INDEX 01 49:44:67
+  TRACK 17 AUDIO
+    TITLE "Dirty Blue Gene"
+    INDEX 00 53:39:12
+    INDEX 01 53:40:42
+  TRACK 18 AUDIO
+    TITLE "Trust Us (Take 9)"
+    INDEX 00 56:22:55
+    INDEX 01 56:24:15
+  TRACK 19 AUDIO
+    TITLE "Korn Ring Finger"
+    INDEX 00 63:45:50
+    INDEX 01 63:46:47

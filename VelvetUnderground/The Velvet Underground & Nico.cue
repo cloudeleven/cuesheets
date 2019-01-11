@@ -1,0 +1,62 @@
+TITLE "The Velvet Underground & Nico"
+PERFORMER "Velvet Underground"
+CATALOG 0042282329028
+REM GENRE "Rock"
+REM DATE "1967"
+REM DISCID 870B580B
+FILE "The Velvet Underground & Nico.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Sunday morning"
+    ISRC USF096600620
+    INDEX 00 00:00:00
+    INDEX 01 00:00:33
+  TRACK 02 AUDIO
+    TITLE "I'm waiting for the man"
+    ISRC USF096600630
+    INDEX 00 02:51:73
+    INDEX 01 02:53:35
+  TRACK 03 AUDIO
+    TITLE "Femme fatale"
+    ISRC USF096600640
+    INDEX 00 07:29:05
+    INDEX 01 07:30:23
+  TRACK 04 AUDIO
+    TITLE "Venus in furs"
+    ISRC USF096600650
+    INDEX 00 10:06:08
+    INDEX 01 10:07:60
+  TRACK 05 AUDIO
+    TITLE "Run run run"
+    ISRC USF096600660
+    INDEX 00 15:14:58
+    INDEX 01 15:16:33
+  TRACK 06 AUDIO
+    TITLE "All tomorrow's parties [alternate mix]"
+    ISRC USF096600670
+    INDEX 00 19:33:70
+    INDEX 01 19:35:28
+  TRACK 07 AUDIO
+    TITLE "Heroin"
+    ISRC USF096600680
+    INDEX 00 25:31:18
+    INDEX 01 25:32:35
+  TRACK 08 AUDIO
+    TITLE "There she goes again"
+    ISRC USF096600690
+    INDEX 00 32:40:38
+    INDEX 01 32:41:63
+  TRACK 09 AUDIO
+    TITLE "I'll be your mirror"
+    ISRC USF096600700
+    INDEX 00 35:18:53
+    INDEX 01 35:20:08
+  TRACK 10 AUDIO
+    TITLE "The black angel's death song"
+    ISRC USF096600710
+    INDEX 00 37:27:50
+    INDEX 01 37:28:45
+  TRACK 11 AUDIO
+    TITLE "European son"
+    ISRC USF096600720
+    INDEX 00 40:39:03
+    INDEX 01 40:40:33

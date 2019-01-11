@@ -1,0 +1,51 @@
+TITLE "Cosi Fan Tutti Frutti (remastered in 1997)"
+PERFORMER "Squeeze"
+REM DATE "1985"
+REM DISCID 8C0B560B
+FILE "Cosi Fan Tutti Frutti (remastered in 1997).flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Big Beng"
+    ISRC USAM18574817
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "By Your Side"
+    ISRC GBAAM0300051
+    INDEX 01 04:02:67
+  TRACK 03 AUDIO
+    TITLE "King George Street"
+    ISRC USAM18574819
+    INDEX 01 08:27:17
+  TRACK 04 AUDIO
+    TITLE "I Learnt How to Pray"
+    ISRC USAM18574820
+    INDEX 01 12:15:17
+  TRACK 05 AUDIO
+    TITLE "Last Time Forever"
+    ISRC USAM18574821
+    INDEX 01 16:39:24
+  TRACK 06 AUDIO
+    TITLE "No Place Like Home"
+    ISRC USAM18574822
+    INDEX 00 22:19:08
+    INDEX 01 22:20:37
+  TRACK 07 AUDIO
+    TITLE "Heartbreaking World"
+    ISRC USAM18574823
+    INDEX 01 26:47:07
+  TRACK 08 AUDIO
+    TITLE "Hits of the Year"
+    ISRC GBAAM0300050
+    INDEX 01 31:54:07
+  TRACK 09 AUDIO
+    TITLE "Break My Heart"
+    ISRC USAM18574825
+    INDEX 01 34:57:27
+  TRACK 10 AUDIO
+    TITLE "I Won't Ever Go Drinking Again (?)"
+    ISRC USAM18574826
+    INDEX 00 39:30:40
+    INDEX 01 39:31:02
+  TRACK 11 AUDIO
+    TITLE "Loves Crashing Waves (Live)"
+    INDEX 00 44:07:57
+    INDEX 01 44:12:56

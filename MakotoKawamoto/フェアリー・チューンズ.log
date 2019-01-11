@@ -1,0 +1,97 @@
+X Lossless Decoder version 20151214 (149.1)
+
+XLD extraction logfile from 2016-04-05 02:15:48 +0900
+
+Makoto Kawamoto (川本真琴) / フェアリー・チューンズ
+
+Used drive : HL-DT-ST BD-RE  BH10NS30 (revision EL00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:41:03 |         0    |    16577   
+        2  | 03:41:03 | 04:54:24 |     16578    |    38651   
+        3  | 08:35:27 | 04:22:44 |     38652    |    58345   
+        4  | 12:57:71 | 04:51:70 |     58346    |    80240   
+
+AccurateRip Summary (DiscID: 0002f519-000bf556-2d042d04)
+    Track 01 : OK (v2, confidence 4/4)
+    Track 02 : OK (v2, confidence 4/4)
+    Track 03 : OK (v2, confidence 4/4)
+    Track 04 : OK (v2, confidence 4/4)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Volumes/MyBook4TB1230/tmp/Makoto Kawamoto (川本真琴) - フェアリー・チューンズ.flac
+    CRC32 hash               : C25A02B7
+    CRC32 hash (skip zero)   : A947C477
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 45081F2E
+    CRC32 hash (skip zero)   : 49AAAC44
+    AccurateRip v1 signature : B54C20E1
+    AccurateRip v2 signature : 1747747C
+        ->Accurately ripped (v2, confidence 4/4)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+
+    CRC32 hash               : 2019DA91
+    CRC32 hash (skip zero)   : 91EA1751
+    AccurateRip v1 signature : B8ABCF68
+    AccurateRip v2 signature : 32333A24
+        ->Accurately ripped (v2, confidence 4/4)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+
+    CRC32 hash               : 492D9951
+    CRC32 hash (skip zero)   : B276846E
+    AccurateRip v1 signature : 3D5DF59D
+    AccurateRip v2 signature : 1EEE63EC
+        ->Accurately ripped (v2, confidence 4/4)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+
+    CRC32 hash               : 4AE3655F
+    CRC32 hash (skip zero)   : 227A0A95
+    AccurateRip v1 signature : 01EB4482
+    AccurateRip v2 signature : F566F6BB
+        ->Accurately ripped (v2, confidence 4/4)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

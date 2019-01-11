@@ -1,0 +1,152 @@
+X Lossless Decoder version 20110417 (131.0)
+
+XLD extraction logfile from 2011-05-02 21:03:55 +0900
+
+Pink Floyd / Atom Heart Mother
+
+Used drive : MATSHITA DVD-R   UJ-868 (revision KB19)
+
+Ripper mode             : CDParanoia III 10.2
+Disable audio cache     : OK for the drive with a cache less than 2750KiB
+Make use of C2 pointers : NO
+Read offset correction  : 102
+Max retry count         : 100
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 23:44:25 |         0    |   106824   
+        2  | 23:44:25 | 04:30:05 |    106825    |   127079   
+        3  | 28:14:30 | 05:29:30 |    127080    |   151784   
+        4  | 33:43:60 | 05:22:10 |    151785    |   175944   
+        5  | 39:05:70 | 13:00:07 |    175945    |   234451   
+
+List of alternate offset correction values
+        #  | Absolute | Relative | Confidence 
+    ------------------------------------------
+        1  |   -574   |   -676   |     92     
+        2  |   -345   |   -447   |     22     
+        3  |    461   |    359   |     13     
+        4  |  -1009   |  -1111   |     13     
+        5  |  -1865   |  -1967   |     12     
+        6  |   -579   |   -681   |      6     
+        7  |  -1451   |  -1553   |      5     
+        8  |   -567   |   -669   |      5     
+        9  |     19   |    -83   |      5     
+       10  |   -598   |   -700   |      2     
+       11  |   -562   |   -664   |      2     
+       12  |    108   |      6   |      2     
+       13  |   -565   |   -667   |      2     
+       14  |  -1870   |  -1972   |      2     
+       15  |     84   |    -18   |      2     
+       16  |     36   |    -66   |      2     
+       17  |     72   |    -30   |      2     
+       18  |   -661   |   -763   |      2     
+       19  |  -1250   |  -1352   |      2     
+       20  |   -612   |   -714   |      2     
+
+AccurateRip Summary
+    Track 01 : OK (AR2, confidence 31)
+    Track 02 : OK (AR2, confidence 31)
+    Track 03 : OK (AR2, confidence 31)
+    Track 04 : OK (AR2, confidence 31)
+    Track 05 : OK (AR2, confidence 31)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Users/m4c/Public/flac/Atom Heart Mother.flac
+    CRC32 hash             : 29BD01D4
+    CRC32 hash (skip zero) : 392E21AA
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash             : BE47F3CF
+    CRC32 hash (skip zero) : 2F3BA83D
+    AccurateRip signature  : A9FC6E80
+        ->Accurately ripped! (AR2, confidence 31)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 02
+    Pre-gap length : 00:02:20
+
+    CRC32 hash             : 76B09210
+    CRC32 hash (skip zero) : 2C0BA794
+    AccurateRip signature  : 00F68F8A
+        ->Accurately ripped! (AR2, confidence 31)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 03
+    Pre-gap length : 00:03:58
+
+    CRC32 hash             : 533D2060
+    CRC32 hash (skip zero) : 77E18290
+    AccurateRip signature  : 2DB4C0AF
+        ->Accurately ripped! (AR2, confidence 31)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 04
+    Pre-gap length : 00:00:15
+
+    CRC32 hash             : 3FA7A366
+    CRC32 hash (skip zero) : 03283C15
+    AccurateRip signature  : 27B08E59
+        ->Accurately ripped! (AR2, confidence 31)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 05
+    Pre-gap length : 00:00:03
+
+    CRC32 hash             : B377BE50
+    CRC32 hash (skip zero) : B7559989
+    AccurateRip signature  : 72391EB3
+        ->Accurately ripped! (AR2, confidence 31)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+No errors occurred
+
+End of status report

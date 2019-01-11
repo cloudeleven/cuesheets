@@ -1,0 +1,25 @@
+TITLE "Atom Heart Mother"
+PERFORMER "Pink Floyd"
+REM GENRE "Progressive Rock"
+REM DATE "1970"
+REM DISCID 3E0C3605
+FILE "Atom Heart Mother.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Atom Heart Mother"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "If"
+    INDEX 00 23:42:05
+    INDEX 01 23:44:25
+  TRACK 03 AUDIO
+    TITLE "Summer '68"
+    INDEX 00 28:10:47
+    INDEX 01 28:14:30
+  TRACK 04 AUDIO
+    TITLE "Fat Old Sun"
+    INDEX 00 33:43:45
+    INDEX 01 33:43:60
+  TRACK 05 AUDIO
+    TITLE "Alan's Psychedelic Breakfast"
+    INDEX 00 39:05:67
+    INDEX 01 39:05:70

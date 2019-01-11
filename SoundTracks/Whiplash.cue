@@ -1,0 +1,149 @@
+TITLE "Whiplash"
+PERFORMER "Justin Hurwitz"
+REM GENRE "Soundtrack"
+REM DATE "2014-10-07"
+REM DISCID 5D0CE318
+FILE "Whiplash.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Snare Liftoff"
+    PERFORMER "[dialogue]"
+    ISRC US3M51428601
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Overture"
+    PERFORMER "Justin Hurwitz"
+    ISRC US3M51428602
+    INDEX 00 00:43:50
+    INDEX 01 00:43:55
+  TRACK 03 AUDIO
+    TITLE "Too Hip to Retire"
+    PERFORMER "Tim Simonec"
+    ISRC US3M51428603
+    INDEX 00 04:03:10
+    INDEX 01 04:03:15
+  TRACK 04 AUDIO
+    TITLE "Whiplash"
+    PERFORMER "Hank Levy"
+    ISRC US3M51428604
+    INDEX 00 07:07:13
+    INDEX 01 07:07:18
+  TRACK 05 AUDIO
+    TITLE "Fletcher’s Song in Club"
+    PERFORMER "Justin Hurwitz"
+    ISRC US3M51428605
+    INDEX 00 09:02:40
+    INDEX 01 09:02:45
+  TRACK 06 AUDIO
+    TITLE "Caravan"
+    PERFORMER "Duke Ellington & Juan Tizol"
+    ISRC US3M51428606
+    INDEX 00 10:31:42
+    INDEX 01 10:31:47
+  TRACK 07 AUDIO
+    TITLE "What’s Your Name"
+    PERFORMER "[dialogue]"
+    ISRC US3M51428607
+    INDEX 00 19:46:42
+    INDEX 01 19:46:47
+  TRACK 08 AUDIO
+    TITLE "Practicing"
+    PERFORMER "Justin Hurwitz"
+    ISRC US3M51428608
+    INDEX 00 21:17:10
+    INDEX 01 21:17:15
+  TRACK 09 AUDIO
+    TITLE "Invited"
+    PERFORMER "Justin Hurwitz"
+    ISRC US3M51428609
+    INDEX 00 23:00:32
+    INDEX 01 23:00:37
+  TRACK 10 AUDIO
+    TITLE "Call From Dad"
+    PERFORMER "Justin Hurwitz"
+    ISRC US3M51428610
+    INDEX 00 23:55:19
+    INDEX 01 23:55:24
+  TRACK 11 AUDIO
+    TITLE "Accident"
+    PERFORMER "Justin Hurwitz"
+    ISRC US3M51428611
+    INDEX 00 24:35:36
+    INDEX 01 24:35:41
+  TRACK 12 AUDIO
+    TITLE "Hug From Dad"
+    PERFORMER "Justin Hurwitz"
+    ISRC US3M51428612
+    INDEX 00 29:57:40
+    INDEX 01 29:57:45
+  TRACK 13 AUDIO
+    TITLE "Drum & Drone"
+    PERFORMER "Justin Hurwitz"
+    ISRC US3M51428613
+    INDEX 00 31:12:13
+    INDEX 01 31:12:18
+  TRACK 14 AUDIO
+    TITLE "Carnegie"
+    PERFORMER "Justin Hurwitz"
+    ISRC US3M51428614
+    INDEX 00 32:46:28
+    INDEX 01 32:46:33
+  TRACK 15 AUDIO
+    TITLE "Ryan / Breakup"
+    PERFORMER "Justin Hurwitz"
+    ISRC US3M51428615
+    INDEX 00 33:22:70
+    INDEX 01 33:23:00
+  TRACK 16 AUDIO
+    TITLE "Drum Battle"
+    PERFORMER "Justin Hurwitz"
+    ISRC US3M51428616
+    INDEX 00 33:54:11
+    INDEX 01 33:54:16
+  TRACK 17 AUDIO
+    TITLE "Dismissed"
+    PERFORMER "Justin Hurwitz"
+    ISRC US3M51428617
+    INDEX 00 36:04:18
+    INDEX 01 36:04:23
+  TRACK 18 AUDIO
+    TITLE "Good Job"
+    PERFORMER "[dialogue]"
+    ISRC US3M51428618
+    INDEX 00 38:51:04
+    INDEX 01 38:51:09
+  TRACK 19 AUDIO
+    TITLE "Intoit"
+    PERFORMER "Stan Getz"
+    ISRC US3M51428619
+    INDEX 00 40:20:03
+    INDEX 01 40:20:08
+  TRACK 20 AUDIO
+    TITLE "No Two Words"
+    PERFORMER "Nicholas Britell & Justin Hurwitz"
+    ISRC US3M51428620
+    INDEX 00 43:40:04
+    INDEX 01 43:41:49
+  TRACK 21 AUDIO
+    TITLE "When I Wake"
+    PERFORMER "Justin Hurwitz"
+    ISRC US3M51428621
+    INDEX 00 45:22:72
+    INDEX 01 45:23:02
+  TRACK 22 AUDIO
+    TITLE "Casey’s Song"
+    PERFORMER "Justin Hurwitz"
+    ISRC US3M51428622
+    INDEX 00 49:13:47
+    INDEX 01 49:15:17
+  TRACK 23 AUDIO
+    TITLE "Upswingin"
+    PERFORMER "Tim Simonec"
+    ISRC US3M51428623
+    INDEX 00 51:12:35
+    INDEX 01 51:12:40
+  TRACK 24 AUDIO
+    TITLE "First Nassau Band Rehearsal / Second Nassau Band Rehearsal / Studio Band Eavesdrop / Studio Band Rehearsal After Breakup"
+    PERFORMER "Tim Simonec"
+    ISRC US3M51428624
+    INDEX 00 53:24:68
+    INDEX 01 53:24:73

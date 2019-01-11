@@ -1,0 +1,76 @@
+TITLE "Good Times!"
+PERFORMER "The Monkees"
+CATALOG 4943674233946
+REM DISCID C309790E
+FILE "The Monkees - Good Times!.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Good Times"
+    PERFORMER "The Monkees"
+    ISRC USRH11600551
+    REM DATE "2016"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "You Bring the Summer"
+    PERFORMER "The Monkees"
+    ISRC USRH11600552
+    INDEX 01 02:46:18
+  TRACK 03 AUDIO
+    TITLE "She Makes Me Laugh"
+    PERFORMER "The Monkees"
+    ISRC USRH11600553
+    INDEX 01 05:46:25
+  TRACK 04 AUDIO
+    TITLE "Our Own World"
+    PERFORMER "The Monkees"
+    ISRC USRH11600554
+    INDEX 01 08:47:24
+  TRACK 05 AUDIO
+    TITLE "Gotta Give It Time"
+    PERFORMER "The Monkees"
+    ISRC USRH11600555
+    INDEX 01 11:32:50
+  TRACK 06 AUDIO
+    TITLE "Me & Magdalena"
+    PERFORMER "The Monkees"
+    ISRC USRH11600556
+    INDEX 01 13:50:39
+  TRACK 07 AUDIO
+    TITLE "Whatever's Right"
+    PERFORMER "The Monkees"
+    ISRC USRH11600557
+    INDEX 01 17:24:17
+  TRACK 08 AUDIO
+    TITLE "Love To Love"
+    PERFORMER "The Monkees"
+    ISRC USRH11600558
+    INDEX 01 19:24:38
+  TRACK 09 AUDIO
+    TITLE "Little Girl"
+    PERFORMER "The Monkees"
+    ISRC USRH11600559
+    INDEX 01 21:54:22
+  TRACK 10 AUDIO
+    TITLE "Birth of An Accidental Hipster"
+    PERFORMER "The Monkees"
+    ISRC USRH11600560
+    INDEX 01 24:36:45
+  TRACK 11 AUDIO
+    TITLE "Wasn't Born To Follow"
+    PERFORMER "The Monkees"
+    ISRC USRH11600561
+    INDEX 01 28:07:60
+  TRACK 12 AUDIO
+    TITLE "I Know What I Know"
+    PERFORMER "The Monkees"
+    ISRC USRH11600562
+    INDEX 01 31:01:33
+  TRACK 13 AUDIO
+    TITLE "I Was There (And I'm Told I Had A Good Time)"
+    PERFORMER "The Monkees"
+    ISRC USRH11602522
+    INDEX 01 34:31:70
+  TRACK 14 AUDIO
+    TITLE "Love's What I Want [Bonus Track]"
+    PERFORMER "The Monkees"
+    ISRC USRH11602527
+    INDEX 01 36:48:50

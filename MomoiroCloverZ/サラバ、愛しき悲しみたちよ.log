@@ -1,0 +1,100 @@
+X Lossless Decoder version 20151214 (149.1)
+
+XLD extraction logfile from 2016-04-05 00:33:09 +0900
+
+Momoiro Clover Z (ももいろクローバーZ) / サラバ、愛しき悲しみたちよ
+
+Used drive : HL-DT-ST BD-RE  BH10NS30 (revision EL00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 05:00:66 |         0    |    22565   
+        2  | 05:00:66 | 06:24:22 |     22566    |    51387   
+        3  | 11:25:13 | 05:00:17 |     51388    |    73904   
+        4  | 16:25:30 | 06:22:46 |     73905    |   102600   
+
+AccurateRip Summary (DiscID: 0003d25c-000f6132-34055804)
+    Track 01 : OK (v1+v2, confidence 5/5)
+    Track 02 : OK (v1+v2, confidence 5/5)
+    Track 03 : OK (v1+v2, confidence 4/4)
+    Track 04 : OK (v1+v2, confidence 4/4)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Volumes/MyBook4TB1230/tmp/Momoiro Clover Z (ももいろクローバーZ) - サラバ、愛しき悲しみたちよ.flac
+    CRC32 hash               : 6CA77BE1
+    CRC32 hash (skip zero)   : 4C2D23C3
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 8AACB856
+    CRC32 hash (skip zero)   : 2263F8CB
+    AccurateRip v1 signature : A52E745F
+    AccurateRip v2 signature : 0E043594
+        ->Accurately ripped (v1+v2, confidence 2+3/5)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Pre-gap length : 00:02:08
+
+    CRC32 hash               : 996EDBF0
+    CRC32 hash (skip zero)   : 05AA1CD1
+    AccurateRip v1 signature : 4AA566C6
+    AccurateRip v2 signature : C898A3D4
+        ->Accurately ripped (v1+v2, confidence 2+3/5)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Pre-gap length : 00:03:45
+
+    CRC32 hash               : 90A56599
+    CRC32 hash (skip zero)   : A0E35194
+    AccurateRip v1 signature : 978CE73A
+    AccurateRip v2 signature : 52A46C1A
+        ->Accurately ripped (v1+v2, confidence 2+2/4)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Pre-gap length : 00:02:08
+
+    CRC32 hash               : 77F72E70
+    CRC32 hash (skip zero)   : 76037296
+    AccurateRip v1 signature : 67EAC85A
+    AccurateRip v2 signature : 34AB23CD
+        ->Accurately ripped (v1+v2, confidence 2+2/4)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

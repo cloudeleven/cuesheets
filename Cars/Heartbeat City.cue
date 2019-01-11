@@ -1,0 +1,58 @@
+TITLE "Heartbeat City"
+PERFORMER "The Cars"
+REM GENRE "Rock"
+REM DATE "1984-03-13"
+REM DISCNUMBER 1
+REM TOTALDISCS 1
+REM DISCID 87090C0A
+FILE "Heartbeat City.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Hello Again"
+    SONGWRITER "Ric Ocasek"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:32
+  TRACK 02 AUDIO
+    TITLE "Looking for Love"
+    SONGWRITER "Ric Ocasek"
+    INDEX 00 03:47:05
+    INDEX 01 03:47:07
+  TRACK 03 AUDIO
+    TITLE "Magic"
+    SONGWRITER "Ric Ocasek"
+    INDEX 00 07:38:30
+    INDEX 01 07:38:32
+  TRACK 04 AUDIO
+    TITLE "Drive"
+    SONGWRITER "Ric Ocasek"
+    INDEX 00 11:35:30
+    INDEX 01 11:35:32
+  TRACK 05 AUDIO
+    TITLE "Stranger Eyes"
+    SONGWRITER "Ric Ocasek"
+    INDEX 00 15:29:42
+    INDEX 01 15:29:45
+  TRACK 06 AUDIO
+    TITLE "You Might Think"
+    SONGWRITER "Ric Ocasek"
+    INDEX 00 19:54:15
+    INDEX 01 19:54:17
+  TRACK 07 AUDIO
+    TITLE "It's Not the Night"
+    SONGWRITER "Ric Ocasek, Greg Hawkes"
+    INDEX 00 22:58:47
+    INDEX 01 22:58:50
+  TRACK 08 AUDIO
+    TITLE "Why Can't I Have You"
+    SONGWRITER "Ric Ocasek"
+    INDEX 00 26:47:20
+    INDEX 01 26:47:22
+  TRACK 09 AUDIO
+    TITLE "I Refuse"
+    SONGWRITER "Ric Ocasek"
+    INDEX 00 30:50:67
+    INDEX 01 30:50:70
+  TRACK 10 AUDIO
+    TITLE "Heartbeat City"
+    SONGWRITER "Ric Ocasek"
+    INDEX 00 34:06:47
+    INDEX 01 34:06:50

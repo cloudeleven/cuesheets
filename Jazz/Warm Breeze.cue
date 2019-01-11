@@ -1,0 +1,32 @@
+TITLE "Warm Breeze"
+PERFORMER "Count Basie and His Orchestra"
+REM GENRE "Jazz"
+REM DATE "1981"
+REM DISCID 530A0E07
+FILE "Warm Breeze.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "C.B. Express"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "After The Rain"
+    INDEX 00 06:06:71
+    INDEX 01 06:08:25
+  TRACK 03 AUDIO
+    TITLE "Warm Breeze"
+    INDEX 00 13:24:71
+    INDEX 01 13:26:05
+  TRACK 04 AUDIO
+    TITLE "Cookie"
+    INDEX 00 20:13:13
+    INDEX 01 20:13:37
+  TRACK 05 AUDIO
+    TITLE "Flight To Nassau"
+    INDEX 00 24:16:58
+    INDEX 01 24:17:40
+  TRACK 06 AUDIO
+    TITLE "How Sweet It Is"
+    INDEX 01 28:47:22
+  TRACK 07 AUDIO
+    TITLE "Satin Doll"
+    INDEX 00 36:51:01
+    INDEX 01 36:51:72

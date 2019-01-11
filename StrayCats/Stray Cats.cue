@@ -1,0 +1,54 @@
+TITLE "Stray Cats"
+PERFORMER "Stray Cats"
+REM GENRE "Rockabilly"
+REM DATE "1981"
+REM DISCID 9108CB0C
+FILE "Stray Cats.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Runaway Boys"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:37
+  TRACK 02 AUDIO
+    TITLE "Fishnet Stockings"
+    INDEX 00 02:59:72
+    INDEX 01 03:03:35
+  TRACK 03 AUDIO
+    TITLE "Ubangi Stomp"
+    INDEX 00 05:28:34
+    INDEX 01 05:28:72
+  TRACK 04 AUDIO
+    TITLE "Jeanie, Jeanie, Jeanie"
+    INDEX 00 08:41:44
+    INDEX 01 08:43:47
+  TRACK 05 AUDIO
+    TITLE "Storm The Embassy"
+    INDEX 00 11:02:36
+    INDEX 01 11:04:65
+  TRACK 06 AUDIO
+    TITLE "Rock This Town"
+    INDEX 00 15:11:03
+    INDEX 01 15:12:72
+  TRACK 07 AUDIO
+    TITLE "Rumble In Brighton"
+    INDEX 00 18:37:18
+    INDEX 01 18:40:55
+  TRACK 08 AUDIO
+    TITLE "Stray Cat Strut"
+    INDEX 00 21:53:70
+    INDEX 01 21:56:72
+  TRACK 09 AUDIO
+    TITLE "Crawl Up And Die"
+    INDEX 00 25:11:14
+    INDEX 01 25:13:40
+  TRACK 10 AUDIO
+    TITLE "Double Talkin Baby"
+    INDEX 00 28:25:09
+    INDEX 01 28:26:70
+  TRACK 11 AUDIO
+    TITLE "My One Desire"
+    INDEX 00 31:30:16
+    INDEX 01 31:32:32
+  TRACK 12 AUDIO
+    TITLE "Wild Saxaphone"
+    INDEX 00 34:27:18
+    INDEX 01 34:29:70

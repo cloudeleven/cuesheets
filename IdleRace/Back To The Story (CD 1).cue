@@ -1,0 +1,115 @@
+TITLE "Back To The Story (CD 1)"
+PERFORMER "The Idle Race"
+CATALOG 0724383816326
+REM GENRE "Rock"
+REM DATE "1996"
+REM DISCID 86117C1B
+FILE "Back To The Story (CD 1).flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Skeleton And The Roundabout"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:32
+  TRACK 02 AUDIO
+    TITLE "Happy Birthday"
+    INDEX 00 02:20:42
+    INDEX 01 02:26:35
+  TRACK 03 AUDIO
+    TITLE "The Birthday"
+    INDEX 00 02:49:52
+    INDEX 01 02:49:55
+  TRACK 04 AUDIO
+    TITLE "I Like My Toys"
+    INDEX 00 05:48:05
+    INDEX 01 05:50:40
+  TRACK 05 AUDIO
+    TITLE "Morning Sunshine"
+    INDEX 00 08:01:02
+    INDEX 01 08:03:05
+  TRACK 06 AUDIO
+    TITLE "Follow Me Follow"
+    INDEX 00 09:49:45
+    INDEX 01 09:51:52
+  TRACK 07 AUDIO
+    TITLE "Sitting In My Tree"
+    INDEX 00 12:37:57
+    INDEX 01 12:40:12
+  TRACK 08 AUDIO
+    TITLE "On With The Show"
+    INDEX 00 14:32:72
+    INDEX 01 14:40:10
+  TRACK 09 AUDIO
+    TITLE "Lucky Man"
+    INDEX 00 16:59:65
+    INDEX 01 17:02:20
+  TRACK 10 AUDIO
+    TITLE "Mrs Ward"
+    INDEX 00 19:38:60
+    INDEX 01 19:40:60
+  TRACK 11 AUDIO
+    TITLE "Pie In The Sky"
+    INDEX 00 21:53:15
+    INDEX 01 21:55:32
+  TRACK 12 AUDIO
+    TITLE "The Lady Who Said She Could Fly"
+    INDEX 00 24:20:62
+    INDEX 01 24:23:10
+  TRACK 13 AUDIO
+    TITLE "End Of The Road"
+    INDEX 00 26:42:32
+    INDEX 01 26:45:22
+  TRACK 14 AUDIO
+    TITLE "Come With Me"
+    INDEX 00 28:51:15
+    INDEX 01 28:54:42
+  TRACK 15 AUDIO
+    TITLE "Sea Of Dreams"
+    INDEX 00 31:37:25
+    INDEX 01 31:39:50
+  TRACK 16 AUDIO
+    TITLE "Going Home"
+    INDEX 00 34:52:60
+    INDEX 01 34:52:62
+  TRACK 17 AUDIO
+    TITLE "Reminds Me Of You"
+    INDEX 00 38:33:47
+    INDEX 01 38:37:35
+  TRACK 18 AUDIO
+    TITLE "Mr Crow And Sir Norman"
+    INDEX 00 41:31:07
+    INDEX 01 41:31:35
+  TRACK 19 AUDIO
+    TITLE "Please No More Sad Songs"
+    INDEX 00 44:48:40
+    INDEX 01 44:48:42
+  TRACK 20 AUDIO
+    TITLE "Girl At The Window"
+    INDEX 00 48:07:47
+    INDEX 01 48:09:40
+  TRACK 21 AUDIO
+    TITLE "Big Chief Woolly Bosher"
+    INDEX 00 51:52:35
+    INDEX 01 51:53:65
+  TRACK 22 AUDIO
+    TITLE "Someone Knocking"
+    INDEX 00 57:09:37
+    INDEX 01 57:09:40
+  TRACK 23 AUDIO
+    TITLE "A Better Life (The Weatherman Knows)"
+    INDEX 00 60:02:50
+    INDEX 01 60:05:67
+  TRACK 24 AUDIO
+    TITLE "Hurry Up John"
+    INDEX 00 62:51:05
+    INDEX 01 62:51:07
+  TRACK 25 AUDIO
+    TITLE "Lucky Man"
+    INDEX 00 66:23:22
+    INDEX 01 66:24:72
+  TRACK 26 AUDIO
+    TITLE "Follow Me Follow"
+    INDEX 00 68:58:42
+    INDEX 01 69:00:57
+  TRACK 27 AUDIO
+    TITLE "Days Of The Broken Arrows"
+    INDEX 00 70:54:05
+    INDEX 01 70:57:02

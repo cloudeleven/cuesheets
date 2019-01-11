@@ -1,0 +1,47 @@
+TITLE "Guitarhythm"
+PERFORMER "布袋寅泰"
+REM GENRE "Rock"
+REM DATE "1988"
+REM DISCID A00AB90B
+FILE "Guitarhythm.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Legend Of Future"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "C'mon Everybody"
+    INDEX 01 01:19:40
+  TRACK 03 AUDIO
+    TITLE "Glorious Days"
+    INDEX 01 04:21:22
+  TRACK 04 AUDIO
+    TITLE "Materials"
+    INDEX 00 07:52:33
+    INDEX 01 07:52:62
+  TRACK 05 AUDIO
+    TITLE "Dancing With The Moonlight"
+    INDEX 00 11:16:38
+    INDEX 01 11:17:20
+  TRACK 06 AUDIO
+    TITLE "Wind Blows Inside Of Eyes"
+    INDEX 00 16:35:31
+    INDEX 01 16:36:15
+  TRACK 07 AUDIO
+    TITLE "Waiting For You"
+    INDEX 00 21:30:43
+    INDEX 01 21:31:10
+  TRACK 08 AUDIO
+    TITLE "Strange Voice"
+    INDEX 01 25:03:62
+  TRACK 09 AUDIO
+    TITLE "Climb"
+    INDEX 00 28:56:63
+    INDEX 01 28:57:15
+  TRACK 10 AUDIO
+    TITLE "Guitarhythm"
+    ISRC 404397100362
+    INDEX 00 32:58:23
+    INDEX 01 32:58:37
+  TRACK 11 AUDIO
+    TITLE "A Day In Autumn"
+    INDEX 00 38:22:71
+    INDEX 01 38:24:05

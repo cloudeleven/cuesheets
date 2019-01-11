@@ -1,0 +1,61 @@
+TITLE "Splurge"
+PERFORMER "Puffy AmiYumi"
+REM GENRE "Rock"
+REM DATE "2006"
+REM DISCID C40D4810
+FILE "Splurge.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Call Me What You Like (if you like rock-n-roll)"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Nice Buddy"
+    INDEX 01 02:55:10
+  TRACK 03 AUDIO
+    TITLE "Tokyo I'm On My Way"
+    INDEX 01 06:09:47
+  TRACK 04 AUDIO
+    TITLE "Radio Tokyo"
+    INDEX 01 08:52:20
+  TRACK 05 AUDIO
+    TITLE "Mole-Like"
+    INDEX 00 13:48:20
+    INDEX 01 13:48:37
+  TRACK 06 AUDIO
+    TITLE "Etude"
+    INDEX 01 17:05:35
+  TRACK 07 AUDIO
+    TITLE "Go Baby Power Now"
+    INDEX 01 20:36:17
+  TRACK 08 AUDIO
+    TITLE "Sunday in the park"
+    INDEX 01 23:24:62
+  TRACK 09 AUDIO
+    TITLE "missing you baby"
+    INDEX 00 28:23:67
+    INDEX 01 28:23:72
+  TRACK 10 AUDIO
+    TITLE "The Story"
+    INDEX 00 30:48:57
+    INDEX 01 30:50:12
+  TRACK 11 AUDIO
+    TITLE "Mole"
+    INDEX 00 34:17:35
+    INDEX 01 34:19:12
+  TRACK 12 AUDIO
+    TITLE "Cameland"
+    INDEX 00 37:23:65
+    INDEX 01 37:25:60
+  TRACK 13 AUDIO
+    TITLE "Security Blanket"
+    INDEX 01 41:24:42
+  TRACK 14 AUDIO
+    TITLE "Beginnings"
+    INDEX 01 45:50:22
+  TRACK 15 AUDIO
+    TITLE "Friends Forever ~FICKLE Remix~"
+    INDEX 00 50:09:42
+    INDEX 01 50:12:15
+  TRACK 16 AUDIO
+    TITLE "Teen Titans Theme ~POLYSICS' CR-06 MIX~"
+    INDEX 00 54:10:67
+    INDEX 01 54:11:00

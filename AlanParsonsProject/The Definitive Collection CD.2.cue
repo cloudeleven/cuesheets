@@ -1,0 +1,67 @@
+TITLE "The Definitive Collection CD.2"
+PERFORMER "The Alan Parsons Project"
+REM GENRE "Pop/Rock*"
+REM DATE "1982"
+REM DISCID F6112A10
+FILE "The Definitive Collection CD.2.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Sirius"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:32
+  TRACK 02 AUDIO
+    TITLE "Eye In The Sky"
+    INDEX 01 01:57:60
+  TRACK 03 AUDIO
+    TITLE "Psychobabble"
+    INDEX 00 06:33:72
+    INDEX 01 06:35:20
+  TRACK 04 AUDIO
+    TITLE "Mammagamma"
+    INDEX 00 11:27:17
+    INDEX 01 11:27:47
+  TRACK 05 AUDIO
+    TITLE "Old And Wise"
+    INDEX 00 15:02:10
+    INDEX 01 15:04:67
+  TRACK 06 AUDIO
+    TITLE "Prime Time"
+    INDEX 01 20:01:35
+  TRACK 07 AUDIO
+    TITLE "Don't Answer Me"
+    INDEX 00 25:04:65
+    INDEX 01 25:06:07
+  TRACK 08 AUDIO
+    TITLE "You Don't Believe"
+    INDEX 00 29:19:27
+    INDEX 01 29:20:15
+  TRACK 09 AUDIO
+    TITLE "Let's Talk About Me"
+    INDEX 01 33:46:12
+  TRACK 10 AUDIO
+    TITLE "Days Are Numbers {The Traveller}"
+    INDEX 00 38:15:17
+    INDEX 01 38:16:47
+  TRACK 11 AUDIO
+    TITLE "Stereotomy"
+    INDEX 00 42:43:35
+    INDEX 01 42:43:62
+  TRACK 12 AUDIO
+    TITLE "In The Real World"
+    INDEX 00 49:46:45
+    INDEX 01 49:48:20
+  TRACK 13 AUDIO
+    TITLE "Standing On Higher Ground"
+    INDEX 00 54:07:60
+    INDEX 01 54:08:45
+  TRACK 14 AUDIO
+    TITLE "Too Late"
+    INDEX 00 59:55:35
+    INDEX 01 59:56:15
+  TRACK 15 AUDIO
+    TITLE "Turn It Up"
+    INDEX 00 64:27:35
+    INDEX 01 64:28:65
+  TRACK 16 AUDIO
+    TITLE "Re-Jigue"
+    INDEX 00 70:42:27
+    INDEX 01 70:44:17

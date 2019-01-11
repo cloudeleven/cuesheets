@@ -1,0 +1,89 @@
+TITLE "Zen CD: A Ninja Tune Retrospective (disc 1)"
+REM DATE "2004-02"
+REM DISCID EE12A011
+FILE "Zen CD: A Ninja Tune Retrospective (disc 1).flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Dark Lady"
+    PERFORMER "DJ Food"
+    ISRC GBCFB9300005
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Atomic Moog 2000"
+    PERFORMER "Coldcut"
+    ISRC GBCFB9807000
+    INDEX 01 04:05:71
+  TRACK 03 AUDIO
+    TITLE "Get Your Snack On"
+    PERFORMER "Amon Tobin"
+    ISRC GBCFB0000400
+    INDEX 01 07:50:71
+  TRACK 04 AUDIO
+    TITLE "Pick Up"
+    PERFORMER "Bonobo"
+    ISRC GBCFB0300040
+    INDEX 01 12:12:00
+  TRACK 05 AUDIO
+    TITLE "Get a Move On"
+    PERFORMER "Mr. Scruff"
+    ISRC GBCFB9900510
+    INDEX 01 16:19:50
+  TRACK 06 AUDIO
+    TITLE "Sweetsmoke"
+    PERFORMER "Mr. Scruff"
+    ISRC GBCFB0201601
+    INDEX 01 19:45:25
+  TRACK 07 AUDIO
+    TITLE "Bend Over"
+    PERFORMER "Wagon Christ"
+    ISRC GBCFB0100100
+    INDEX 01 23:50:63
+  TRACK 08 AUDIO
+    TITLE "Skanky Panky"
+    PERFORMER "Kid Koala"
+    ISRC GBCFB0300236
+    INDEX 01 28:36:07
+  TRACK 09 AUDIO
+    TITLE "Get Your Head Down"
+    PERFORMER "Luke Vibert"
+    ISRC GBCFB9602998
+    INDEX 01 32:00:66
+  TRACK 10 AUDIO
+    TITLE "Sordid"
+    PERFORMER "Amon Tobin"
+    ISRC GBCFB9807036
+    INDEX 01 39:43:09
+  TRACK 11 AUDIO
+    TITLE "Spiral"
+    PERFORMER "DJ Food"
+    ISRC GBCFB9507042
+    INDEX 01 46:53:53
+  TRACK 12 AUDIO
+    TITLE "Auto (feat. Alien Toy, Cosmos & Jimmy Saville)"
+    PERFORMER "Hexstatic"
+    ISRC GBCFB0001080
+    INDEX 01 52:48:06
+  TRACK 13 AUDIO
+    TITLE "Timber"
+    PERFORMER "Coldcut & Hexstatic"
+    ISRC GBCFB9707040
+    INDEX 01 57:29:16
+  TRACK 14 AUDIO
+    TITLE "Easy Muffin"
+    PERFORMER "Amon Tobin"
+    ISRC GBCFB9707019
+    INDEX 01 62:01:21
+  TRACK 15 AUDIO
+    TITLE "Autumn Leaves"
+    PERFORMER "Coldcut"
+    ISRC GBARK9300074
+    INDEX 01 67:02:69
+  TRACK 16 AUDIO
+    TITLE "All That You Give (feat. Fontella Bass)"
+    PERFORMER "The Cinematic Orchestra"
+    ISRC GBCFB0101800
+    INDEX 01 71:04:45
+  TRACK 17 AUDIO
+    TITLE "It's a Long Road (edit)"
+    PERFORMER "Funki Porcini"
+    ISRC GBCFB9507032
+    INDEX 01 75:26:57

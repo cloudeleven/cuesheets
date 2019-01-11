@@ -1,0 +1,58 @@
+TITLE "Look Hear? + 2 (remastered in 2006)"
+PERFORMER "10cc"
+CATALOG 0602498392843
+REM GENRE "Progressive Rock"
+REM DATE "1980"
+REM DISCID AE0C4E0D
+FILE "Look Hear? + 2 (remastered in 2006).flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "One-Two-Five"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Welcome To The World"
+    INDEX 00 05:12:35
+    INDEX 01 05:16:25
+  TRACK 03 AUDIO
+    TITLE "How'm I Ever Gonna Say Goodbye"
+    INDEX 00 08:58:25
+    INDEX 01 08:59:46
+  TRACK 04 AUDIO
+    TITLE "Don't Send We Back"
+    INDEX 00 12:37:38
+    INDEX 01 12:38:54
+  TRACK 05 AUDIO
+    TITLE "I Took You Home"
+    INDEX 00 15:55:57
+    INDEX 01 15:58:21
+  TRACK 06 AUDIO
+    TITLE "It Doesn't Matter At All"
+    INDEX 00 21:11:48
+    INDEX 01 21:13:34
+  TRACK 07 AUDIO
+    TITLE "Dressed To Kill"
+    INDEX 00 25:14:71
+    INDEX 01 25:16:47
+  TRACK 08 AUDIO
+    TITLE "Lovers Anonymous"
+    INDEX 00 28:42:55
+    INDEX 01 28:46:72
+  TRACK 09 AUDIO
+    TITLE "I Hate To Eat Alone"
+    INDEX 00 33:53:01
+    INDEX 01 33:56:26
+  TRACK 10 AUDIO
+    TITLE "Strange Lover"
+    INDEX 00 36:51:12
+    INDEX 01 36:52:27
+  TRACK 11 AUDIO
+    TITLE "L.A. Inflatable"
+    INDEX 00 40:34:37
+    INDEX 01 40:35:16
+  TRACK 12 AUDIO
+    TITLE "One-Two-Five [Single Edit]"
+    INDEX 00 45:08:19
+    INDEX 01 45:10:06
+  TRACK 13 AUDIO
+    TITLE "Only Child"
+    INDEX 00 49:14:21
+    INDEX 01 49:16:08

@@ -1,0 +1,78 @@
+TITLE "10cc (remastered in 2000)"
+PERFORMER "10cc"
+REM DISCID B60C290F
+FILE "10cc (remastered in 2000).flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Johnny Don't Do It"
+    FLAGS DCP
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Sand In My Face"
+    FLAGS DCP
+    INDEX 00 03:36:54
+    INDEX 01 03:38:54
+  TRACK 03 AUDIO
+    TITLE "Donna"
+    FLAGS DCP
+    INDEX 00 07:16:13
+    INDEX 01 07:18:13
+  TRACK 04 AUDIO
+    TITLE "The Dean And I"
+    FLAGS DCP
+    INDEX 00 10:12:10
+    INDEX 01 10:14:10
+  TRACK 05 AUDIO
+    TITLE "Headline Hustler"
+    FLAGS DCP
+    INDEX 00 13:17:18
+    INDEX 01 13:19:18
+  TRACK 06 AUDIO
+    TITLE "Speed Kills"
+    FLAGS DCP
+    INDEX 00 16:50:27
+    INDEX 01 16:52:27
+  TRACK 07 AUDIO
+    TITLE "Rubber Bullets"
+    FLAGS DCP
+    INDEX 00 20:41:04
+    INDEX 01 20:43:04
+  TRACK 08 AUDIO
+    TITLE "The Hospital Song"
+    FLAGS DCP
+    INDEX 00 25:57:68
+    INDEX 01 25:59:68
+  TRACK 09 AUDIO
+    TITLE "Ships Don't Disappear (Do They?)"
+    FLAGS DCP
+    INDEX 00 28:41:30
+    INDEX 01 28:43:30
+  TRACK 10 AUDIO
+    TITLE "Fresh Air For My Mama"
+    FLAGS DCP
+    INDEX 00 31:47:62
+    INDEX 01 31:49:62
+  TRACK 11 AUDIO
+    TITLE "Hot Rock Sun"
+    FLAGS DCP
+    INDEX 00 34:54:07
+    INDEX 01 34:56:07
+  TRACK 12 AUDIO
+    TITLE "4% Of Something"
+    FLAGS DCP
+    INDEX 00 37:55:53
+    INDEX 01 37:57:53
+  TRACK 13 AUDIO
+    TITLE "Rubber Bullets (single version)"
+    FLAGS DCP
+    INDEX 00 41:57:13
+    INDEX 01 41:59:13
+  TRACK 14 AUDIO
+    TITLE "Waterfall"
+    FLAGS DCP
+    INDEX 00 46:06:03
+    INDEX 01 46:08:03
+  TRACK 15 AUDIO
+    TITLE "Bee In My Bonnet"
+    FLAGS DCP
+    INDEX 00 49:49:37
+    INDEX 01 49:51:37

@@ -1,0 +1,72 @@
+TITLE "POP"
+PERFORMER "Kumiko Yamashita (山下久美子)"
+CATALOG 4988001103738
+REM GENRE "Rock"
+REM DATE "1987"
+REM DISCID 900A780B
+FILE "Kumiko Yamashita (山下久美子) - POP.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "WHY?"
+    PERFORMER "Kumiko Yamashita (山下久美子)"
+    ISRC JPCO08728710
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Lilith (British Fantasy)"
+    PERFORMER "Kumiko Yamashita (山下久美子)"
+    ISRC JPCO08728720
+    INDEX 00 03:45:72
+    INDEX 01 03:46:62
+  TRACK 03 AUDIO
+    TITLE "Happy Birthday...To Me"
+    PERFORMER "Kumiko Yamashita (山下久美子)"
+    ISRC JPCO08728730
+    INDEX 00 09:03:05
+    INDEX 01 09:04:45
+  TRACK 04 AUDIO
+    TITLE "LADY XXX POP!"
+    PERFORMER "Kumiko Yamashita (山下久美子)"
+    ISRC JPCO08728740
+    INDEX 00 13:27:05
+    INDEX 01 13:29:25
+  TRACK 05 AUDIO
+    TITLE "Moonage-Rhapsody"
+    PERFORMER "Kumiko Yamashita (山下久美子)"
+    ISRC JPCO08728750
+    INDEX 00 15:54:62
+    INDEX 01 15:57:00
+  TRACK 06 AUDIO
+    TITLE "TIRED OUT"
+    PERFORMER "Kumiko Yamashita (山下久美子)"
+    ISRC JPCO08728760
+    INDEX 00 21:37:17
+    INDEX 01 21:38:10
+  TRACK 07 AUDIO
+    TITLE "LOVE & PEACE"
+    PERFORMER "Kumiko Yamashita (山下久美子)"
+    ISRC JPCO08728770
+    INDEX 00 26:22:32
+    INDEX 01 26:22:67
+  TRACK 08 AUDIO
+    TITLE "BIBBIDI-BOBBIDI-BOO"
+    PERFORMER "Kumiko Yamashita (山下久美子)"
+    ISRC JPCO08728780
+    INDEX 00 29:11:60
+    INDEX 01 29:13:25
+  TRACK 09 AUDIO
+    TITLE "STAY"
+    PERFORMER "Kumiko Yamashita (山下久美子)"
+    ISRC JPCO08728790
+    INDEX 00 33:24:45
+    INDEX 01 33:25:00
+  TRACK 10 AUDIO
+    TITLE "Rock me Baby"
+    PERFORMER "Kumiko Yamashita (山下久美子)"
+    ISRC JPCO08728800
+    INDEX 00 39:17:10
+    INDEX 01 39:19:42
+  TRACK 11 AUDIO
+    TITLE "BLUEZY"
+    PERFORMER "Kumiko Yamashita (山下久美子)"
+    ISRC JPCO08728810
+    INDEX 00 43:08:30
+    INDEX 01 43:13:05

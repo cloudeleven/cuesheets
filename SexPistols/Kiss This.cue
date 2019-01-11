@@ -1,0 +1,73 @@
+TITLE "Kiss This"
+PERFORMER "Sex Pistols"
+REM GENRE "Punk"
+REM DATE "1992"
+REM DISCID 28100B14
+FILE "Kiss This.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Anarchy In The U.K."
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "God Save The Queen"
+    INDEX 01 03:32:07
+  TRACK 03 AUDIO
+    TITLE "Pretty Vacant"
+    INDEX 01 06:50:07
+  TRACK 04 AUDIO
+    TITLE "Holidays In The Sun"
+    INDEX 00 10:05:52
+    INDEX 01 10:05:55
+  TRACK 05 AUDIO
+    TITLE "I Wanna Be Me"
+    INDEX 01 13:24:57
+  TRACK 06 AUDIO
+    TITLE "Did U No Wrong"
+    INDEX 01 16:28:02
+  TRACK 07 AUDIO
+    TITLE "No Fun"
+    INDEX 01 19:37:72
+  TRACK 08 AUDIO
+    TITLE "Satellite"
+    INDEX 01 25:58:62
+  TRACK 09 AUDIO
+    TITLE "Don't Give Me No Lip, Child"
+    INDEX 00 29:57:20
+    INDEX 01 29:57:62
+  TRACK 10 AUDIO
+    TITLE "(I'm Not Your) Stepping Stone"
+    INDEX 00 33:25:30
+    INDEX 01 33:25:57
+  TRACK 11 AUDIO
+    TITLE "Bodies"
+    INDEX 00 36:31:70
+    INDEX 01 36:32:45
+  TRACK 12 AUDIO
+    TITLE "No Feelings"
+    INDEX 01 39:34:00
+  TRACK 13 AUDIO
+    TITLE "Liar"
+    INDEX 01 42:22:12
+  TRACK 14 AUDIO
+    TITLE "Problems"
+    INDEX 00 45:02:00
+    INDEX 01 45:02:02
+  TRACK 15 AUDIO
+    TITLE "Seventeen"
+    INDEX 01 49:11:52
+  TRACK 16 AUDIO
+    TITLE "Submission"
+    INDEX 00 51:12:60
+    INDEX 01 51:12:62
+  TRACK 17 AUDIO
+    TITLE "New York"
+    INDEX 01 55:23:37
+  TRACK 18 AUDIO
+    TITLE "EMI (Unlimited Edition)"
+    INDEX 01 58:27:17
+  TRACK 19 AUDIO
+    TITLE "My Way"
+    INDEX 01 61:36:45
+  TRACK 20 AUDIO
+    TITLE "Silly Thing (Steve Jones Vocal)"
+    INDEX 00 65:40:15
+    INDEX 01 65:40:37

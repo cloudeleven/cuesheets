@@ -1,0 +1,92 @@
+X Lossless Decoder version 20110502 (132.0)
+
+XLD extraction logfile from 2011-05-04 22:05:27 +0900
+
+XTC / Easter Theatre
+
+Used drive : MATSHITA DVD-R   UJ-868 (revision KB19)
+
+Ripper mode             : CDParanoia III 10.2
+Disable audio cache     : OK for the drive with a cache less than 2750KiB
+Make use of C2 pointers : NO
+Read offset correction  : 102
+Max retry count         : 100
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:49:25 |         0    |    21699   
+        2  | 04:49:25 | 04:56:30 |     21700    |    43929   
+        3  | 09:45:55 | 13:51:00 |     43930    |   106254   
+
+AccurateRip Summary
+    Track 01 : OK (confidence 9)
+    Track 02 : OK (confidence 9)
+    Track 03 : OK (confidence 10)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Users/m4c/Public/flac/Easter Theatre.flac
+    CRC32 hash             : 44146DB3
+    CRC32 hash (skip zero) : 2C0DAA2E
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash             : DDEB439B
+    CRC32 hash (skip zero) : 545C8855
+    AccurateRip signature  : 8D0D2CBA
+        ->Accurately ripped! (confidence 9)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 02
+    Pre-gap length : 00:02:00
+
+    CRC32 hash             : BBA30B06
+    CRC32 hash (skip zero) : D63BE9CE
+    AccurateRip signature  : AFA15F35
+        ->Accurately ripped! (confidence 9)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 03
+    Pre-gap length : 00:02:50
+
+    CRC32 hash             : 81C7D779
+    CRC32 hash (skip zero) : 1200E6B5
+    AccurateRip signature  : BD08C50A
+        ->Accurately ripped! (confidence 10)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+No errors occurred
+
+End of status report

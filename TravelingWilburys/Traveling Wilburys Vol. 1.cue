@@ -1,0 +1,47 @@
+TITLE "Traveling Wilburys Vol. 1"
+PERFORMER "Traveling Wilburys"
+CATALOG 0075992579629
+REM GENRE "Blues Rock"
+REM DATE "1988"
+REM DISCID 7008840A
+FILE "Traveling Wilburys Vol. 1.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Handle With Care"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:33
+  TRACK 02 AUDIO
+    TITLE "Dirty World"
+    INDEX 00 03:18:18
+    INDEX 01 03:19:48
+  TRACK 03 AUDIO
+    TITLE "Rattled"
+    INDEX 00 06:47:28
+    INDEX 01 06:49:10
+  TRACK 04 AUDIO
+    TITLE "Last Night"
+    INDEX 00 09:47:20
+    INDEX 01 09:48:25
+  TRACK 05 AUDIO
+    TITLE "Not Alone Any More"
+    INDEX 00 13:37:35
+    INDEX 01 13:39:55
+  TRACK 06 AUDIO
+    TITLE "Congratulations"
+    INDEX 00 17:02:65
+    INDEX 01 17:04:58
+  TRACK 07 AUDIO
+    TITLE "Heading For The Light"
+    INDEX 00 20:32:18
+    INDEX 01 20:34:23
+  TRACK 08 AUDIO
+    TITLE "Margarita"
+    INDEX 00 24:09:30
+    INDEX 01 24:10:60
+  TRACK 09 AUDIO
+    TITLE "Tweeter And The Monkey Man"
+    INDEX 00 27:26:33
+    INDEX 01 27:27:08
+  TRACK 10 AUDIO
+    TITLE "End Of The Line"
+    INDEX 00 32:53:30
+    INDEX 01 32:54:55

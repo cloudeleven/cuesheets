@@ -1,0 +1,109 @@
+TITLE "Rarities Two [Disc 01: Parklife & The Great Escape Era Rarities][BLUR 21 BOX]"
+PERFORMER "Blur"
+CATALOG 5099962491426
+REM GENRE "BritPop"
+REM DATE "2012-07-27"
+REM DISCNUMBER 1
+REM TOTALDISCS 2
+REM DISCID EE0C9A11
+FILE "Blur - Rarities Two [Disc 01： Parklife & The Great Escape Era Rarities][BLUR 21 BOX].flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Parklife (Demo)"
+    PERFORMER "Blur"
+    ISRC GBAYE1200722
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Clover Over Dover (Demo)"
+    PERFORMER "Blur"
+    ISRC GBAYE1200723
+    INDEX 00 03:06:35
+    INDEX 01 03:08:50
+  TRACK 03 AUDIO
+    TITLE "Jubilee (Demo)"
+    PERFORMER "Blur"
+    ISRC GBAYE1200724
+    INDEX 00 06:01:14
+    INDEX 01 06:03:29
+  TRACK 04 AUDIO
+    TITLE "One A Minute (One Born Every Minute Demo) "
+    PERFORMER "Blur"
+    ISRC GBAYE1200725
+    INDEX 00 08:52:20
+    INDEX 01 08:54:49
+  TRACK 05 AUDIO
+    TITLE "Badhead (Demo)"
+    PERFORMER "Blur"
+    ISRC GBAYE1200726
+    INDEX 00 11:06:31
+    INDEX 01 11:08:40
+  TRACK 06 AUDIO
+    TITLE "Far Out (Demo, Electric Version)"
+    PERFORMER "Blur"
+    ISRC GBAYE1200727
+    INDEX 00 14:13:38
+    INDEX 01 14:15:46
+  TRACK 07 AUDIO
+    TITLE "The Debt Collector (Demo)"
+    PERFORMER "Blur"
+    ISRC GBAYE1200728
+    INDEX 00 17:30:36
+    INDEX 01 17:32:45
+  TRACK 08 AUDIO
+    TITLE "Trouble In The Message Centre (Demo) "
+    PERFORMER "Blur"
+    ISRC GBAYE1200729
+    INDEX 01 19:44:08
+  TRACK 09 AUDIO
+    TITLE "Rednecks (Take 1) "
+    PERFORMER "Blur"
+    ISRC GBAYE1200730
+    INDEX 00 23:19:20
+    INDEX 01 23:21:29
+  TRACK 10 AUDIO
+    TITLE "Rednecks (Take 2) "
+    PERFORMER "Blur"
+    ISRC GBAYE1200731
+    INDEX 00 26:06:16
+    INDEX 01 26:07:52
+  TRACK 11 AUDIO
+    TITLE "Alex’s Song (Demo)"
+    PERFORMER "Blur"
+    ISRC GBAYE1200732
+    INDEX 00 27:05:30
+    INDEX 01 27:07:39
+  TRACK 12 AUDIO
+    TITLE "Cross Channel Love (Home Demo)"
+    PERFORMER "Blur"
+    ISRC GBAYE1200733
+    INDEX 00 30:16:31
+    INDEX 01 30:17:30
+  TRACK 13 AUDIO
+    TITLE "Ernold Same (Demo)"
+    PERFORMER "Blur"
+    ISRC GBAYE1200734
+    INDEX 00 33:32:04
+    INDEX 01 33:34:04
+  TRACK 14 AUDIO
+    TITLE "Saturday Morning (Demo) "
+    PERFORMER "Blur"
+    ISRC GBAYE1200735
+    INDEX 00 34:52:19
+    INDEX 01 34:54:28
+  TRACK 15 AUDIO
+    TITLE "Hope You Find Your Suburb (Eine Kleine Lift Musick Full Band Demo)"
+    PERFORMER "Blur"
+    ISRC GBAYE1200736
+    INDEX 00 39:25:53
+    INDEX 01 39:27:43
+  TRACK 16 AUDIO
+    TITLE "Rico (Fade Away Demo) "
+    PERFORMER "Blur"
+    ISRC GBAYE1200737
+    INDEX 00 43:39:66
+    INDEX 01 43:40:64
+  TRACK 17 AUDIO
+    TITLE "Bored House Wives (Entertain Me Early Version)"
+    PERFORMER "Blur"
+    ISRC GBAYE1200738
+    INDEX 00 48:47:39
+    INDEX 01 48:49:01

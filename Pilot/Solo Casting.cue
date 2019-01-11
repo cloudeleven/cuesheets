@@ -1,0 +1,48 @@
+TITLE "Solo Casting"
+PERFORMER "William Lyall"
+REM GENRE "Rock"
+REM DATE "1976"
+REM DISCID 830ABB0C
+FILE "Solo Casting.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Solo Casting"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:32
+  TRACK 02 AUDIO
+    TITLE "Us"
+    INDEX 01 03:59:05
+  TRACK 03 AUDIO
+    TITLE "Playing In The Sand"
+    INDEX 01 07:33:20
+  TRACK 04 AUDIO
+    TITLE "Supertrader"
+    INDEX 01 10:01:67
+  TRACK 05 AUDIO
+    TITLE "Reasons"
+    INDEX 01 13:19:37
+  TRACK 06 AUDIO
+    TITLE "The Deeper You Get"
+    INDEX 01 17:02:17
+  TRACK 07 AUDIO
+    TITLE "Maniac"
+    INDEX 01 20:26:40
+  TRACK 08 AUDIO
+    TITLE "Don'T Be Silly"
+    INDEX 00 23:42:25
+    INDEX 01 23:44:02
+  TRACK 09 AUDIO
+    TITLE "Take Me Up"
+    INDEX 00 27:22:72
+    INDEX 01 27:25:70
+  TRACK 10 AUDIO
+    TITLE "Sleep"
+    INDEX 00 31:31:65
+    INDEX 01 31:33:42
+  TRACK 11 AUDIO
+    TITLE "Maniac (Single Version)"
+    INDEX 00 38:37:55
+    INDEX 01 38:38:52
+  TRACK 12 AUDIO
+    TITLE "Solo Casting (Single Version)"
+    INDEX 00 41:48:27
+    INDEX 01 41:49:32

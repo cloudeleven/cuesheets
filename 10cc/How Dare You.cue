@@ -1,0 +1,40 @@
+TITLE "How Dare You"
+PERFORMER "10cc"
+REM GENRE "Rock"
+REM DATE "1976"
+REM DISCID 7309F509
+FILE "How Dare You.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "How Dare You"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:37
+  TRACK 02 AUDIO
+    TITLE "Lazy Ways"
+    INDEX 01 03:35:00
+  TRACK 03 AUDIO
+    TITLE "I Wanna Rule the World"
+    INDEX 00 08:35:60
+    INDEX 01 08:37:57
+  TRACK 04 AUDIO
+    TITLE "I'm Mandy, Fly Me"
+    INDEX 00 12:35:00
+    INDEX 01 12:36:27
+  TRACK 05 AUDIO
+    TITLE "Iceberg"
+    INDEX 01 17:58:52
+  TRACK 06 AUDIO
+    TITLE "Art for Arts Sake"
+    INDEX 00 21:41:73
+    INDEX 01 21:44:35
+  TRACK 07 AUDIO
+    TITLE "Rock 'n' Roll Lullaby"
+    INDEX 00 27:44:23
+    INDEX 01 27:45:60
+  TRACK 08 AUDIO
+    TITLE "Head Room"
+    INDEX 00 31:44:43
+    INDEX 01 31:46:45
+  TRACK 09 AUDIO
+    TITLE "Don't Hang Up"
+    INDEX 00 36:08:03
+    INDEX 01 36:09:37

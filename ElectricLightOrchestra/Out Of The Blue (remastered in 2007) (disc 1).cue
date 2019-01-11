@@ -1,0 +1,42 @@
+TITLE "Out Of The Blue (remastered in 2007) (disc 1)"
+PERFORMER "Electric Light Orchestra"
+REM GENRE "Rock"
+REM DATE "1977"
+REM DISCID 84080409
+FILE "Out Of The Blue (remastered in 2007) (disc 1).flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Turn To Stone"
+    ISRC USSM17800576
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "It's Over"
+    ISRC USSM17700586
+    INDEX 01 03:49:05
+  TRACK 03 AUDIO
+    TITLE "Sweet Talkin' Woman"
+    ISRC USSM17200398
+    INDEX 01 07:57:55
+  TRACK 04 AUDIO
+    TITLE "Across The Border"
+    ISRC USSM17800581
+    INDEX 01 11:47:50
+  TRACK 05 AUDIO
+    TITLE "Night In The City"
+    ISRC USSM17800582
+    INDEX 01 15:41:35
+  TRACK 06 AUDIO
+    TITLE "Starlight"
+    ISRC USSM17800583
+    INDEX 01 19:45:30
+  TRACK 07 AUDIO
+    TITLE "Jungle"
+    ISRC USSM17800593
+    INDEX 01 24:17:15
+  TRACK 08 AUDIO
+    TITLE "Believe Me Now"
+    ISRC USSM17800584
+    INDEX 01 28:10:26
+  TRACK 09 AUDIO
+    TITLE "Steppin' Out"
+    ISRC USSM17800585
+    INDEX 01 29:31:52

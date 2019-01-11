@@ -1,0 +1,59 @@
+TITLE "1986"
+PERFORMER "Kumiko Yamashita (山下久美子)"
+CATALOG 4988001053736
+REM GENRE "Rock"
+REM DATE "1986"
+REM DISCID 760A420A
+FILE "Kumiko Yamashita (山下久美子) - 1986.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "REINCARNATION"
+    PERFORMER "Kumiko Yamashita (山下久美子)"
+    ISRC JPCO08637920
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "LUCKY MAN"
+    PERFORMER "Kumiko Yamashita (山下久美子)"
+    ISRC JPCO08637930
+    INDEX 01 04:54:18
+  TRACK 03 AUDIO
+    TITLE "Nomore, Rumour"
+    PERFORMER "Kumiko Yamashita (山下久美子)"
+    ISRC JPCO08637940
+    INDEX 01 09:39:08
+  TRACK 04 AUDIO
+    TITLE "SINGLE"
+    PERFORMER "Kumiko Yamashita (山下久美子)"
+    ISRC JPCO08618620
+    INDEX 01 13:54:00
+  TRACK 05 AUDIO
+    TITLE "笑ってよ フラッパー"
+    PERFORMER "Kumiko Yamashita (山下久美子)"
+    ISRC JPCO08637950
+    INDEX 00 17:51:13
+    INDEX 01 17:52:28
+  TRACK 06 AUDIO
+    TITLE "WALKIN' IN MY SLEEP"
+    PERFORMER "Kumiko Yamashita (山下久美子)"
+    ISRC JPCO08637960
+    INDEX 01 23:23:55
+  TRACK 07 AUDIO
+    TITLE "ANGEL BEAT"
+    PERFORMER "Kumiko Yamashita (山下久美子)"
+    ISRC JPCO08637970
+    INDEX 01 27:19:63
+  TRACK 08 AUDIO
+    TITLE "うたたねチャーリー"
+    PERFORMER "Kumiko Yamashita (山下久美子)"
+    ISRC JPCO08637980
+    INDEX 01 31:41:13
+  TRACK 09 AUDIO
+    TITLE "STOIC DRUNKER"
+    PERFORMER "Kumiko Yamashita (山下久美子)"
+    ISRC JPCO08637990
+    INDEX 01 35:21:55
+  TRACK 10 AUDIO
+    TITLE "On Sunday's 1986"
+    PERFORMER "Kumiko Yamashita (山下久美子)"
+    ISRC JPCO08638000
+    INDEX 00 39:28:55
+    INDEX 01 39:29:35

@@ -1,0 +1,18 @@
+TITLE "Sherbet Snow and the Airplane e.p."
+PERFORMER "SUEMITSU & THE SUEMITH"
+REM DISCID 2002D503
+FILE "Sherbet Snow and the Airplane e.p..flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Sherbet Snow and the Airplane"
+    ISRC JPKS00600561
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "We R the Wave Crest"
+    ISRC JPKS00600562
+    INDEX 00 03:52:22
+    INDEX 01 03:54:66
+  TRACK 03 AUDIO
+    TITLE "Ask"
+    ISRC JPKS00600563
+    INDEX 00 08:11:42
+    INDEX 01 08:14:50

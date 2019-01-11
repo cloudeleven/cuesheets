@@ -1,0 +1,50 @@
+TITLE "The Mix"
+PERFORMER "Kraftwerk"
+REM GENRE "Electronic"
+REM DATE "1991"
+REM DISCID A60F490B
+FILE "The Mix.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "The Robots"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:32
+  TRACK 02 AUDIO
+    TITLE "Computerlove"
+    INDEX 00 08:57:00
+    INDEX 01 08:58:05
+  TRACK 03 AUDIO
+    TITLE "Pocket Calculator"
+    INDEX 00 15:33:40
+    INDEX 01 15:35:12
+  TRACK 04 AUDIO
+    TITLE "Dentaku"
+    INDEX 00 20:07:42
+    INDEX 01 20:07:45
+  TRACK 05 AUDIO
+    TITLE "Autobahn"
+    INDEX 00 23:33:70
+    INDEX 01 23:34:12
+  TRACK 06 AUDIO
+    TITLE "Radioactivity"
+    INDEX 00 33:00:62
+    INDEX 01 33:02:22
+  TRACK 07 AUDIO
+    TITLE "Trans Europe Express"
+    INDEX 00 39:54:37
+    INDEX 01 39:55:50
+  TRACK 08 AUDIO
+    TITLE "Abzug"
+    INDEX 00 43:15:72
+    INDEX 01 43:16:00
+  TRACK 09 AUDIO
+    TITLE "Metal On Metal"
+    INDEX 00 45:34:05
+    INDEX 01 45:34:07
+  TRACK 10 AUDIO
+    TITLE "Homecomputer"
+    INDEX 00 50:32:40
+    INDEX 01 50:33:00
+  TRACK 11 AUDIO
+    TITLE "Music Non Stop"
+    INDEX 00 58:35:27
+    INDEX 01 58:35:47

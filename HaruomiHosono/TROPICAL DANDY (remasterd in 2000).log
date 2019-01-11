@@ -1,0 +1,194 @@
+X Lossless Decoder version 20181019 (151.1)
+
+XLD extraction logfile from 2019-01-07 22:55:56 +0900
+
+Haruomi Hosono (細野晴臣) / TROPICAL DANDY (remasterd in 2000)
+
+Used drive : HL-DT-ST BD-RE  BH10NS30 (revision EL00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 02:49:35 |         0    |    12709   
+        2  | 02:49:35 | 05:36:60 |     12710    |    37969   
+        3  | 08:26:20 | 03:29:60 |     37970    |    53704   
+        4  | 11:56:05 | 04:52:30 |     53705    |    75634   
+        5  | 16:48:35 | 02:38:32 |     75635    |    87516   
+        6  | 19:26:67 | 03:06:70 |     87517    |   101536   
+        7  | 22:33:62 | 02:33:40 |    101537    |   113051   
+        8  | 25:07:27 | 02:31:43 |    113052    |   124419   
+        9  | 27:38:70 | 02:26:47 |    124420    |   135416   
+       10  | 30:05:42 | 04:02:28 |    135417    |   153594   
+
+List of alternate offset correction values
+        #  | Absolute | Relative | Confidence 
+    ------------------------------------------
+        1  |    711   |     44   |      5     
+        2  |    359   |   -308   |      3     
+
+AccurateRip Summary (DiscID: 000daa46-006b5cc2-7407ff0a)
+    Track 01 : OK (v1+v2, confidence 14/22)
+    Track 02 : OK (v1+v2, confidence 14/22)
+    Track 03 : OK (v1+v2, confidence 14/21)
+    Track 04 : OK (v1+v2, confidence 14/21)
+    Track 05 : OK (v1+v2, confidence 14/22)
+    Track 06 : OK (v1+v2, confidence 14/22)
+    Track 07 : OK (v1+v2, confidence 14/22)
+    Track 08 : OK (v1+v2, confidence 13/21)
+    Track 09 : OK (v1+v2, confidence 14/22)
+    Track 10 : OK (v1+v2, confidence 13/21)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Users/m4c/Music/Haruomi Hosono (細野晴臣) - TROPICAL DANDY (remasterd in 2000).flac
+    CRC32 hash               : 351E417F
+    CRC32 hash (skip zero)   : 4506C173
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : B957D664
+    CRC32 hash (skip zero)   : 7ECF3CB1
+    AccurateRip v1 signature : AEB37452
+    AccurateRip v2 signature : 31C8118A
+        ->Accurately ripped (v1+v2, confidence 2+12/22)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+
+    CRC32 hash               : C8432B26
+    CRC32 hash (skip zero)   : 9077E0E1
+    AccurateRip v1 signature : 36EE3D97
+    AccurateRip v2 signature : 49904E6C
+        ->Accurately ripped (v1+v2, confidence 2+12/22)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+
+    CRC32 hash               : 5C36F7FF
+    CRC32 hash (skip zero)   : F7E06CF7
+    AccurateRip v1 signature : 551A83B1
+    AccurateRip v2 signature : 0EC56197
+        ->Accurately ripped (v1+v2, confidence 2+12/21)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+
+    CRC32 hash               : 09E50D69
+    CRC32 hash (skip zero)   : 62607647
+    AccurateRip v1 signature : 0141FB9B
+    AccurateRip v2 signature : 70DED6A5
+        ->Accurately ripped (v1+v2, confidence 2+12/21)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+
+    CRC32 hash               : 66ED1728
+    CRC32 hash (skip zero)   : 34B3BE64
+    AccurateRip v1 signature : BC2A0D2E
+    AccurateRip v2 signature : 35DD2DAD
+        ->Accurately ripped (v1+v2, confidence 2+12/22)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Pre-gap length : 00:02:02
+
+    CRC32 hash               : BB0FEA53
+    CRC32 hash (skip zero)   : 331D03A4
+    AccurateRip v1 signature : A09DE59F
+    AccurateRip v2 signature : 7818198E
+        ->Accurately ripped (v1+v2, confidence 2+12/22)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+
+    CRC32 hash               : AB686EA6
+    CRC32 hash (skip zero)   : 5EEE072E
+    AccurateRip v1 signature : ABC69C1D
+    AccurateRip v2 signature : 11F9125F
+        ->Accurately ripped (v1+v2, confidence 2+12/22)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+
+    CRC32 hash               : 8C829168
+    CRC32 hash (skip zero)   : 937D88C3
+    AccurateRip v1 signature : D48B5DE3
+    AccurateRip v2 signature : 709F03D0
+        ->Accurately ripped (v1+v2, confidence 2+11/21)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+
+    CRC32 hash               : A86D4323
+    CRC32 hash (skip zero)   : B514697A
+    AccurateRip v1 signature : 505649CC
+    AccurateRip v2 signature : C453CB70
+        ->Accurately ripped (v1+v2, confidence 2+12/22)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+
+    CRC32 hash               : 083FA6EB
+    CRC32 hash (skip zero)   : 6507D255
+    AccurateRip v1 signature : 673A23BF
+    AccurateRip v2 signature : C35173AA
+        ->Accurately ripped (v1+v2, confidence 2+11/21)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

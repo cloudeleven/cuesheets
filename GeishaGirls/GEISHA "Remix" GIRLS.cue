@@ -1,0 +1,30 @@
+TITLE "GEISHA "Remix" GIRLS"
+PERFORMER "Geisha Girls"
+REM GENRE "Comedy"
+REM DATE "1994"
+REM DISCID 3A05ED05
+FILE "GEISHA "Remix" GIRLS.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Kick And Loud (T. Mori's Loud Mix)"
+    ISRC JPFL09402292
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Grandma Is Still Alive"
+    ISRC JPFL09402280
+    INDEX 00 04:49:47
+    INDEX 01 04:53:00
+  TRACK 03 AUDIO
+    TITLE "Kick And Loud"
+    ISRC JPFL09402290
+    INDEX 00 10:55:45
+    INDEX 01 10:58:12
+  TRACK 04 AUDIO
+    TITLE "Grandma Is Still Alive (T. Mori's Flying Phat Mix)"
+    ISRC JPFL09402282
+    INDEX 00 15:30:20
+    INDEX 01 15:32:12
+  TRACK 05 AUDIO
+    TITLE "Kick And Loud (Instrumental)"
+    ISRC JPFL09402291
+    INDEX 00 20:40:50
+    INDEX 01 20:43:00

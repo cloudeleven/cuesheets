@@ -1,0 +1,43 @@
+TITLE "Deceptive Bends"
+PERFORMER "10cc"
+CATALOG 0042283694828
+REM GENRE "Rock"
+REM DATE "1977"
+REM DISCID 7D095209
+FILE "Deceptive Bends.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Good Morning Judge"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:33
+  TRACK 02 AUDIO
+    TITLE "The Things We Do For Love"
+    INDEX 00 02:53:45
+    INDEX 01 02:56:33
+  TRACK 03 AUDIO
+    TITLE "Marriage Bureau Rendezvous"
+    INDEX 00 06:26:58
+    INDEX 01 06:28:33
+  TRACK 04 AUDIO
+    TITLE "People In Love"
+    INDEX 00 10:31:45
+    INDEX 01 10:34:33
+  TRACK 05 AUDIO
+    TITLE "Modern Man Blues"
+    INDEX 00 14:19:45
+    INDEX 01 14:22:33
+  TRACK 06 AUDIO
+    TITLE "Honeymoon With B Troop"
+    INDEX 00 19:57:70
+    INDEX 01 19:59:33
+  TRACK 07 AUDIO
+    TITLE "I Bought A Flat Guitar Tutor"
+    INDEX 00 22:46:70
+    INDEX 01 22:49:33
+  TRACK 08 AUDIO
+    TITLE "You've Got A Cold"
+    INDEX 00 24:35:45
+    INDEX 01 24:37:33
+  TRACK 09 AUDIO
+    TITLE "Feel The Benefit (Parts 1, 2 and 3)"
+    INDEX 00 28:13:70
+    INDEX 01 28:17:33

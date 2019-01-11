@@ -1,0 +1,91 @@
+TITLE "three into one"
+PERFORMER "Kumiko Yamashita"
+CATALOG 4988001246879
+REM GENRE "JPop"
+REM DATE "1988"
+REM DISCID 0B11CC11
+FILE "three into one.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "flip flop & fly (remix-version)"
+    ISRC JPCO08846600
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "reincarnation (remixed long version with strings)"
+    ISRC JPCO08700920
+    INDEX 00 05:28:58
+    INDEX 01 05:30:10
+  TRACK 03 AUDIO
+    TITLE "single"
+    ISRC JPCO08618620
+    INDEX 00 11:55:25
+    INDEX 01 11:57:30
+  TRACK 04 AUDIO
+    TITLE "angel beat"
+    ISRC JPCO08619510
+    INDEX 00 15:54:48
+    INDEX 01 15:55:65
+  TRACK 05 AUDIO
+    TITLE "on sunday's 1986"
+    ISRC JPCO08619520
+    INDEX 00 20:15:73
+    INDEX 01 20:18:00
+  TRACK 06 AUDIO
+    TITLE "lilith (british fantasy)"
+    ISRC JPCO08728720
+    INDEX 00 24:32:58
+    INDEX 01 24:34:03
+  TRACK 07 AUDIO
+    TITLE "happy birthday…to me"
+    ISRC JPCO08728730
+    INDEX 00 29:50:15
+    INDEX 01 29:51:23
+  TRACK 08 AUDIO
+    TITLE "lady xxx pop!"
+    ISRC JPCO08728740
+    INDEX 00 34:13:45
+    INDEX 01 34:14:73
+  TRACK 09 AUDIO
+    TITLE "stay"
+    ISRC JPCO08728790
+    INDEX 00 36:40:38
+    INDEX 01 36:41:63
+  TRACK 10 AUDIO
+    TITLE "rock me baby"
+    ISRC JPCO08728800
+    INDEX 00 42:34:00
+    INDEX 01 42:35:33
+  TRACK 11 AUDIO
+    TITLE "melody-from liverpool"
+    ISRC JPCO08710540
+    INDEX 00 46:24:33
+    INDEX 01 46:25:70
+  TRACK 12 AUDIO
+    TITLE "優しくしたいの"
+    ISRC JPCO08836530
+    INDEX 00 49:51:60
+    INDEX 01 49:53:13
+  TRACK 13 AUDIO
+    TITLE "逢いたい"
+    ISRC JPCO08836540
+    INDEX 00 53:06:50
+    INDEX 01 53:07:50
+  TRACK 14 AUDIO
+    TITLE "微笑みのその前で"
+    ISRC JPCO08836550
+    INDEX 00 56:43:68
+    INDEX 01 56:44:73
+  TRACK 15 AUDIO
+    TITLE "c'est la vie"
+    ISRC JPCO08836560
+    INDEX 00 59:38:20
+    INDEX 01 59:39:48
+  TRACK 16 AUDIO
+    TITLE "stop stop rock'n'roll"
+    ISRC JPCO08836610
+    INDEX 00 64:13:38
+    INDEX 01 64:15:38
+  TRACK 17 AUDIO
+    TITLE "collected short stories of pop"
+    ISRC JPCO00000000
+    INDEX 00 68:43:10
+    INDEX 01 68:44:05

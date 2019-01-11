@@ -1,0 +1,23 @@
+TITLE "Shock On The Piano (special disc)"
+PERFORMER "SUEMITSU & THE SUEMITH"
+REM DISCID 37048704
+FILE "Shock On The Piano (special disc).flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Skyscraper"
+    ISRC JPKS00800293
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Mini Cooper"
+    ISRC JPKS00800294
+    INDEX 00 05:57:30
+    INDEX 01 05:59:00
+  TRACK 03 AUDIO
+    TITLE "Petite reunion"
+    ISRC JPKS00800295
+    INDEX 00 10:52:30
+    INDEX 01 10:55:00
+  TRACK 04 AUDIO
+    TITLE "The Entertainer"
+    ISRC JPKS00800296
+    INDEX 00 14:53:30
+    INDEX 01 14:56:00

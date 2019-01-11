@@ -1,0 +1,193 @@
+X Lossless Decoder version 20181019 (151.1)
+
+XLD extraction logfile from 2019-01-07 23:58:02 +0900
+
+Haruomi Hosono (細野晴臣) / Bon Voyage Co. (泰安洋行) (remastered in 2000)
+
+Used drive : HL-DT-ST BD-RE  BH10NS30 (revision EL00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:15:62 |         0    |    14686   
+        2  | 03:15:62 | 03:09:23 |     14687    |    28884   
+        3  | 06:25:10 | 04:21:42 |     28885    |    48501   
+        4  | 10:46:52 | 03:01:20 |     48502    |    62096   
+        5  | 13:47:72 | 02:38:03 |     62097    |    73949   
+        6  | 16:26:00 | 02:19:45 |     73950    |    84419   
+        7  | 18:45:45 | 02:28:65 |     84420    |    95584   
+        8  | 21:14:35 | 04:47:22 |     95585    |   117131   
+        9  | 26:01:57 | 01:56:23 |    117132    |   125854   
+       10  | 27:58:05 | 03:49:17 |    125855    |   143046   
+
+List of alternate offset correction values
+        #  | Absolute | Relative | Confidence 
+    ------------------------------------------
+        1  |    972   |    305   |      8     
+        2  |   -467   |  -1134   |      4     
+
+AccurateRip Summary (DiscID: 000c1e30-00603932-9c07730a)
+    Track 01 : OK (v2, confidence 6/18)
+    Track 02 : OK (v2, confidence 6/18)
+    Track 03 : OK (v2, confidence 6/18)
+    Track 04 : OK (v2, confidence 5/17)
+    Track 05 : OK (v2, confidence 6/18)
+    Track 06 : OK (v2, confidence 6/18)
+    Track 07 : OK (v2, confidence 6/18)
+    Track 08 : OK (v2, confidence 6/18)
+    Track 09 : OK (v2, confidence 6/18)
+    Track 10 : OK (v2, confidence 6/18)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Users/m4c/Music/Haruomi Hosono (細野晴臣) - Bon Voyage Co. (泰安洋行) (remastered in 2000).flac
+    CRC32 hash               : CCE31774
+    CRC32 hash (skip zero)   : 968B8B7F
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 0B2F83E9
+    CRC32 hash (skip zero)   : BF52D745
+    AccurateRip v1 signature : B882393B
+    AccurateRip v2 signature : 476B97B2
+        ->Accurately ripped (v2, confidence 6/18)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+
+    CRC32 hash               : 276A54B1
+    CRC32 hash (skip zero)   : 378E11EB
+    AccurateRip v1 signature : F0A2F797
+    AccurateRip v2 signature : 5A9F1B40
+        ->Accurately ripped (v2, confidence 6/18)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+
+    CRC32 hash               : 6DA6A518
+    CRC32 hash (skip zero)   : DAA4D5B4
+    AccurateRip v1 signature : CF646FA8
+    AccurateRip v2 signature : 728E92FE
+        ->Accurately ripped (v2, confidence 6/18)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+
+    CRC32 hash               : 144D7DF9
+    CRC32 hash (skip zero)   : A8E7D9DE
+    AccurateRip v1 signature : 6D9730FC
+    AccurateRip v2 signature : 0E29D794
+        ->Accurately ripped (v2, confidence 5/17)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+
+    CRC32 hash               : C17E52DF
+    CRC32 hash (skip zero)   : 2CC7453C
+    AccurateRip v1 signature : CDFAEA53
+    AccurateRip v2 signature : 0291F887
+        ->Accurately ripped (v2, confidence 6/18)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+
+    CRC32 hash               : AC491C03
+    CRC32 hash (skip zero)   : BFD65ABA
+    AccurateRip v1 signature : 62817F6D
+    AccurateRip v2 signature : 01C6C138
+        ->Accurately ripped (v2, confidence 6/18)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+
+    CRC32 hash               : 8553197D
+    CRC32 hash (skip zero)   : ED1C0A4C
+    AccurateRip v1 signature : D60A2A59
+    AccurateRip v2 signature : 94216D49
+        ->Accurately ripped (v2, confidence 6/18)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+
+    CRC32 hash               : 82B96F39
+    CRC32 hash (skip zero)   : F02F4CA8
+    AccurateRip v1 signature : 5234EE79
+    AccurateRip v2 signature : F6079DB5
+        ->Accurately ripped (v2, confidence 6/18)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+
+    CRC32 hash               : AFE6602C
+    CRC32 hash (skip zero)   : 69F394C3
+    AccurateRip v1 signature : 7ECD25E7
+    AccurateRip v2 signature : 9AFCAA12
+        ->Accurately ripped (v2, confidence 6/18)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+
+    CRC32 hash               : 5B49017E
+    CRC32 hash (skip zero)   : 6E6BCB10
+    AccurateRip v1 signature : 3E7AA1AC
+    AccurateRip v2 signature : C6F5E3A2
+        ->Accurately ripped (v2, confidence 6/18)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

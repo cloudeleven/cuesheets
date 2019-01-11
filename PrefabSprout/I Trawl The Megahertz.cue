@@ -1,0 +1,42 @@
+TITLE "I Trawl The Megahertz"
+PERFORMER "Paddy McAloon"
+CATALOG 0724358391022
+REM GENRE "Alternative"
+REM DATE "2003"
+REM DISCID 8B0C9409
+FILE "I Trawl The Megahertz.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "I Trawl The Megahertz"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Esprit De Corps"
+    INDEX 00 21:59:45
+    INDEX 01 22:06:05
+  TRACK 03 AUDIO
+    TITLE "Fall From Grace"
+    INDEX 00 26:57:25
+    INDEX 01 26:57:46
+  TRACK 04 AUDIO
+    TITLE "We Were Poor"
+    INDEX 00 30:34:56
+    INDEX 01 30:36:16
+  TRACK 05 AUDIO
+    TITLE "Orchid 7"
+    INDEX 00 35:25:37
+    INDEX 01 35:25:63
+  TRACK 06 AUDIO
+    TITLE "I'm 49"
+    INDEX 00 39:44:17
+    INDEX 01 39:46:31
+  TRACK 07 AUDIO
+    TITLE "Sleeping Rough"
+    INDEX 00 43:34:54
+    INDEX 01 43:34:69
+  TRACK 08 AUDIO
+    TITLE "Ineffable"
+    INDEX 00 47:05:22
+    INDEX 01 47:09:67
+  TRACK 09 AUDIO
+    TITLE "...But We Were Happy"
+    INDEX 00 49:52:21
+    INDEX 01 49:52:52

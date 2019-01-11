@@ -1,0 +1,52 @@
+X Lossless Decoder version 20170729 (150.3)
+
+XLD extraction logfile from 2018-06-26 23:58:10 +0900
+
+Art Pepper / ブラックニッカ12年 発売記念 オリジナル CD
+
+Used drive : HL-DT-ST BD-RE  BH10NS30 (revision EL00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:17:22 |         0    |    19296   
+
+AccurateRip Summary (DiscID: 00004b61-000096c3-02010101)
+    Track 01 : NG (total 1 submission)
+        ->0 track accurately ripped, 1 track not
+
+All Tracks
+    Filename : /Users/m4c/Music/Art Pepper - ブラックニッカ12年 発売記念 オリジナル CD.flac
+    CRC32 hash               : B3A1DD4A
+    CRC32 hash (skip zero)   : 56C27EC3
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : B3A1DD4A
+    CRC32 hash (skip zero)   : 56C27EC3
+    AccurateRip v1 signature : 3FE5852A
+    AccurateRip v2 signature : CD417033
+        ->Rip may not be accurate (total 1 submission).
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

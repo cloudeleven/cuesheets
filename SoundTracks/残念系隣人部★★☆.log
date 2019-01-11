@@ -1,0 +1,100 @@
+X Lossless Decoder version 20151214 (149.1)
+
+XLD extraction logfile from 2016-04-05 00:58:34 +0900
+
+友達つくり隊 / 残念系隣人部★★☆
+
+Used drive : HL-DT-ST BD-RE  BH10NS30 (revision EL00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:24:06 |         0    |    19805   
+        2  | 04:24:06 | 03:25:36 |     19806    |    35216   
+        3  | 07:49:42 | 04:23:31 |     35217    |    54972   
+        4  | 12:12:73 | 03:23:62 |     54973    |    70259   
+
+AccurateRip Summary (DiscID: 0002c020-000aeea8-2a03a804)
+    Track 01 : OK (v1+v2, confidence 23/23)
+    Track 02 : OK (v1+v2, confidence 23/23)
+    Track 03 : OK (v1+v2, confidence 20/20)
+    Track 04 : OK (v1+v2, confidence 20/20)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Volumes/MyBook4TB1230/tmp/友達つくり隊 - 残念系隣人部★★☆.flac
+    CRC32 hash               : 037897B7
+    CRC32 hash (skip zero)   : 838E115A
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 792152FD
+    CRC32 hash (skip zero)   : 014A9F80
+    AccurateRip v1 signature : BDA2FFC6
+    AccurateRip v2 signature : 619D5D25
+        ->Accurately ripped (v1+v2, confidence 9+14/23)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Pre-gap length : 00:03:45
+
+    CRC32 hash               : 4695DBC8
+    CRC32 hash (skip zero)   : BB90E868
+    AccurateRip v1 signature : 78D0D579
+    AccurateRip v2 signature : A53ED74C
+        ->Accurately ripped (v1+v2, confidence 9+14/23)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Pre-gap length : 00:03:45
+
+    CRC32 hash               : E781857A
+    CRC32 hash (skip zero)   : 0A20DCA2
+    AccurateRip v1 signature : 5C65F03E
+    AccurateRip v2 signature : ABE595E1
+        ->Accurately ripped (v1+v2, confidence 7+13/20)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Pre-gap length : 00:03:45
+
+    CRC32 hash               : C33BBDCA
+    CRC32 hash (skip zero)   : 673BA992
+    AccurateRip v1 signature : 4DCDD4D8
+    AccurateRip v2 signature : DF3CB0CF
+        ->Accurately ripped (v1+v2, confidence 7+13/20)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

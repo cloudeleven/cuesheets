@@ -1,0 +1,41 @@
+TITLE "Door To Door"
+PERFORMER "The Cars"
+CATALOG 0075596074728
+REM GENRE "Rock"
+REM DATE "1987"
+REM DISCID A10AC30B
+FILE "Door To Door.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Leave Or Stay"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:32
+  TRACK 02 AUDIO
+    TITLE "You Are The Girl"
+    INDEX 01 02:56:60
+  TRACK 03 AUDIO
+    TITLE "Double Trouble"
+    INDEX 01 06:50:07
+  TRACK 04 AUDIO
+    TITLE "Fine Line"
+    INDEX 01 11:04:70
+  TRACK 05 AUDIO
+    TITLE "Everything You Say"
+    INDEX 01 16:28:10
+  TRACK 06 AUDIO
+    TITLE "Ta Ta Wayo Wayo"
+    INDEX 01 21:22:32
+  TRACK 07 AUDIO
+    TITLE "Strap Me In"
+    INDEX 01 24:14:22
+  TRACK 08 AUDIO
+    TITLE "Coming Up You"
+    INDEX 01 28:38:65
+  TRACK 09 AUDIO
+    TITLE "Wound Up On You"
+    INDEX 01 32:57:65
+  TRACK 10 AUDIO
+    TITLE "Go Away"
+    INDEX 01 37:58:32
+  TRACK 11 AUDIO
+    TITLE "Door To Door"
+    INDEX 01 42:37:35

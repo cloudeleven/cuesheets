@@ -1,0 +1,31 @@
+TITLE "Face The Music"
+PERFORMER "Electric Light Orchestra"
+REM GENRE "Rock"
+REM DATE "1975"
+REM DISCID 67088808
+FILE "Face The Music.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Fire On High"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Waterfall"
+    INDEX 01 05:30:62
+  TRACK 03 AUDIO
+    TITLE "Evil Woman"
+    INDEX 01 09:57:70
+  TRACK 04 AUDIO
+    TITLE "Nightrider"
+    INDEX 01 14:17:07
+  TRACK 05 AUDIO
+    TITLE "Poker"
+    INDEX 00 18:40:05
+    INDEX 01 18:40:62
+  TRACK 06 AUDIO
+    TITLE "Strange Magic"
+    INDEX 01 22:12:40
+  TRACK 07 AUDIO
+    TITLE "Down Home Town"
+    INDEX 01 26:42:00
+  TRACK 08 AUDIO
+    TITLE "One Summer Dream"
+    INDEX 01 30:36:10

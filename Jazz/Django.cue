@@ -1,0 +1,36 @@
+TITLE "Django"
+PERFORMER "Modern Jazz Quartet"
+REM GENRE "Jazz"
+REM DISCID 71092208
+FILE "Django.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Django"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "One Bass Hit"
+    INDEX 00 07:03:72
+    INDEX 01 07:05:67
+  TRACK 03 AUDIO
+    TITLE "La Ronde Suite"
+    INDEX 00 10:06:22
+    INDEX 01 10:07:67
+  TRACK 04 AUDIO
+    TITLE "The Queen's Fancy"
+    INDEX 00 19:45:50
+    INDEX 01 19:46:67
+  TRACK 05 AUDIO
+    TITLE "Delaunay's Dilemma"
+    INDEX 00 23:00:65
+    INDEX 01 23:02:67
+  TRACK 06 AUDIO
+    TITLE "Autumn in New York"
+    INDEX 00 27:02:12
+    INDEX 01 27:03:60
+  TRACK 07 AUDIO
+    TITLE "But Not For Me"
+    INDEX 00 30:44:40
+    INDEX 01 30:46:62
+  TRACK 08 AUDIO
+    TITLE "Milano"
+    INDEX 00 34:31:40
+    INDEX 01 34:33:57

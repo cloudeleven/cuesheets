@@ -1,0 +1,48 @@
+TITLE "From Langley Park To Memphis (remastered in 2009)"
+PERFORMER "Prefab Sprout"
+REM GENRE "Pop"
+REM DATE "1988"
+REM DISCID 7C0AAA0A
+FILE "From Langley Park To Memphis (remastered in 2009).flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "The King Of Rock 'N' Roll"
+    ISRC GBBBN8802001
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Cars And Girls"
+    ISRC GBBBN8800007
+    INDEX 01 04:23:10
+  TRACK 03 AUDIO
+    TITLE "I Remember That"
+    ISRC GBBBN8800020
+    INDEX 01 08:50:02
+  TRACK 04 AUDIO
+    TITLE "Enchanted"
+    ISRC GBBBN9902235
+    INDEX 01 13:04:52
+  TRACK 05 AUDIO
+    TITLE "Nightingales"
+    ISRC GBBBN8802037
+    INDEX 01 16:51:52
+  TRACK 06 AUDIO
+    TITLE "Hey Manhattan!"
+    ISRC GBBBN0009151
+    INDEX 01 22:45:40
+  TRACK 07 AUDIO
+    TITLE "Knock On Wood"
+    ISRC GBBBN0002225
+    INDEX 00 27:31:67
+    INDEX 01 27:32:67
+  TRACK 08 AUDIO
+    TITLE "The Golden Calf"
+    ISRC GBBBN8802013
+    INDEX 01 31:50:02
+  TRACK 09 AUDIO
+    TITLE "Nancy (Let Your Hair Down For Me)"
+    ISRC GBBBN0002226
+    INDEX 01 36:56:35
+  TRACK 10 AUDIO
+    TITLE "The Venus Of The Soup Kitchen"
+    ISRC GBBBN0002227
+    INDEX 00 40:59:35
+    INDEX 01 41:00:45

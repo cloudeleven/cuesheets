@@ -1,0 +1,49 @@
+TITLE "スタジオ・ロマンチスト"
+PERFORMER "鈴木さえ子"
+REM GENRE "JPop"
+REM DATE "1987"
+REM DISCID 9109E90B
+FILE "スタジオ・ロマンチスト.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Blow Up"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "You're My Special"
+    INDEX 00 03:54:12
+    INDEX 01 03:54:15
+  TRACK 03 AUDIO
+    TITLE "Something In The Air"
+    INDEX 00 07:39:32
+    INDEX 01 07:40:12
+  TRACK 04 AUDIO
+    TITLE "Happy Families"
+    INDEX 00 12:54:15
+    INDEX 01 12:55:22
+  TRACK 05 AUDIO
+    TITLE "I Wish It Could Be Christmas Everyday In The U.K."
+    INDEX 00 15:32:27
+    INDEX 01 15:32:30
+  TRACK 06 AUDIO
+    TITLE "TV Dinner"
+    INDEX 00 18:57:27
+    INDEX 01 18:58:12
+  TRACK 07 AUDIO
+    TITLE "Happy End"
+    INDEX 00 22:14:62
+    INDEX 01 22:16:10
+  TRACK 08 AUDIO
+    TITLE "Freak In"
+    INDEX 00 26:36:30
+    INDEX 01 26:40:42
+  TRACK 09 AUDIO
+    TITLE "Studio Romantic"
+    INDEX 00 31:28:60
+    INDEX 01 31:30:47
+  TRACK 10 AUDIO
+    TITLE "Dear Walt"
+    INDEX 00 36:16:57
+    INDEX 01 36:17:62
+  TRACK 11 AUDIO
+    TITLE "Adventure In South Pacific"
+    INDEX 00 38:54:12
+    INDEX 01 38:54:37

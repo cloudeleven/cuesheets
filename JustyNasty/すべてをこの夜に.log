@@ -1,0 +1,113 @@
+X Lossless Decoder version 20140504 (147.0)
+
+XLD extraction logfile from 2014-08-12 01:16:26 +0900
+
+Justy-Nasty / すべてをこの夜に
+
+Used drive : HL-DT-ST BD-RE  BH10NS30 (revision EL00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:37 | 05:43:30 |        37    |    25791   
+        2  | 05:43:67 | 04:46:73 |     25792    |    47314   
+        3  | 10:30:65 | 04:41:20 |     47315    |    68409   
+        4  | 15:12:10 | 06:00:17 |     68410    |    95426   
+        5  | 21:12:27 | 04:54:45 |     95427    |   117521   
+
+AccurateRip Summary (DiscID: 000568c7-00192b41-35061e05)
+    Track 01 : OK (v1, confidence 1/1)
+    Track 02 : OK (v1, confidence 1/1)
+    Track 03 : OK (v1, confidence 1/1)
+    Track 04 : OK (v1, confidence 1/1)
+    Track 05 : OK (v1, confidence 1/1)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Users/m4c/tmp/flac/すべてをこの夜に.flac
+    CRC32 hash               : 24FDAE09
+    CRC32 hash (skip zero)   : E3CC08AE
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:37
+
+    CRC32 hash               : 5C7F4D54
+    CRC32 hash (skip zero)   : 13773580
+    AccurateRip v1 signature : 0D1EF733
+    AccurateRip v2 signature : 971F5CFF
+        ->Accurately ripped (v1, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+
+    CRC32 hash               : 88AAD124
+    CRC32 hash (skip zero)   : 33FF1D81
+    AccurateRip v1 signature : 89F22D2A
+    AccurateRip v2 signature : 2A9AB5FF
+        ->Accurately ripped (v1, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+
+    CRC32 hash               : A33432B7
+    CRC32 hash (skip zero)   : CFA31F30
+    AccurateRip v1 signature : AAE75F59
+    AccurateRip v2 signature : 6346B742
+        ->Accurately ripped (v1, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Pre-gap length : 00:01:47
+
+    CRC32 hash               : 9B40B894
+    CRC32 hash (skip zero)   : DCD28C00
+    AccurateRip v1 signature : 790A4F2C
+    AccurateRip v2 signature : BD11BE96
+        ->Accurately ripped (v1, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+
+    CRC32 hash               : 642AE79C
+    CRC32 hash (skip zero)   : 6596EC2A
+    AccurateRip v1 signature : 17AD7759
+    AccurateRip v2 signature : 53B23596
+        ->Accurately ripped (v1, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

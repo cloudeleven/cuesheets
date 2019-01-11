@@ -1,0 +1,82 @@
+TITLE "Guitar Slinger"
+PERFORMER "Vince Gill"
+CATALOG 0602527801322
+REM GENRE "Country"
+REM DATE "2011"
+REM DISCID E90EFA0F
+FILE "Vince Gill - Guitar Slinger.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Guitar Slinger"
+    PERFORMER "Vince Gill"
+    ISRC USUM71105739
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "All Nighter Comin'"
+    PERFORMER "Vince Gill"
+    ISRC USUM71111241
+    INDEX 01 04:05:18
+  TRACK 03 AUDIO
+    TITLE "Tell Me Fool"
+    PERFORMER "Vince Gill"
+    ISRC USUM71105729
+    INDEX 01 06:39:64
+  TRACK 04 AUDIO
+    TITLE "Threaten Me with Heaven"
+    PERFORMER "Vince Gill"
+    ISRC USUM71104862
+    INDEX 01 10:45:27
+  TRACK 05 AUDIO
+    TITLE "When the Lady Sings the Blues"
+    PERFORMER "Vince Gill"
+    ISRC USUM71105730
+    INDEX 01 16:16:66
+  TRACK 06 AUDIO
+    TITLE "Who Wouldn't Fall in Love with You"
+    PERFORMER "Vince Gill"
+    ISRC USUM71105731
+    INDEX 01 20:50:69
+  TRACK 07 AUDIO
+    TITLE "When Lonely Comes Around"
+    PERFORMER "Vince Gill"
+    ISRC USUM71105732
+    INDEX 01 25:49:16
+  TRACK 08 AUDIO
+    TITLE "True Love"
+    PERFORMER "Vince Gill"
+    ISRC USUM71105733
+    INDEX 01 29:34:33
+  TRACK 09 AUDIO
+    TITLE "Bread and Water"
+    PERFORMER "Vince Gill"
+    ISRC USUM71105734
+    INDEX 01 34:19:27
+  TRACK 10 AUDIO
+    TITLE "Billy Paul"
+    PERFORMER "Vince Gill"
+    ISRC USUM71105736
+    INDEX 01 39:03:42
+  TRACK 11 AUDIO
+    TITLE "The Old Lucky Diamond Motel"
+    PERFORMER "Vince Gill"
+    ISRC USUM71105735
+    INDEX 01 42:56:07
+  TRACK 12 AUDIO
+    TITLE "Lipstick Everywhere"
+    PERFORMER "Vince Gill"
+    ISRC USUM71105741
+    INDEX 01 46:36:03
+  TRACK 13 AUDIO
+    TITLE "One More Thing I Wish I'd Said"
+    PERFORMER "Vince Gill"
+    ISRC USUM71105740
+    INDEX 01 49:47:49
+  TRACK 14 AUDIO
+    TITLE "If I Die"
+    PERFORMER "Vince Gill"
+    ISRC USUM71105737
+    INDEX 01 53:53:29
+  TRACK 15 AUDIO
+    TITLE "Buttermilk John"
+    PERFORMER "Vince Gill"
+    ISRC USUM71105738
+    INDEX 01 57:33:68

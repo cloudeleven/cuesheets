@@ -1,0 +1,128 @@
+TITLE "Rarities One [Disc 02: Modern Life is Rubbish Era Rarities][BLUR 21 BOX]"
+PERFORMER "Blur"
+CATALOG 5099962491327
+REM GENRE "BritPop"
+REM DATE "2012-07-27"
+REM DISCNUMBER 2
+REM TOTALDISCS 2
+REM DISCID 180FDC14
+FILE "Blur - Rarities One [Disc 02： Modern Life is Rubbish Era Rarities][BLUR 21 BOX].flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "I Lover Her (Alternate Version)"
+    PERFORMER "Blur"
+    ISRC GBAYE1200689
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Popscene (1991 Demo)"
+    PERFORMER "Blur"
+    ISRC GBAYE1200690
+    INDEX 00 03:38:12
+    INDEX 01 03:39:49
+  TRACK 03 AUDIO
+    TITLE "Beached Whale (4 Track Demo)"
+    PERFORMER "Blur"
+    ISRC GBAYE1200691
+    INDEX 00 07:23:09
+    INDEX 01 07:24:48
+  TRACK 04 AUDIO
+    TITLE "Death of a Party (Demo)"
+    PERFORMER "Blur"
+    ISRC GBAYE1200692
+    INDEX 00 10:46:19
+    INDEX 01 10:48:18
+  TRACK 05 AUDIO
+    TITLE "Pap Pop (4 Track Demo)"
+    PERFORMER "Blur"
+    ISRC GBAYE1200693
+    INDEX 00 14:27:12
+    INDEX 01 14:28:74
+  TRACK 06 AUDIO
+    TITLE "Pressure On Julian (Demo)"
+    PERFORMER "Blur"
+    ISRC GBAYE1200694
+    INDEX 00 16:51:65
+    INDEX 01 16:53:65
+  TRACK 07 AUDIO
+    TITLE "Colin Zeal (Demo)"
+    PERFORMER "Blur"
+    ISRC GBAYE1200695
+    INDEX 00 21:19:18
+    INDEX 01 21:20:48
+  TRACK 08 AUDIO
+    TITLE "Sunday Sunday (Demo)"
+    PERFORMER "Blur"
+    ISRC GBAYE1200696
+    INDEX 00 24:51:41
+    INDEX 01 24:52:70
+  TRACK 09 AUDIO
+    TITLE "Never Clever (Demo)"
+    PERFORMER "Blur"
+    ISRC GBAYE1200697
+    INDEX 00 27:03:27
+    INDEX 01 27:04:67
+  TRACK 10 AUDIO
+    TITLE "Advert (Demo)"
+    PERFORMER "Blur"
+    ISRC GBAYE1200699
+    INDEX 00 29:55:56
+    INDEX 01 29:56:66
+  TRACK 11 AUDIO
+    TITLE "Star Shaped (Demo)"
+    PERFORMER "Blur"
+    ISRC GBAYE1200700
+    INDEX 00 33:39:17
+    INDEX 01 33:41:67
+  TRACK 12 AUDIO
+    TITLE "She Don't Mind (Blue Jeans Demo)"
+    PERFORMER "Blur"
+    ISRC GBAYE1200713
+    INDEX 00 36:45:09
+    INDEX 01 36:47:06
+  TRACK 13 AUDIO
+    TITLE "Coping (Andy Partridge Version)"
+    PERFORMER "Blur"
+    ISRC GBAYE1200714
+    INDEX 00 40:37:16
+    INDEX 01 40:39:06
+  TRACK 14 AUDIO
+    TITLE "Sunday Sleep (Sunday Sunday Andy Partridge Version)"
+    PERFORMER "Blur"
+    ISRC GBAYE1200715
+    INDEX 00 44:00:10
+    INDEX 01 44:01:08
+  TRACK 15 AUDIO
+    TITLE "Seven Days  (Andy Partridge Version)"
+    PERFORMER "Blur"
+    ISRC GBAYE1200716
+    INDEX 00 47:29:57
+    INDEX 01 47:32:17
+  TRACK 16 AUDIO
+    TITLE "Kazoo (Turn It Up Early Version)"
+    PERFORMER "Blur"
+    ISRC GBAYE1200717
+    INDEX 00 51:12:47
+    INDEX 01 51:14:11
+  TRACK 17 AUDIO
+    TITLE "The Wassailing Song (7" Giveaway At Hibernian Club Gig)"
+    PERFORMER "Blur"
+    ISRC GBAYE1200718
+    INDEX 00 54:28:53
+    INDEX 01 54:29:70
+  TRACK 18 AUDIO
+    TITLE "When The Cows Come Home (Demo)"
+    PERFORMER "Blur"
+    ISRC GBAYE1200719
+    INDEX 00 57:51:69
+    INDEX 01 57:54:17
+  TRACK 19 AUDIO
+    TITLE "For Tomorrow (Mix 1 - Early Demo)"
+    PERFORMER "Blur"
+    ISRC GBAYE1200720
+    INDEX 00 61:18:26
+    INDEX 01 61:20:20
+  TRACK 20 AUDIO
+    TITLE "Magpie (Early Demo)"
+    PERFORMER "Blur"
+    ISRC GBAYE1200721
+    INDEX 00 65:32:55
+    INDEX 01 65:34:70

@@ -1,0 +1,105 @@
+TITLE "Operators Manual"
+PERFORMER "Buzzcocks"
+REM GENRE "Punk Rock"
+REM DATE "1991"
+REM DISCID 66125919
+FILE "Operators Manual.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Orgasm Addict"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "What Do I Get?"
+    INDEX 00 02:00:22
+    INDEX 01 02:02:07
+  TRACK 03 AUDIO
+    TITLE "I Don't Mind"
+    INDEX 00 04:57:10
+    INDEX 01 04:58:02
+  TRACK 04 AUDIO
+    TITLE "Autonomy"
+    INDEX 00 07:16:17
+    INDEX 01 07:17:30
+  TRACK 05 AUDIO
+    TITLE "Fast Cars"
+    INDEX 00 11:06:47
+    INDEX 01 11:08:07
+  TRACK 06 AUDIO
+    TITLE "Get On Our Own"
+    INDEX 00 13:38:10
+    INDEX 01 13:39:10
+  TRACK 07 AUDIO
+    TITLE "Sixteen"
+    INDEX 00 16:08:45
+    INDEX 01 16:10:05
+  TRACK 08 AUDIO
+    TITLE "Fiction Romance"
+    INDEX 00 19:54:55
+    INDEX 01 19:56:17
+  TRACK 09 AUDIO
+    TITLE "Love You More"
+    INDEX 00 24:28:70
+    INDEX 01 24:30:00
+  TRACK 10 AUDIO
+    TITLE "Noise Annoys"
+    INDEX 00 26:18:47
+    INDEX 01 26:20:15
+  TRACK 11 AUDIO
+    TITLE "Ever Fallen in Love?"
+    INDEX 00 29:10:67
+    INDEX 01 29:12:22
+  TRACK 12 AUDIO
+    TITLE "Operators Manual"
+    INDEX 00 31:53:57
+    INDEX 01 31:55:05
+  TRACK 13 AUDIO
+    TITLE "Nostalgia"
+    INDEX 00 35:28:30
+    INDEX 01 35:29:72
+  TRACK 14 AUDIO
+    TITLE "Walking Distance"
+    INDEX 00 38:23:60
+    INDEX 01 38:25:15
+  TRACK 15 AUDIO
+    TITLE "Nothing Left"
+    INDEX 00 40:26:22
+    INDEX 01 40:28:05
+  TRACK 16 AUDIO
+    TITLE "ESP"
+    INDEX 00 44:55:05
+    INDEX 01 44:56:10
+  TRACK 17 AUDIO
+    TITLE "Promises"
+    INDEX 00 49:35:30
+    INDEX 01 49:35:35
+  TRACK 18 AUDIO
+    TITLE "Lipstick"
+    INDEX 00 52:10:52
+    INDEX 01 52:12:02
+  TRACK 19 AUDIO
+    TITLE "Everybody's Happy Nowadays"
+    INDEX 00 54:48:45
+    INDEX 01 54:50:00
+  TRACK 20 AUDIO
+    TITLE "Harmony in my Head"
+    INDEX 00 58:00:60
+    INDEX 01 58:02:05
+  TRACK 21 AUDIO
+    TITLE "You Say You Don't Love Me"
+    INDEX 00 61:09:15
+    INDEX 01 61:11:10
+  TRACK 22 AUDIO
+    TITLE "I Don't Know What to Do with My Life"
+    INDEX 00 64:03:30
+    INDEX 01 64:05:02
+  TRACK 23 AUDIO
+    TITLE "I Believe"
+    INDEX 00 66:47:65
+    INDEX 01 66:49:05
+  TRACK 24 AUDIO
+    TITLE "Are Everything"
+    INDEX 00 73:56:27
+    INDEX 01 73:58:02
+  TRACK 25 AUDIO
+    TITLE "Radio Nine"
+    INDEX 00 77:32:12
+    INDEX 01 77:33:72

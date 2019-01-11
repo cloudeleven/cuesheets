@@ -1,0 +1,29 @@
+TITLE "The History Mix Volume 1"
+PERFORMER "Godley & Creme"
+CATALOG 4988005086945
+REM DISCID 4D0D1B06
+FILE "The History Mix Volume 1.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Wet Rubber Soup"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:37
+  TRACK 02 AUDIO
+    TITLE "Expanding The Business"
+    INDEX 00 18:55:13
+    INDEX 01 18:57:02
+  TRACK 03 AUDIO
+    TITLE "Light Me Up"
+    INDEX 00 36:00:63
+    INDEX 01 36:02:62
+  TRACK 04 AUDIO
+    TITLE "An Englishman In New York"
+    INDEX 00 40:33:13
+    INDEX 01 40:35:37
+  TRACK 05 AUDIO
+    TITLE "Save A Mountain For Me"
+    INDEX 00 46:28:13
+    INDEX 01 46:30:37
+  TRACK 06 AUDIO
+    TITLE "Golden Boy"
+    INDEX 00 50:06:21
+    INDEX 01 50:07:65

@@ -1,0 +1,70 @@
+TITLE "Man Here Plays Mean Piano (A New Edition 4 Sony Music)"
+PERFORMER "SUEMITSU & THE SUEMITH"
+REM DISCID DD0CA20E
+FILE "Man Here Plays Mean Piano (A New Edition 4 Sony Music).flac" WAVE
+  TRACK 01 AUDIO
+    TITLE ""SUEMITSU" Here Plays Mean Piano"
+    ISRC JPKS00600321
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Irony"
+    ISRC JPKS00600322
+    INDEX 00 01:09:29
+    INDEX 01 01:10:24
+  TRACK 03 AUDIO
+    TITLE "Arabesque"
+    ISRC JPKS00600323
+    INDEX 00 06:13:55
+    INDEX 01 06:15:25
+  TRACK 04 AUDIO
+    TITLE "Skyscraper"
+    ISRC JPKS00600324
+    INDEX 00 10:35:55
+    INDEX 01 10:37:25
+  TRACK 05 AUDIO
+    TITLE "Basketball Game Crush"
+    ISRC JPKS00600325
+    INDEX 01 14:14:24
+  TRACK 06 AUDIO
+    TITLE "The Desperado"
+    ISRC JPKS00600326
+    INDEX 01 17:46:24
+  TRACK 07 AUDIO
+    TITLE "Mini Cooper"
+    ISRC JPKS00600327
+    INDEX 00 20:57:54
+    INDEX 01 20:58:24
+  TRACK 08 AUDIO
+    TITLE "Etude"
+    ISRC JPKS00600328
+    INDEX 01 25:06:24
+  TRACK 09 AUDIO
+    TITLE "(I'm In) Mad Cherry Red"
+    ISRC JPKS00600329
+    INDEX 00 29:28:55
+    INDEX 01 29:29:62
+  TRACK 10 AUDIO
+    TITLE "Chelsea"
+    ISRC JPKS00600330
+    INDEX 00 33:09:17
+    INDEX 01 33:11:24
+  TRACK 11 AUDIO
+    TITLE "Part Of Your World (*006 New Recording from "Mosh Pit on Disney")"
+    ISRC JPKS00600331
+    INDEX 00 38:08:55
+    INDEX 01 38:12:25
+  TRACK 12 AUDIO
+    TITLE "Don't You Worry 'Bout a Thing (from "Rock Motown")"
+    ISRC USR1B0520463
+    INDEX 00 41:36:54
+    INDEX 01 41:36:69
+  TRACK 13 AUDIO
+    TITLE "Irony ("Bittersweet Irony" Japanese Version)"
+    ISRC JPKS00600332
+    INDEX 00 44:13:25
+    INDEX 01 44:15:32
+  TRACK 14 AUDIO
+    TITLE "Arabesque ("Melody Played by Great Pianist" Japanese Version)"
+    ISRC JPKS00600333
+    INDEX 00 49:19:62
+    INDEX 01 49:21:69

@@ -1,0 +1,110 @@
+X Lossless Decoder version 20110502 (132.0)
+
+XLD extraction logfile from 2011-05-03 08:01:57 +0900
+
+Roy Wood Big Band / I Wish It Could Be Christmas Everyday Live
+
+Used drive : HL-DT-ST BD-RE  BH10NS30 (revision EL00)
+
+Ripper mode             : CDParanoia III 10.2
+Disable audio cache     : OK for the drive with a cache less than 2750KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 100
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:32 | 04:38:68 |        32    |    20949   
+        2  | 04:39:25 | 02:36:25 |     20950    |    32674   
+        3  | 07:15:50 | 04:13:25 |     32675    |    51674   
+        4  | 11:29:00 | 04:01:42 |     51675    |    69791   
+
+AccurateRip Summary
+    Track 01 : OK (AR2, confidence 1)
+    Track 02 : OK (AR2, confidence 1)
+    Track 03 : OK (AR2, confidence 1)
+    Track 04 : OK (AR2, confidence 1)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Users/angelicalbite/Music/flac/I Wish It Could Be Christmas Everyday Live.flac
+    CRC32 hash             : 51FB7442
+    CRC32 hash (skip zero) : D0F345F6
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 01
+    Pre-gap length : 00:02:32
+
+    CRC32 hash             : 6BBC2803
+    CRC32 hash (skip zero) : A3050B7E
+    AccurateRip signature  : 164477CC
+        ->Accurately ripped! (AR2, confidence 1)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 02
+    Pre-gap length : 00:01:13
+
+    CRC32 hash             : 782D6F74
+    CRC32 hash (skip zero) : 45EFF113
+    AccurateRip signature  : FD2EFB10
+        ->Accurately ripped! (AR2, confidence 1)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 03
+    Pre-gap length : 00:01:10
+
+    CRC32 hash             : D1068B9E
+    CRC32 hash (skip zero) : 67747915
+    AccurateRip signature  : A416968F
+        ->Accurately ripped! (AR2, confidence 1)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+Track 04
+    Pre-gap length : 00:02:15
+
+    CRC32 hash             : 76FB7583
+    CRC32 hash (skip zero) : DBBA7FDD
+    AccurateRip signature  : C8CBEBA3
+        ->Accurately ripped! (AR2, confidence 1)
+    Statistics
+        Read error                           : 0
+        Skipped (treated as error)           : 0
+        Edge jitter error (maybe fixed)      : 0
+        Atom jitter error (maybe fixed)      : 0
+        Drift error (maybe fixed)            : 0
+        Dropped bytes error (maybe fixed)    : 0
+        Duplicated bytes error (maybe fixed) : 0
+
+No errors occurred
+
+End of status report

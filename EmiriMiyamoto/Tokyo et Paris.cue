@@ -1,0 +1,25 @@
+TITLE "Tokyo et Paris"
+PERFORMER "Emiri Miyamoto X solita"
+REM GENRE "Pop"
+REM DATE "2008-11-12"
+REM DISCNUMBER 1
+REM TOTALDISCS 1
+REM DISCID 2502E403
+FILE "Tokyo et Paris.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Tokyo et Paris"
+    SONGWRITER "大川茂伸"
+    ISRC JPN200801501
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "edelweiss"
+    SONGWRITER "Richard Rodgers"
+    ISRC JPN200801541
+    INDEX 00 04:22:48
+    INDEX 01 04:25:18
+  TRACK 03 AUDIO
+    TITLE "Tokyo et Paris (karaoke)"
+    SONGWRITER "大川茂伸"
+    ISRC JPN200801542
+    INDEX 00 07:53:69
+    INDEX 01 07:57:39

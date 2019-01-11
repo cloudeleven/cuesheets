@@ -1,0 +1,41 @@
+TITLE "No Answer"
+PERFORMER "Electric Light Orchestra"
+REM GENRE "Rock"
+REM DATE "1971"
+REM DISCID 5A09B809
+FILE "No Answer.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "10538 Overture"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Look At Me Now"
+    INDEX 00 05:30:27
+    INDEX 01 05:31:10
+  TRACK 03 AUDIO
+    TITLE "Nellie Takes Her Bow"
+    INDEX 00 08:47:55
+    INDEX 01 08:48:57
+  TRACK 04 AUDIO
+    TITLE "Battle Of Marston Moor (July 2nd 1644)"
+    INDEX 00 14:46:42
+    INDEX 01 14:48:17
+  TRACK 05 AUDIO
+    TITLE "1st Movement"
+    INDEX 00 20:50:47
+    INDEX 01 20:54:05
+  TRACK 06 AUDIO
+    TITLE "Mr. Radio"
+    INDEX 00 23:52:02
+    INDEX 01 23:54:10
+  TRACK 07 AUDIO
+    TITLE "Manhatten Rumble (49th St. Massacre)"
+    INDEX 00 28:57:12
+    INDEX 01 28:58:27
+  TRACK 08 AUDIO
+    TITLE "Queen Of The Hours"
+    INDEX 00 33:19:65
+    INDEX 01 33:21:02
+  TRACK 09 AUDIO
+    TITLE "Whisper In The Night"
+    INDEX 00 36:42:15
+    INDEX 01 36:43:12

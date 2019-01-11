@@ -1,0 +1,46 @@
+TITLE "10cc"
+PERFORMER "10cc"
+REM GENRE "Classic Rock"
+REM DATE "1973"
+REM DISCID 83082B0A
+FILE "10cc.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Rubber Bullets"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:33
+  TRACK 02 AUDIO
+    TITLE "Donna"
+    INDEX 00 05:16:63
+    INDEX 01 05:17:28
+  TRACK 03 AUDIO
+    TITLE "Johnny, Don't Do It"
+    INDEX 00 08:11:45
+    INDEX 01 08:12:35
+  TRACK 04 AUDIO
+    TITLE "Sand In My Face"
+    INDEX 00 11:49:38
+    INDEX 01 11:51:70
+  TRACK 05 AUDIO
+    TITLE "Speed Kills"
+    INDEX 00 15:30:20
+    INDEX 01 15:30:48
+  TRACK 06 AUDIO
+    TITLE "The Dean And I"
+    INDEX 00 19:20:13
+    INDEX 01 19:20:50
+  TRACK 07 AUDIO
+    TITLE "Ships Don't Disappear (Do They?)"
+    INDEX 00 22:23:63
+    INDEX 01 22:24:65
+  TRACK 08 AUDIO
+    TITLE "The Hospital Song"
+    INDEX 00 25:29:65
+    INDEX 01 25:30:43
+  TRACK 09 AUDIO
+    TITLE "Fresh Air For My Mama"
+    INDEX 00 28:13:25
+    INDEX 01 28:13:73
+  TRACK 10 AUDIO
+    TITLE "Headline Hustler"
+    INDEX 00 31:17:73
+    INDEX 01 31:19:65

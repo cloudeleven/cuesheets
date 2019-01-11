@@ -1,0 +1,28 @@
+TITLE "The Man-Machine"
+PERFORMER "Kraftwerk"
+REM DATE "1978"
+REM DISCID 3E088106
+FILE "The Man-Machine.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "The Robots"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Spacelab"
+    INDEX 00 06:11:67
+    INDEX 01 06:12:62
+  TRACK 03 AUDIO
+    TITLE "Metropolis"
+    INDEX 00 12:04:32
+    INDEX 01 12:08:20
+  TRACK 04 AUDIO
+    TITLE "The Model"
+    INDEX 00 18:07:72
+    INDEX 01 18:10:67
+  TRACK 05 AUDIO
+    TITLE "Neon Lights"
+    INDEX 00 21:49:70
+    INDEX 01 21:53:30
+  TRACK 06 AUDIO
+    TITLE "The Man-Machine"
+    INDEX 00 30:45:00
+    INDEX 01 30:48:70

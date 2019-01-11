@@ -1,0 +1,90 @@
+TITLE "Still Crazy"
+PERFORMER "Clive Langer & Alan Winstanley"
+CATALOG 0731455605525
+REM GENRE "Soundtrack"
+REM DATE "1998"
+REM DISCID D70C280E
+FILE "Still Crazy.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "The Flame Still Burns"
+    PERFORMER "Strange Fruit featuring Jimmy Nail"
+    ISRC GBAAP9800148
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "All Over The World"
+    PERFORMER "Strange Fruit"
+    ISRC GBAAP9800156
+    INDEX 00 07:55:72
+    INDEX 01 07:56:60
+  TRACK 03 AUDIO
+    TITLE "What Might Have Been"
+    PERFORMER "Jimmy Nail"
+    ISRC GBAAP9800157
+    INDEX 00 11:35:55
+    INDEX 01 11:36:67
+  TRACK 04 AUDIO
+    TITLE "Brian's Theme (Acoustic)"
+    PERFORMER "Steve Donnelly"
+    ISRC GBAAP9800158
+    INDEX 00 15:56:12
+    INDEX 01 15:56:20
+  TRACK 05 AUDIO
+    TITLE "Dirty Town"
+    PERFORMER "Strange Fruit"
+    ISRC GBAAP9800160
+    INDEX 00 17:26:55
+    INDEX 01 17:27:62
+  TRACK 06 AUDIO
+    TITLE "Stealin'"
+    PERFORMER "Billy Connolly"
+    ISRC GBAAP9800159
+    INDEX 00 21:56:35
+    INDEX 01 21:58:20
+  TRACK 07 AUDIO
+    TITLE "Black Moon"
+    PERFORMER "Strange Fruit"
+    ISRC GBAAP9800165
+    INDEX 00 24:23:28
+    INDEX 01 24:23:52
+  TRACK 08 AUDIO
+    TITLE "Live For Today"
+    PERFORMER "Hans Matheson"
+    ISRC GBAAP9800162
+    INDEX 00 26:54:10
+    INDEX 01 26:54:45
+  TRACK 09 AUDIO
+    TITLE "Bird On A Wire"
+    PERFORMER "Strange Fruit featuring Jimmy Nail"
+    ISRC GBAAP9800149
+    INDEX 00 30:27:55
+    INDEX 01 30:27:65
+  TRACK 10 AUDIO
+    TITLE "Ibiza Theme"
+    PERFORMER "22.33.44"
+    ISRC GBAAP9800163
+    INDEX 00 34:14:32
+    INDEX 01 34:15:50
+  TRACK 11 AUDIO
+    TITLE "Scream Freedom"
+    PERFORMER "Strange Fruit"
+    ISRC GBAAP9800166
+    INDEX 00 36:17:55
+    INDEX 01 36:18:30
+  TRACK 12 AUDIO
+    TITLE "A Woman Like That"
+    PERFORMER "Bernie Mardsen"
+    ISRC GBAAP9800164
+    INDEX 00 40:33:07
+    INDEX 01 40:34:67
+  TRACK 13 AUDIO
+    TITLE "Dangerous Things"
+    PERFORMER "Strange Fruit"
+    ISRC GBAAP9800167
+    INDEX 00 43:49:70
+    INDEX 01 43:50:60
+  TRACK 14 AUDIO
+    TITLE "Brian's Theme (Reprise)"
+    PERFORMER "Steve Donnelly"
+    ISRC GBAAP9800179
+    INDEX 00 47:56:62
+    INDEX 01 47:57:70

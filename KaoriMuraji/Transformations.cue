@@ -1,0 +1,100 @@
+TITLE "Transformations"
+PERFORMER "Kaori Muraji"
+CATALOG 0028947562429
+REM GENRE "Classical"
+REM DATE "2004"
+REM DISCID 2A101A15
+FILE "Transformations.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "12 Songs For Guitar-Hey Jude"
+    ISRC GBBBA0440850
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "12 Songs For Guitar-Michelle"
+    ISRC GBBBA0440840
+    INDEX 01 02:53:56
+  TRACK 03 AUDIO
+    TITLE "12 Songs For Guitar-Here, There And Everywhere"
+    ISRC GBBBA0440860
+    INDEX 01 05:43:05
+  TRACK 04 AUDIO
+    TITLE "12 Songs For Guitar-Yesterday"
+    ISRC GBBBA0440870
+    INDEX 01 09:04:57
+  TRACK 05 AUDIO
+    TITLE "12 Songs For Guitar-ヒロシマという名の少年"
+    ISRC GBBBA0440900
+    INDEX 00 12:33:39
+    INDEX 01 12:34:61
+  TRACK 06 AUDIO
+    TITLE "12 Songs For Guitar-不良少年"
+    ISRC GBBBA0440890
+    INDEX 01 15:58:51
+  TRACK 07 AUDIO
+    TITLE "Epitaphs-No.7 If Only I Had The Water Of Life"
+    ISRC GBBBA0400301
+    INDEX 00 19:29:37
+    INDEX 01 19:32:65
+  TRACK 08 AUDIO
+    TITLE "Epitaphs-No.4 You Have Set, My Star!"
+    ISRC GBBBA0400302
+    INDEX 01 22:40:66
+  TRACK 09 AUDIO
+    TITLE "Epitaphs-No.3 A Day In May"
+    ISRC GBBBA0400303
+    INDEX 01 24:33:72
+  TRACK 10 AUDIO
+    TITLE "Epitaphs-No.6 At The Window"
+    ISRC GBBBA0400304
+    INDEX 01 27:39:39
+  TRACK 11 AUDIO
+    TITLE "Variaciones Sobre El Carnaval De Venecia"
+    ISRC GBBBA0440910
+    INDEX 00 29:01:13
+    INDEX 01 29:04:73
+  TRACK 12 AUDIO
+    TITLE "Farewell To Stromness"
+    ISRC GBBBA0440920
+    INDEX 00 37:57:35
+    INDEX 01 38:01:53
+  TRACK 13 AUDIO
+    TITLE "すべては薄明のなかで-I."
+    ISRC GBBBA0400291
+    INDEX 00 40:37:09
+    INDEX 01 40:42:03
+  TRACK 14 AUDIO
+    TITLE "すべては薄明のなかで-I.I"
+    ISRC GBBBA0400292
+    INDEX 01 43:36:43
+  TRACK 15 AUDIO
+    TITLE "すべては薄明のなかで-III."
+    ISRC GBBBA0400293
+    INDEX 01 46:41:44
+  TRACK 16 AUDIO
+    TITLE "すべては薄明のなかで-IV"
+    ISRC GBBBA0400294
+    INDEX 01 48:50:42
+  TRACK 17 AUDIO
+    TITLE "12 Songs For Guitar-Over The Rainbow"
+    ISRC GBBBA0440820
+    INDEX 00 51:36:69
+    INDEX 01 51:40:20
+  TRACK 18 AUDIO
+    TITLE "12 Songs For Guitar-Londonderry Air"
+    ISRC GBBBA0440810
+    INDEX 00 53:59:00
+    INDEX 01 54:00:18
+  TRACK 19 AUDIO
+    TITLE "12 Songs For Guitar-The Last Waltz"
+    ISRC GBBBA0440880
+    INDEX 00 57:57:04
+    INDEX 01 57:58:57
+  TRACK 20 AUDIO
+    TITLE "La Belle Dame Sams Regrets"
+    ISRC GBBBA0440930
+    INDEX 00 61:59:34
+    INDEX 01 62:10:15
+  TRACK 21 AUDIO
+    TITLE "Fragile"
+    ISRC GBBBA0440940
+    INDEX 01 64:54:02

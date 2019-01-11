@@ -1,0 +1,122 @@
+X Lossless Decoder version 20181019 (151.1)
+
+XLD extraction logfile from 2018-10-25 01:44:44 +0900
+
+cotorich / あいさつ全部
+
+Used drive : HL-DT-ST BD-RE  BH10NS30 (revision EL00)
+Media type : CD-Recordable
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:09:53 |         0    |    14227   
+        2  | 03:09:53 | 04:06:42 |     14228    |    32719   
+        3  | 07:16:20 | 03:08:43 |     32720    |    46862   
+        4  | 10:24:63 | 03:11:51 |     46863    |    61238   
+        5  | 13:36:39 | 03:02:12 |     61239    |    74900   
+        6  | 16:38:51 | 03:26:31 |     74901    |    90381   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Filename : /Users/m4c/Music/cotorich - あいさつ全部.flac
+    CRC32 hash               : 57719FAB
+    CRC32 hash (skip zero)   : E81EADC9
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 4ECDE3E9
+    CRC32 hash (skip zero)   : 9C51E85C
+    AccurateRip v1 signature : C47964C7
+    AccurateRip v2 signature : 10DA67BF
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+
+    CRC32 hash               : E2E62EC6
+    CRC32 hash (skip zero)   : 222617DC
+    AccurateRip v1 signature : EE980E42
+    AccurateRip v2 signature : 34232E7B
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+
+    CRC32 hash               : B8394D5F
+    CRC32 hash (skip zero)   : C0B6715E
+    AccurateRip v1 signature : 08385B29
+    AccurateRip v2 signature : FD4A8F7A
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+
+    CRC32 hash               : C0E3A3EC
+    CRC32 hash (skip zero)   : C46EDC35
+    AccurateRip v1 signature : E529CD14
+    AccurateRip v2 signature : 2AFFC88B
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+
+    CRC32 hash               : 8206AA42
+    CRC32 hash (skip zero)   : 4E62C0BA
+    AccurateRip v1 signature : 38702BCC
+    AccurateRip v2 signature : 7C1205E3
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Pre-gap length : 00:00:02
+
+    CRC32 hash               : 180C4EBB
+    CRC32 hash (skip zero)   : 4F968E30
+    AccurateRip v1 signature : 7749E3C7
+    AccurateRip v2 signature : A8AA3763
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
