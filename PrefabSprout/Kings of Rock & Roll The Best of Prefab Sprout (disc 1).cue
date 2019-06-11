@@ -1,5 +1,5 @@
 TITLE "Kings of Rock & Roll The Best of Prefab Sprout (disc 1)"
-PERFORMER "Prefab Sprout "
+PERFORMER "Prefab Sprout"
 REM GENRE "Rock"
 REM DATE "2007"
 REM DISCNUMBER 1

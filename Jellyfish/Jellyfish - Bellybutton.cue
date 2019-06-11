@@ -1,7 +1,7 @@
 TITLE "Bellybutton"
 PERFORMER "Jellyfish"
 REM DISCID CD0D580F
-FILE "Bellybutton.flac" WAVE
+FILE "Jellyfish - Bellybutton.flac" WAVE
   TRACK 01 AUDIO
     TITLE "The Man I Used To Be"
     PERFORMER "Jellyfish"
