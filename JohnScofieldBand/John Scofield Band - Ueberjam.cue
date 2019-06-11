@@ -1,10 +1,10 @@
-TITLE "Überjam"
+TITLE "Ueberjam"
 PERFORMER "John Scofield Band"
 CATALOG 0731458935629
 REM GENRE "Jazz"
 REM DATE "2002"
 REM DISCID AA0DC30B
-FILE "Ueberjam.flac" WAVE
+FILE "John Scofield Band - Ueberjam.flac" WAVE
   TRACK 01 AUDIO
     TITLE "Acidhead"
     ISRC USGR10110965

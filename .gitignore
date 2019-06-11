@@ -72,6 +72,8 @@ tags
 *.m4a
 *.aac
 *.wav
+*.aif
+*.aiff
 
 # image
 *.jpg
@@ -104,4 +106,6 @@ tags
 
 # others
 *.tags
+*.info
+*.chapters
 

@@ -1,10 +1,10 @@
-TITLE "Überjam Deux"
+TITLE "Ueberjam Deux"
 PERFORMER "John Scofield Band"
 CATALOG 0602537337248
 REM GENRE "Jazz"
 REM DATE "2013"
 REM DISCID 920E820B
-FILE "Überjam Deux.flac" WAVE
+FILE "John Scofield Band - Ueberjam Deux.flac" WAVE
   TRACK 01 AUDIO
     TITLE "Camelus"
     ISRC GBUM71301476
