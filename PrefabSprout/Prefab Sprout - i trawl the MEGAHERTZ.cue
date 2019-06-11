@@ -1,0 +1,58 @@
+TITLE "i trawl the MEGAHERTZ"
+PERFORMER "Prefab Sprout"
+CATALOG 0889854110628
+REM DISCID 8A0C9409
+FILE "Prefab Sprout - i trawl the MEGAHERTZ.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "i trawl the MEGAHERTZ"
+    PERFORMER "Prefab Sprout"
+    ISRC GBARL1700425
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "esprit de corps"
+    PERFORMER "Prefab Sprout"
+    ISRC GBARL1700426
+    INDEX 00 21:59:59
+    INDEX 01 22:05:47
+  TRACK 03 AUDIO
+    TITLE "fall from grace"
+    PERFORMER "Prefab Sprout"
+    ISRC GBARL1700427
+    INDEX 00 26:57:39
+    INDEX 01 26:57:45
+  TRACK 04 AUDIO
+    TITLE "we were poor"
+    PERFORMER "Prefab Sprout"
+    ISRC GBARL1700428
+    INDEX 00 30:34:70
+    INDEX 01 30:36:08
+  TRACK 05 AUDIO
+    TITLE "orchid 7"
+    PERFORMER "Prefab Sprout"
+    ISRC GBARL1700429
+    INDEX 00 35:25:51
+    INDEX 01 35:25:69
+  TRACK 06 AUDIO
+    TITLE "i'm 49"
+    PERFORMER "Prefab Sprout"
+    ISRC GBARL1700430
+    INDEX 00 39:44:31
+    INDEX 01 39:46:29
+  TRACK 07 AUDIO
+    TITLE "sleeping rough"
+    PERFORMER "Prefab Sprout"
+    ISRC GBARL1700431
+    INDEX 00 43:34:68
+    INDEX 01 43:34:73
+  TRACK 08 AUDIO
+    TITLE "ineffable"
+    PERFORMER "Prefab Sprout"
+    ISRC GBARL1700432
+    INDEX 00 47:05:36
+    INDEX 01 47:09:55
+  TRACK 09 AUDIO
+    TITLE "...but we were happy"
+    PERFORMER "Prefab Sprout"
+    ISRC GBARL1700433
+    INDEX 00 49:52:35
+    INDEX 01 49:52:47

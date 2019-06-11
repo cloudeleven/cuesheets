@@ -1,0 +1,116 @@
+X Lossless Decoder version 20181019 (151.1)
+
+XLD extraction logfile from 2019-04-23 22:53:57 +0900
+
+Mieko Kawakami (川上三枝子) / Free Flowers うちにかえろう
+
+Used drive : HL-DT-ST BD-RE  BH10NS30 (revision EL00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:19:70 |         0    |    19494   
+        2  | 04:19:70 | 04:13:63 |     19495    |    38532   
+        3  | 08:33:58 | 04:14:67 |     38533    |    57649   
+        4  | 12:48:50 | 04:07:15 |     57650    |    76189   
+        5  | 16:55:65 | 05:22:28 |     76190    |   100367   
+
+AccurateRip Summary (DiscID: 0004758c-0014e11c-2d053a05)
+    Track 01 : OK (v2, confidence 1/1)
+    Track 02 : OK (v2, confidence 1/1)
+    Track 03 : OK (v2, confidence 1/1)
+    Track 04 : OK (v2, confidence 1/1)
+    Track 05 : OK (v2, confidence 1/1)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Users/m4c/Music/Mieko Kawakami (川上三枝子) - Free Flowers うちにかえろう.flac
+    CRC32 hash               : 3A7C5A96
+    CRC32 hash (skip zero)   : B2862B68
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 15E0EA78
+    CRC32 hash (skip zero)   : 3E25D935
+    AccurateRip v1 signature : 65EDD4C8
+    AccurateRip v2 signature : 8FD79927
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Pre-gap length : 00:02:74
+
+    CRC32 hash               : F7C380DF
+    CRC32 hash (skip zero)   : 40266F56
+    AccurateRip v1 signature : A5472537
+    AccurateRip v2 signature : 11F8EA45
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Pre-gap length : 00:03:37
+
+    CRC32 hash               : 3EC16674
+    CRC32 hash (skip zero)   : EDFF4319
+    AccurateRip v1 signature : 67B10684
+    AccurateRip v2 signature : A06E88E4
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Pre-gap length : 00:03:36
+
+    CRC32 hash               : FD223A31
+    CRC32 hash (skip zero)   : 4F724969
+    AccurateRip v1 signature : B9F32508
+    AccurateRip v2 signature : BA1D7205
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Pre-gap length : 00:00:36
+
+    CRC32 hash               : EFA99252
+    CRC32 hash (skip zero)   : F5C69DE4
+    AccurateRip v1 signature : D8198974
+    AccurateRip v2 signature : 4E7D2DCE
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

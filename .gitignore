@@ -60,6 +60,8 @@ tags
 *.mp4
 *.m4v
 *.VOB
+*.mpg
+*.mpeg
 
 # music
 *.flac
@@ -69,6 +71,7 @@ tags
 *.mp3
 *.m4a
 *.aac
+*.wav
 
 # image
 *.jpg
@@ -87,8 +90,18 @@ tags
 *.00S
 *.00T
 
+# archives
+*.rar
+*.zip
+*.tar
+*.gz
+
 # config
 *.ini
 
 # font
 *.TTF
+
+# others
+*.tags
+
