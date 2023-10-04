@@ -1,0 +1,184 @@
+X Lossless Decoder version 20210101 (153.1)
+
+XLD extraction logfile from 2021-04-14 21:07:47 +0900
+
+Tatsuro Yamashita (山下達郎) / IT'S A POPPIN' TIME [Disc 01]
+
+Used drive : HL-DT-ST BD-RE  BH10NS30 (revision EL00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 05:20:57 |         0    |    24056   
+        2  | 05:20:57 | 04:40:40 |     24057    |    45096   
+        3  | 10:01:22 | 04:21:33 |     45097    |    64704   
+        4  | 14:22:55 | 08:26:32 |     64705    |   102686   
+        5  | 22:49:12 | 04:03:63 |    102687    |   120974   
+        6  | 26:53:00 | 06:48:30 |    120975    |   151604   
+        7  | 33:41:30 | 05:16:42 |    151605    |   175346   
+        8  | 38:57:72 | 05:21:08 |    175347    |   199429   
+        9  | 44:19:05 | 03:25:70 |    199430    |   214874   
+
+List of alternate offset correction values
+        #  | Absolute | Relative | Confidence 
+    ------------------------------------------
+        1  |    855   |    188   |     28     
+        2  |   2319   |   1652   |     14     
+
+AccurateRip Summary (DiscID: 0010c41a-007b6e36-640b3109)
+    Track 01 : OK (v1+v2, confidence 25/67)
+    Track 02 : OK (v1+v2, confidence 25/66)
+    Track 03 : OK (v1+v2, confidence 25/67)
+    Track 04 : OK (v1+v2, confidence 25/67)
+    Track 05 : OK (v1+v2, confidence 25/67)
+    Track 06 : OK (v1+v2, confidence 23/62)
+    Track 07 : OK (v1+v2, confidence 25/66)
+    Track 08 : OK (v1+v2, confidence 25/66)
+    Track 09 : OK (v1+v2, confidence 25/66)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Users/m4c/Music/Tatsuro Yamashita (山下達郎) - IT'S A POPPIN' TIME [Disc 01].flac
+    CRC32 hash               : 15EA9274
+    CRC32 hash (skip zero)   : 8AF61A5D
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 7B5E492D
+    CRC32 hash (skip zero)   : 1FEB0304
+    AccurateRip v1 signature : BE93F3B9
+    AccurateRip v2 signature : 5DF0BE13
+        ->Accurately ripped (v1+v2, confidence 6+19/67)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Pre-gap length : 00:04:57
+
+    CRC32 hash               : 4EAA888C
+    CRC32 hash (skip zero)   : 50AEE9FC
+    AccurateRip v1 signature : 65CEC821
+    AccurateRip v2 signature : 16EDAFBF
+        ->Accurately ripped (v1+v2, confidence 6+19/66)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Pre-gap length : 00:02:45
+
+    CRC32 hash               : B6028240
+    CRC32 hash (skip zero)   : BF0BB179
+    AccurateRip v1 signature : 8A179491
+    AccurateRip v2 signature : 55FCFEDB
+        ->Accurately ripped (v1+v2, confidence 6+19/67)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Pre-gap length : 00:02:33
+
+    CRC32 hash               : DA85C8CA
+    CRC32 hash (skip zero)   : EED831E8
+    AccurateRip v1 signature : B433ECF9
+    AccurateRip v2 signature : 1433B83D
+        ->Accurately ripped (v1+v2, confidence 6+19/67)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Pre-gap length : 00:02:32
+
+    CRC32 hash               : 642A1D57
+    CRC32 hash (skip zero)   : 18561BF9
+    AccurateRip v1 signature : D5868F39
+    AccurateRip v2 signature : 4DBCA077
+        ->Accurately ripped (v1+v2, confidence 6+19/67)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Pre-gap length : 00:03:50
+
+    CRC32 hash               : 02A93E7F
+    CRC32 hash (skip zero)   : EBE889E6
+    AccurateRip v1 signature : 7555CECB
+    AccurateRip v2 signature : 7C3DDD16
+        ->Accurately ripped (v1+v2, confidence 4+19/62)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+
+    CRC32 hash               : 62186B1F
+    CRC32 hash (skip zero)   : BFD97D94
+    AccurateRip v1 signature : 131C64CD
+    AccurateRip v2 signature : 513C628C
+        ->Accurately ripped (v1+v2, confidence 6+19/66)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Pre-gap length : 00:02:55
+
+    CRC32 hash               : 70A4A056
+    CRC32 hash (skip zero)   : EABC21A7
+    AccurateRip v1 signature : E3AE3181
+    AccurateRip v2 signature : DB87F5A8
+        ->Accurately ripped (v1+v2, confidence 6+19/66)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+
+    CRC32 hash               : CA72CED1
+    CRC32 hash (skip zero)   : A8677A6A
+    AccurateRip v1 signature : 20BA51AE
+    AccurateRip v2 signature : D9B9AF70
+        ->Accurately ripped (v1+v2, confidence 6+19/66)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

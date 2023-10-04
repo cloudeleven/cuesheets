@@ -1,0 +1,66 @@
+X Lossless Decoder version 20210101 (153.1)
+
+XLD extraction logfile from 2021-08-15 19:03:40 +0900
+
+Nozomu Sasaki (佐々木望) / 機動戦士ガンダム 閃光のハサウェイ (上) [Disc 6]
+
+Used drive : PIONEER BD-RW   BDR-X12U (revision 1.03)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 18:16:43 |         0    |    82242   
+        2  | 18:16:43 | 40:01:04 |     82243    |   262321   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Filename : /Users/m4c/tmp/Nozomu Sasaki (佐々木望) - 機動戦士ガンダム 閃光のハサウェイ (上) [Disc 6].flac
+    CRC32 hash               : AA408ECD
+    CRC32 hash (skip zero)   : 42BFF64D
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 95E3A526
+    CRC32 hash (skip zero)   : EBE12021
+    AccurateRip v1 signature : 5D20C141
+    AccurateRip v2 signature : B3F018D1
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Pre-gap length : 00:01:41
+
+    CRC32 hash               : 5BA0AA56
+    CRC32 hash (skip zero)   : E3D8D028
+    AccurateRip v1 signature : 0B9BEF1C
+    AccurateRip v2 signature : 77B46D2A
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

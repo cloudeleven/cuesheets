@@ -1,0 +1,93 @@
+X Lossless Decoder version 20181019 (151.1)
+
+XLD extraction logfile from 2019-09-18 21:30:47 +0900
+
+Andy Partridge/Robyn Hitchcock / PLANET ENGLAND
+
+Used drive : HL-DT-ST BD-RE  BH10NS30 (revision EL00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:34:14 |         0    |    16063   
+        2  | 03:34:14 | 03:59:31 |     16064    |    34019   
+        3  | 07:33:45 | 03:39:44 |     34020    |    50488   
+        4  | 11:13:14 | 05:43:28 |     50489    |    76241   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Filename : /Users/m4c/Music/Andy Partridge／Robyn Hitchcock - PLANET ENGLAND.flac
+    CRC32 hash               : E56AB43C
+    CRC32 hash (skip zero)   : D6E13FC4
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : E08A34F6
+    CRC32 hash (skip zero)   : 37C1F8C0
+    AccurateRip v1 signature : 16A00473
+    AccurateRip v2 signature : 88F755DF
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+
+    CRC32 hash               : AF79AE5E
+    CRC32 hash (skip zero)   : 8ABFE19E
+    AccurateRip v1 signature : 1DE229B5
+    AccurateRip v2 signature : 2997AE94
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+
+    CRC32 hash               : 7EF03EE8
+    CRC32 hash (skip zero)   : FDD275D7
+    AccurateRip v1 signature : F9A50109
+    AccurateRip v2 signature : 74222B63
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+
+    CRC32 hash               : 204044B1
+    CRC32 hash (skip zero)   : B2BACAD0
+    AccurateRip v1 signature : 68EE6F3D
+    AccurateRip v2 signature : F7756BBA
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

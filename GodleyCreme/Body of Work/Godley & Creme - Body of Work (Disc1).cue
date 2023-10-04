@@ -1,0 +1,94 @@
+TITLE "Body of Work (Disc1)"
+PERFORMER "Godley & Creme"
+CATALOG 0600753754016
+REM DATE "2017"
+REM DISCID D711350F
+FILE "Godley & Creme - Body of Work (Disc1).flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "This Sporting Life"
+    PERFORMER "Godley & Creme"
+    ISRC GBAKW7801050
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Sandwiches Of You"
+    PERFORMER "Godley & Creme"
+    ISRC GBAKW7801051
+    INDEX 00 07:26:38
+    INDEX 01 07:28:07
+  TRACK 03 AUDIO
+    TITLE "Art School Canteen"
+    PERFORMER "Godley & Creme"
+    ISRC GBAKW7801052
+    INDEX 00 10:45:37
+    INDEX 01 10:46:40
+  TRACK 04 AUDIO
+    TITLE "Group Life"
+    PERFORMER "Godley & Creme"
+    ISRC GBAKW7801053
+    INDEX 00 13:49:46
+    INDEX 01 13:51:70
+  TRACK 05 AUDIO
+    TITLE "Punchbag"
+    PERFORMER "Godley & Creme"
+    ISRC GBAKW7801054
+    INDEX 00 17:58:33
+    INDEX 01 18:00:11
+  TRACK 06 AUDIO
+    TITLE "Foreign Accents"
+    PERFORMER "Godley & Creme"
+    ISRC GBAKW7801055
+    INDEX 00 22:43:49
+    INDEX 01 22:44:73
+  TRACK 07 AUDIO
+    TITLE "Hit Factory/Business Is Business"
+    PERFORMER "Godley & Creme"
+    ISRC GBAKW7801056
+    INDEX 00 27:20:22
+    INDEX 01 27:22:19
+  TRACK 08 AUDIO
+    TITLE "An Englishman In New York"
+    PERFORMER "Godley & Creme"
+    ISRC GBAKW7900102
+    INDEX 00 34:26:48
+    INDEX 01 34:30:04
+  TRACK 09 AUDIO
+    TITLE "Random Brainwave"
+    PERFORMER "Godley & Creme"
+    ISRC GBAKW7901012
+    INDEX 00 40:21:52
+    INDEX 01 40:23:69
+  TRACK 10 AUDIO
+    TITLE "I Pity Inanimate Objects"
+    PERFORMER "Godley & Creme"
+    ISRC GBAKW7901067
+    INDEX 01 43:03:25
+  TRACK 11 AUDIO
+    TITLE "Freeze Frame"
+    PERFORMER "Godley & Creme"
+    ISRC GBAKW7901013
+    INDEX 00 48:26:29
+    INDEX 01 48:28:11
+  TRACK 12 AUDIO
+    TITLE "Clues"
+    PERFORMER "Godley & Creme"
+    ISRC GBAKW7901068
+    INDEX 00 53:14:10
+    INDEX 01 53:15:73
+  TRACK 13 AUDIO
+    TITLE "Brazilia (Wish You Were Here)"
+    PERFORMER "Godley & Creme"
+    ISRC GBAKW7901069
+    INDEX 00 58:40:61
+    INDEX 01 58:42:38
+  TRACK 14 AUDIO
+    TITLE "Mugshots"
+    PERFORMER "Godley & Creme"
+    ISRC GBAKW7901011
+    INDEX 00 64:51:01
+    INDEX 01 64:52:62
+  TRACK 15 AUDIO
+    TITLE "Get Well Soon"
+    PERFORMER "Godley & Creme"
+    ISRC GBAKW7901070
+    INDEX 00 68:45:23
+    INDEX 01 68:47:01

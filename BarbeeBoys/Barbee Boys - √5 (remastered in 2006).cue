@@ -1,0 +1,57 @@
+TITLE "√5 (remastered in 2006)"
+PERFORMER "Barbee Boys"
+REM GENRE "Rock"
+REM DATE "1989"
+REM DISCID 73097C0A
+FILE "Barbee Boys - √5 (remastered in 2006).flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "ト・キ・メ・キ"
+    PERFORMER "Barbee Boys"
+    ISRC JPES08806560
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "目を閉じておいでよ"
+    PERFORMER "Barbee Boys"
+    ISRC JPES08806570
+    INDEX 01 03:56:47
+  TRACK 03 AUDIO
+    TITLE "Y〜ゆがむ〜"
+    PERFORMER "Barbee Boys"
+    ISRC JPES08806580
+    INDEX 01 08:42:26
+  TRACK 04 AUDIO
+    TITLE "chibi"
+    PERFORMER "Barbee Boys"
+    ISRC JPES08806590
+    INDEX 01 12:52:49
+  TRACK 05 AUDIO
+    TITLE "Late Again"
+    PERFORMER "Barbee Boys"
+    ISRC JPES08806600
+    INDEX 01 17:02:30
+  TRACK 06 AUDIO
+    TITLE "さぁ どうしよう"
+    PERFORMER "Barbee Boys"
+    ISRC JPES08806610
+    INDEX 00 20:36:32
+    INDEX 01 20:40:70
+  TRACK 07 AUDIO
+    TITLE "噂ばなしは M4"
+    PERFORMER "Barbee Boys"
+    ISRC JPES08806620
+    INDEX 01 23:25:19
+  TRACK 08 AUDIO
+    TITLE "せまって day by day"
+    PERFORMER "Barbee Boys"
+    ISRC JPES08806630
+    INDEX 01 27:04:66
+  TRACK 09 AUDIO
+    TITLE "君を見てるとしょんぼり"
+    PERFORMER "Barbee Boys"
+    ISRC JPES08806640
+    INDEX 01 31:05:32
+  TRACK 10 AUDIO
+    TITLE "もう だいじょうぶ ヒステリー"
+    PERFORMER "Barbee Boys"
+    ISRC JPES08806650
+    INDEX 01 35:19:53

@@ -1,0 +1,108 @@
+TITLE "「機動戦士ガンダム 閃光のハサウェイ」オリジナル・サウンドトラック"
+PERFORMER "Hiroyuki Sawano (澤野弘之)"
+REM GENRE "Soundtrack"
+REM DATE "2021"
+REM DISCID EF121812
+FILE "Hiroyuki Sawano (澤野弘之) - 「機動戦士ガンダム 閃光のハサウェイ」オリジナル・サウンドトラック.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Möbius"
+    PERFORMER "Hiroyuki Sawano (澤野弘之)"
+    ISRC JPG532102611
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "XI"
+    PERFORMER "Hiroyuki Sawano (澤野弘之)"
+    ISRC JPG532102612
+    INDEX 00 03:51:67
+    INDEX 01 03:53:36
+  TRACK 03 AUDIO
+    TITLE "EARth"
+    PERFORMER "Hiroyuki Sawano (澤野弘之)"
+    ISRC JPG532102613
+    INDEX 00 08:10:25
+    INDEX 01 08:11:69
+  TRACK 04 AUDIO
+    TITLE "CC…12yl"
+    PERFORMER "Hiroyuki Sawano (澤野弘之)"
+    ISRC JPG532102614
+    INDEX 01 13:13:73
+  TRACK 05 AUDIO
+    TITLE "MANhUNTer"
+    PERFORMER "Hiroyuki Sawano (澤野弘之)"
+    ISRC JPG532102615
+    INDEX 01 18:25:05
+  TRACK 06 AUDIO
+    TITLE "KNS"
+    PERFORMER "Hiroyuki Sawano (澤野弘之)"
+    ISRC JPG532102616
+    INDEX 00 22:00:45
+    INDEX 01 22:02:14
+  TRACK 07 AUDIO
+    TITLE "uc0105"
+    PERFORMER "Hiroyuki Sawano (澤野弘之)"
+    ISRC JPG532102617
+    INDEX 00 27:48:35
+    INDEX 01 27:50:04
+  TRACK 08 AUDIO
+    TITLE "83Uel"
+    PERFORMER "Hiroyuki Sawano (澤野弘之)"
+    ISRC JPG532102618
+    INDEX 00 35:11:12
+    INDEX 01 35:12:56
+  TRACK 09 AUDIO
+    TITLE "MNE"
+    PERFORMER "Hiroyuki Sawano (澤野弘之)"
+    ISRC JPG532102619
+    INDEX 01 40:48:09
+  TRACK 10 AUDIO
+    TITLE "TRACER"
+    PERFORMER "Hiroyuki Sawano (澤野弘之)"
+    ISRC JPG532102620
+    INDEX 00 43:59:18
+    INDEX 01 44:00:62
+  TRACK 11 AUDIO
+    TITLE "G1×2"
+    PERFORMER "Hiroyuki Sawano (澤野弘之)"
+    ISRC JPG532102621
+    INDEX 00 47:21:32
+    INDEX 01 47:23:01
+  TRACK 12 AUDIO
+    TITLE "mSgH"
+    PERFORMER "Hiroyuki Sawano (澤野弘之)"
+    ISRC JPG532102622
+    INDEX 00 49:30:37
+    INDEX 01 49:32:06
+  TRACK 13 AUDIO
+    TITLE "car5p3 / PENELOPE"
+    PERFORMER "Hiroyuki Sawano (澤野弘之)"
+    ISRC JPG532102623
+    INDEX 01 54:59:66
+  TRACK 14 AUDIO
+    TITLE "ESIRNUS"
+    PERFORMER "Hiroyuki Sawano (澤野弘之)"
+    ISRC JPG532102624
+    INDEX 00 60:17:04
+    INDEX 01 60:18:48
+  TRACK 15 AUDIO
+    TITLE "kdk-GT"
+    PERFORMER "Hiroyuki Sawano (澤野弘之)"
+    ISRC JPG532102625
+    INDEX 00 65:27:04
+    INDEX 01 65:28:48
+  TRACK 16 AUDIO
+    TITLE "UCNT0100"
+    PERFORMER "Hiroyuki Sawano (澤野弘之)"
+    ISRC JPG532102626
+    INDEX 01 67:27:33
+  TRACK 17 AUDIO
+    TITLE "[I]"
+    PERFORMER "Hiroyuki Sawano (澤野弘之)"
+    ISRC JPG532102627
+    INDEX 00 71:12:12
+    INDEX 01 71:13:56
+  TRACK 18 AUDIO
+    TITLE "20200723zr"
+    PERFORMER "Hiroyuki Sawano (澤野弘之)"
+    ISRC JPG532102628
+    INDEX 00 73:57:36
+    INDEX 01 73:59:05

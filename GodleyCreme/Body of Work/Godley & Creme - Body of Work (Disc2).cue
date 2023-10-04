@@ -1,0 +1,106 @@
+TITLE "Body of Work (Disc2)"
+PERFORMER "Godley & Creme"
+CATALOG 0600753754023
+REM DATE "2017"
+REM DISCID F7122011
+FILE "Godley & Creme - Body of Work (Disc2).flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Snack Attack"
+    PERFORMER "Godley & Creme"
+    ISRC GBUM71700099
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Under Your Thumb"
+    PERFORMER "Godley & Creme"
+    ISRC GBUM71700100
+    INDEX 00 07:13:29
+    INDEX 01 07:13:65
+  TRACK 03 AUDIO
+    TITLE "Joey’s Camel"
+    PERFORMER "Godley & Creme"
+    ISRC GBAKW8101044
+    INDEX 00 11:57:61
+    INDEX 01 11:59:60
+  TRACK 04 AUDIO
+    TITLE "The Problem"
+    PERFORMER "Godley & Creme"
+    ISRC GBUM70800369
+    INDEX 00 17:26:20
+    INDEX 01 17:28:20
+  TRACK 05 AUDIO
+    TITLE "Ready for Ralph"
+    PERFORMER "Godley & Creme"
+    ISRC GBUM70800370
+    INDEX 01 21:33:10
+  TRACK 06 AUDIO
+    TITLE "Wedding Bells"
+    PERFORMER "Godley & Creme"
+    ISRC GBAKW8101021
+    INDEX 00 23:54:46
+    INDEX 01 23:57:10
+  TRACK 07 AUDIO
+    TITLE "Lonnie"
+    PERFORMER "Godley & Creme"
+    ISRC GBUM70800371
+    INDEX 00 27:21:03
+    INDEX 01 27:23:01
+  TRACK 08 AUDIO
+    TITLE "Sale of the Century"
+    PERFORMER "Godley & Creme"
+    ISRC GBAKW8101045
+    INDEX 00 32:10:52
+    INDEX 01 32:12:52
+  TRACK 09 AUDIO
+    TITLE "The Party"
+    PERFORMER "Godley & Creme"
+    ISRC GBAKW8101079
+    INDEX 00 36:36:15
+    INDEX 01 36:38:15
+  TRACK 10 AUDIO
+    TITLE "My Body the Car"
+    PERFORMER "Godley & Creme"
+    ISRC GBAKW8301037
+    INDEX 00 44:43:45
+    INDEX 01 44:47:08
+  TRACK 11 AUDIO
+    TITLE "Worm and the Rattlesnake"
+    PERFORMER "Godley & Creme"
+    ISRC GBUM70803744
+    INDEX 00 47:10:47
+    INDEX 01 47:12:47
+  TRACK 12 AUDIO
+    TITLE "Cats Eyes"
+    PERFORMER "Godley & Creme"
+    ISRC GBUM70803745
+    INDEX 00 50:36:52
+    INDEX 01 50:37:61
+  TRACK 13 AUDIO
+    TITLE "Samson"
+    PERFORMER "Godley & Creme"
+    ISRC GBUM70803746
+    INDEX 00 54:20:53
+    INDEX 01 54:22:22
+  TRACK 14 AUDIO
+    TITLE "Save a Mountain for Me"
+    PERFORMER "Godley & Creme"
+    ISRC GBAKW8501057
+    INDEX 00 59:50:48
+    INDEX 01 59:52:35
+  TRACK 15 AUDIO
+    TITLE "Madame Guillotine"
+    PERFORMER "Godley & Creme"
+    ISRC GBUM70803747
+    INDEX 00 63:27:48
+    INDEX 01 63:31:20
+  TRACK 16 AUDIO
+    TITLE "Woodwork"
+    PERFORMER "Godley & Creme"
+    ISRC GBUM70803748
+    INDEX 00 68:34:11
+    INDEX 01 68:36:35
+  TRACK 17 AUDIO
+    TITLE "Twisted Nerve"
+    PERFORMER "Godley & Creme"
+    ISRC GBUM70803749
+    INDEX 00 73:14:54
+    INDEX 01 73:16:54

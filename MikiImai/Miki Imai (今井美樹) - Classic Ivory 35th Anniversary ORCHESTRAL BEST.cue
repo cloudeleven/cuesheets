@@ -1,0 +1,75 @@
+TITLE "Classic Ivory 35th Anniversary ORCHESTRAL BEST"
+PERFORMER "Miki Imai (今井美樹)"
+CATALOG 0602435140469
+REM GENRE "Pop"
+REM DATE "2020"
+REM DISCID 9C0C080A
+FILE "Miki Imai (今井美樹) - Classic Ivory 35th Anniversary ORCHESTRAL BEST.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "PRIDE (ORCHESTRAL VERSION)"
+    PERFORMER "Miki Imai (今井美樹)"
+    SONGWRITER "布袋寅泰／布袋寅泰／服部隆之"
+    ISRC JPPO02002987
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "幸せになりたい (ORCHESTRAL VERSION)"
+    PERFORMER "Miki Imai (今井美樹)"
+    SONGWRITER "上田知華／上田知華／挾間美帆"
+    ISRC JPPO02002988
+    INDEX 00 05:59:62
+    INDEX 01 06:01:73
+  TRACK 03 AUDIO
+    TITLE "瞳がほほえむから (ORCHESTRAL VERSION)"
+    PERFORMER "Miki Imai (今井美樹)"
+    SONGWRITER "岩里祐穂／上田知華／千住 明"
+    ISRC JPPO02002989
+    INDEX 00 10:46:34
+    INDEX 01 10:47:17
+  TRACK 04 AUDIO
+    TITLE "かげろう (ORCHESTRAL VERSION)"
+    PERFORMER "Miki Imai (今井美樹)"
+    ISRC JPPO02002990
+    INDEX 00 15:44:37
+    INDEX 01 15:45:42
+  TRACK 05 AUDIO
+    TITLE "PIECE OF MY WISH (ORCHESTRAL VERSION)"
+    PERFORMER "Miki Imai (今井美樹)"
+    SONGWRITER "岩里祐穂／上田知華／千住 明"
+    ISRC JPPO02002991
+    INDEX 00 20:49:16
+    INDEX 01 20:50:46
+  TRACK 06 AUDIO
+    TITLE "Boogie-Woogie Lonesome High-Heel (ORCHESTRAL VERSION)"
+    PERFORMER "Miki Imai (今井美樹)"
+    SONGWRITER "戸沢暢美／上田知華／挾間美帆"
+    ISRC JPPO02002992
+    INDEX 00 26:36:30
+    INDEX 01 26:37:70
+  TRACK 07 AUDIO
+    TITLE "雨のあと (ORCHESTRAL VERSION)"
+    PERFORMER "Miki Imai (今井美樹)"
+    SONGWRITER "川江美奈子／川江美奈子／挾間美帆"
+    ISRC JPPO02002993
+    INDEX 00 30:41:62
+    INDEX 01 30:43:35
+  TRACK 08 AUDIO
+    TITLE "未来は何処? (ORCHESTRAL VERSION)"
+    PERFORMER "Miki Imai (今井美樹)"
+    SONGWRITER "布袋寅泰／布袋寅泰／武部聡志"
+    ISRC JPPO02002994
+    INDEX 00 36:14:50
+    INDEX 01 36:16:17
+  TRACK 09 AUDIO
+    TITLE "夕陽が見える場所 (ORCHESTRAL VERSION)"
+    PERFORMER "Miki Imai (今井美樹)"
+    SONGWRITER "秋元 康／布袋寅泰／武部聡志"
+    ISRC JPPO02002995
+    INDEX 00 41:51:46
+    INDEX 01 41:53:61
+  TRACK 10 AUDIO
+    TITLE "Goodbye Yesterday (ORCHESTRAL VERSION)"
+    PERFORMER "Miki Imai (今井美樹)"
+    SONGWRITER "布袋寅泰／布袋寅泰／服部隆之"
+    ISRC JPPO02002996
+    INDEX 00 46:10:52
+    INDEX 01 46:12:73

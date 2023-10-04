@@ -1,0 +1,65 @@
+X Lossless Decoder version 20191004 (152.0)
+
+XLD extraction logfile from 2020-02-13 03:32:32 +0900
+
+Barbee Boys / 突然こんなところは嫌いかい
+
+Used drive : HL-DT-ST BD-RE  BH10NS30 (revision EL00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:15:08 |         0    |    14632   
+        2  | 03:15:08 | 04:04:17 |     14633    |    32949   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Filename : /Users/m4c/Music/Barbee Boys - 突然こんなところは嫌いかい.flac
+    CRC32 hash               : 83DAA2EF
+    CRC32 hash (skip zero)   : 72228C08
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : F406F6DB
+    CRC32 hash (skip zero)   : 8EC93854
+    AccurateRip v1 signature : 9FD192EF
+    AccurateRip v2 signature : 35A3B5A5
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+
+    CRC32 hash               : 78F10134
+    CRC32 hash (skip zero)   : CB4150C5
+    AccurateRip v1 signature : 1E7E1882
+    AccurateRip v2 signature : 6ED6E61B
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

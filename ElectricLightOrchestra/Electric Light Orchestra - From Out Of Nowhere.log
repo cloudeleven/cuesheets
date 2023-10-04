@@ -1,0 +1,201 @@
+X Lossless Decoder version 20191004 (152.0)
+
+XLD extraction logfile from 2020-02-22 20:22:22 +0900
+
+Electric Light Orchestra / From Out Of Nowhere
+
+Used drive : HL-DT-ST BD-RE  BH10NS30 (revision EL00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:15:43 |         0    |    14667   
+        2  | 03:15:43 | 03:14:39 |     14668    |    29256   
+        3  | 06:30:07 | 03:06:41 |     29257    |    43247   
+        4  | 09:36:48 | 03:29:57 |     43248    |    58979   
+        5  | 13:06:30 | 03:36:70 |     58980    |    75249   
+        6  | 16:43:25 | 03:28:62 |     75250    |    90911   
+        7  | 20:12:12 | 03:07:05 |     90912    |   104941   
+        8  | 23:19:17 | 03:09:16 |    104942    |   119132   
+        9  | 26:28:33 | 03:10:35 |    119133    |   133417   
+       10  | 29:38:68 | 03:08:17 |    133418    |   147534   
+
+List of alternate offset correction values
+        #  | Absolute | Relative | Confidence 
+    ------------------------------------------
+        1  |    655   |    -12   |     45     
+
+AccurateRip Summary (DiscID: 000c78bf-0063d172-7f07af0a)
+    Track 01 : OK (v2, confidence 18/62)
+    Track 02 : OK (v2, confidence 18/63)
+    Track 03 : OK (v2, confidence 18/62)
+    Track 04 : OK (v2, confidence 18/62)
+    Track 05 : OK (v2, confidence 18/62)
+    Track 06 : OK (v2, confidence 18/63)
+    Track 07 : OK (v2, confidence 18/62)
+    Track 08 : OK (v2, confidence 18/63)
+    Track 09 : OK (v2, confidence 18/63)
+    Track 10 : OK (v2, confidence 18/63)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Users/m4c/Music/Electric Light Orchestra - From Out Of Nowhere.flac
+    CRC32 hash               : 43AA444C
+    CRC32 hash (skip zero)   : 7E1F64F8
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : A2891089
+    CRC32 hash (skip zero)   : 4193EAEB
+    AccurateRip v1 signature : D54B7C1D
+    AccurateRip v2 signature : E3BE644A
+        ->Accurately ripped (v2, confidence 18/62)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Pre-gap length : 00:01:59
+
+    CRC32 hash               : C540AB8B
+    CRC32 hash (skip zero)   : 2AB5B465
+    AccurateRip v1 signature : CFBA32A7
+    AccurateRip v2 signature : 9D1A7F6C
+        ->Accurately ripped (v2, confidence 18/63)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Pre-gap length : 00:02:43
+
+    CRC32 hash               : B58E7DB3
+    CRC32 hash (skip zero)   : 58921A94
+    AccurateRip v1 signature : 4874DA5D
+    AccurateRip v2 signature : 8DACFD26
+        ->Accurately ripped (v2, confidence 18/62)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Pre-gap length : 00:01:64
+
+    CRC32 hash               : 806B9183
+    CRC32 hash (skip zero)   : E3BA3754
+    AccurateRip v1 signature : 99238000
+    AccurateRip v2 signature : 2B4183B0
+        ->Accurately ripped (v2, confidence 18/62)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Pre-gap length : 00:01:50
+
+    CRC32 hash               : 6AEB7DE9
+    CRC32 hash (skip zero)   : BE0E4D61
+    AccurateRip v1 signature : D8ED11FB
+    AccurateRip v2 signature : 9F721C0F
+        ->Accurately ripped (v2, confidence 18/62)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Pre-gap length : 00:01:28
+
+    CRC32 hash               : 9903A341
+    CRC32 hash (skip zero)   : 593FFAF4
+    AccurateRip v1 signature : DB39336F
+    AccurateRip v2 signature : 79103CF5
+        ->Accurately ripped (v2, confidence 18/63)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Pre-gap length : 00:00:56
+
+    CRC32 hash               : 37977429
+    CRC32 hash (skip zero)   : 9859D1D5
+    AccurateRip v1 signature : DD8B55A7
+    AccurateRip v2 signature : 98D9CA9B
+        ->Accurately ripped (v2, confidence 18/62)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Pre-gap length : 00:01:05
+
+    CRC32 hash               : 96E40821
+    CRC32 hash (skip zero)   : 19B521A6
+    AccurateRip v1 signature : E77B7F0A
+    AccurateRip v2 signature : 8F6E29B9
+        ->Accurately ripped (v2, confidence 18/63)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+    Pre-gap length : 00:00:64
+
+    CRC32 hash               : 6B6C730F
+    CRC32 hash (skip zero)   : 4AD405DA
+    AccurateRip v1 signature : A580AD24
+    AccurateRip v2 signature : FBE3D4CF
+        ->Accurately ripped (v2, confidence 18/63)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+    Pre-gap length : 00:03:57
+
+    CRC32 hash               : E060CAAA
+    CRC32 hash (skip zero)   : F69E5365
+    AccurateRip v1 signature : A0736C1C
+    AccurateRip v2 signature : 605AD47A
+        ->Accurately ripped (v2, confidence 18/63)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

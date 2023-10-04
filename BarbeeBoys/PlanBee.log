@@ -1,0 +1,110 @@
+X Lossless Decoder version 20191004 (152.0)
+
+XLD extraction logfile from 2020-01-10 11:34:47 +0900
+
+Barbee Boys / PlanBee
+
+Used drive : HL-DT-ST BD-RE  BH10NS30 (revision EL00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:29:71 |         0    |    20245   
+        2  | 04:29:71 | 02:50:62 |     20246    |    33057   
+        3  | 07:20:58 | 04:44:00 |     33058    |    54357   
+        4  | 12:04:58 | 03:49:58 |     54358    |    71590   
+        5  | 15:54:41 | 03:43:14 |     71591    |    88329   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Filename : /Users/m4c/Music/Barbee Boys - PlanBee.flac
+    CRC32 hash               : 8FEFBF33
+    CRC32 hash (skip zero)   : 104D8ABC
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : D8FFAB87
+    CRC32 hash (skip zero)   : 974BA5B9
+    AccurateRip v1 signature : 38C059BB
+    AccurateRip v2 signature : 37FA8475
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Pre-gap length : 00:01:23
+
+    CRC32 hash               : FB647E1C
+    CRC32 hash (skip zero)   : 7E37F735
+    AccurateRip v1 signature : 5B436722
+    AccurateRip v2 signature : 705048E7
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Pre-gap length : 00:02:23
+
+    CRC32 hash               : CADEC8D3
+    CRC32 hash (skip zero)   : 81479B77
+    AccurateRip v1 signature : 75D39F9D
+    AccurateRip v2 signature : 3839D6F9
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Pre-gap length : 00:03:23
+
+    CRC32 hash               : 08D54A1E
+    CRC32 hash (skip zero)   : 9A4EC2F3
+    AccurateRip v1 signature : 281BDC00
+    AccurateRip v2 signature : 4C432586
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+
+    CRC32 hash               : F43C3E11
+    CRC32 hash (skip zero)   : 4A2636C9
+    AccurateRip v1 signature : 74F032ED
+    AccurateRip v2 signature : 8629062F
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

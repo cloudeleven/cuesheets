@@ -1,0 +1,261 @@
+X Lossless Decoder version 20191004 (152.0)
+
+XLD extraction logfile from 2020-02-23 02:46:24 +0900
+
+Electric Light Orchestra / On The Third Day (remastered in 2006)
+
+Used drive : HL-DT-ST BD-RE  BH10NS30 (revision EL00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:07:05 |         0    |    18529   
+        2  | 04:07:05 | 04:42:58 |     18530    |    39737   
+        3  | 08:49:63 | 03:07:15 |     39738    |    53777   
+        4  | 11:57:03 | 04:05:05 |     53778    |    72157   
+        5  | 16:02:08 | 04:09:17 |     72158    |    90849   
+        6  | 20:11:25 | 03:51:26 |     90850    |   108200   
+        7  | 24:02:51 | 03:56:47 |    108201    |   125947   
+        8  | 27:59:23 | 05:04:27 |    125948    |   148774   
+        9  | 33:03:50 | 06:37:51 |    148775    |   178600   
+       10  | 39:41:26 | 01:19:15 |    178601    |   184540   
+       11  | 41:00:41 | 04:05:08 |    184541    |   202923   
+       12  | 45:05:49 | 05:05:12 |    202924    |   225810   
+       13  | 50:10:61 | 03:43:30 |    225811    |   242565   
+       14  | 53:54:16 | 03:40:43 |    242566    |   259108   
+
+List of alternate offset correction values
+        #  | Absolute | Relative | Confidence 
+    ------------------------------------------
+        1  |    679   |     12   |     122     
+        2  |   1314   |    647   |     101     
+        3  |     33   |   -634   |     99     
+        4  |   -643   |  -1310   |      6     
+        5  |    673   |      6   |      2     
+        6  |    637   |    -30   |      2     
+
+AccurateRip Summary (DiscID: 001dc72a-013e26da-bb0d7e0e)
+    Track 01 : OK (v1+v2, confidence 209/531)
+    Track 02 : OK (v1+v2, confidence 209/530)
+    Track 03 : OK (v1+v2, confidence 209/532)
+    Track 04 : OK (v1+v2, confidence 209/534)
+    Track 05 : OK (v1+v2, confidence 211/541)
+    Track 06 : OK (v1+v2, confidence 208/534)
+    Track 07 : OK (v1+v2, confidence 209/536)
+    Track 08 : OK (v1+v2, confidence 208/536)
+    Track 09 : OK (v1+v2, confidence 207/534)
+    Track 10 : OK (v1+v2, confidence 207/527)
+    Track 11 : OK (v1+v2, confidence 206/527)
+    Track 12 : OK (v1+v2, confidence 206/521)
+    Track 13 : OK (v1+v2, confidence 207/526)
+    Track 14 : OK (v1+v2, confidence 207/524)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Users/m4c/Music/Electric Light Orchestra - On The Third Day (remastered in 2006).flac
+    CRC32 hash               : 9FD10955
+    CRC32 hash (skip zero)   : ADFC3524
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : E2D32833
+    CRC32 hash (skip zero)   : 8872611C
+    AccurateRip v1 signature : DF9D2047
+    AccurateRip v2 signature : 7B6C3405
+        ->Accurately ripped (v1+v2, confidence 11+198/531)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+
+    CRC32 hash               : 585CD849
+    CRC32 hash (skip zero)   : 1796C396
+    AccurateRip v1 signature : A013DF56
+    AccurateRip v2 signature : AE858915
+        ->Accurately ripped (v1+v2, confidence 11+198/530)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+
+    CRC32 hash               : 6B9D5B7B
+    CRC32 hash (skip zero)   : 5D22E5E4
+    AccurateRip v1 signature : 9818C131
+    AccurateRip v2 signature : 6B47560A
+        ->Accurately ripped (v1+v2, confidence 11+198/532)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+
+    CRC32 hash               : C334C78A
+    CRC32 hash (skip zero)   : 239FA28F
+    AccurateRip v1 signature : B3A5514C
+    AccurateRip v2 signature : D2CAA7A0
+        ->Accurately ripped (v1+v2, confidence 11+198/534)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+
+    CRC32 hash               : EFFCC13C
+    CRC32 hash (skip zero)   : 8FF428D4
+    AccurateRip v1 signature : 4F4B608A
+    AccurateRip v2 signature : 33CC1EE9
+        ->Accurately ripped (v1+v2, confidence 12+199/541)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+
+    CRC32 hash               : 1C0CD997
+    CRC32 hash (skip zero)   : D54CC530
+    AccurateRip v1 signature : D93CF0AC
+    AccurateRip v2 signature : C879B8E2
+        ->Accurately ripped (v1+v2, confidence 11+197/534)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+
+    CRC32 hash               : 237C441A
+    CRC32 hash (skip zero)   : ADB13DE1
+    AccurateRip v1 signature : C26E1BC7
+    AccurateRip v2 signature : 47FDE525
+        ->Accurately ripped (v1+v2, confidence 11+198/536)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+
+    CRC32 hash               : 512873F4
+    CRC32 hash (skip zero)   : AD5E88D0
+    AccurateRip v1 signature : 3981E3CF
+    AccurateRip v2 signature : D99428FF
+        ->Accurately ripped (v1+v2, confidence 11+197/536)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+
+    CRC32 hash               : FA87A84B
+    CRC32 hash (skip zero)   : D97DBA97
+    AccurateRip v1 signature : 1DC39392
+    AccurateRip v2 signature : FE245DD1
+        ->Accurately ripped (v1+v2, confidence 11+196/534)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+    Pre-gap length : 00:04:56
+
+    CRC32 hash               : FE2E3730
+    CRC32 hash (skip zero)   : 5347C9BB
+    AccurateRip v1 signature : 775689D4
+    AccurateRip v2 signature : E7F9D0C1
+        ->Accurately ripped (v1+v2, confidence 11+196/527)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 11
+
+    CRC32 hash               : BFA30C14
+    CRC32 hash (skip zero)   : A7719B4A
+    AccurateRip v1 signature : 69C2AA71
+    AccurateRip v2 signature : C13A6549
+        ->Accurately ripped (v1+v2, confidence 11+195/527)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 12
+    Pre-gap length : 00:02:57
+
+    CRC32 hash               : 6E74BB21
+    CRC32 hash (skip zero)   : 7730A171
+    AccurateRip v1 signature : 9EC00F0D
+    AccurateRip v2 signature : C02CAD52
+        ->Accurately ripped (v1+v2, confidence 11+195/521)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 13
+    Pre-gap length : 00:02:20
+
+    CRC32 hash               : 59AACBBB
+    CRC32 hash (skip zero)   : 6D43D753
+    AccurateRip v1 signature : 0FC4B244
+    AccurateRip v2 signature : D09B6922
+        ->Accurately ripped (v1+v2, confidence 11+196/526)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 14
+    Pre-gap length : 00:02:56
+
+    CRC32 hash               : D5CEBB14
+    CRC32 hash (skip zero)   : 0D6A9680
+    AccurateRip v1 signature : 41179625
+    AccurateRip v2 signature : 027BDAEC
+        ->Accurately ripped (v1+v2, confidence 10+197/524)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

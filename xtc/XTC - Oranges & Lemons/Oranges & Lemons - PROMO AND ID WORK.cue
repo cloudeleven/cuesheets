@@ -1,0 +1,20 @@
+TITLE "Oranges & Lemons - PROMO AND ID WORK"
+PERFORMER "XTC"
+REM DATE "2015-10-30"
+FILE "Oranges & Lemons - PROMO AND ID WORK.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "US and Canadian Radio IDs - PROMO AND ID WORK"
+    PERFORMER "XTC"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Geffen Merry Christmas Song - PROMO AND ID WORK"
+    PERFORMER "XTC"
+    INDEX 01 29:18:56
+  TRACK 03 AUDIO
+    TITLE "Geffen Psychedelic Christmas - PROMO AND ID WORK"
+    PERFORMER "XTC"
+    INDEX 01 36:18:13
+  TRACK 04 AUDIO
+    TITLE "King For A Day Czar Mix - PROMO AND ID WORK"
+    PERFORMER "XTC"
+    INDEX 01 36:55:16

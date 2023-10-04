@@ -1,0 +1,172 @@
+X Lossless Decoder version 20191004 (152.0)
+
+XLD extraction logfile from 2019-11-04 10:51:21 +0900
+
+Godley & Creme / Consequences (Disc 3) [5CD box set edition]
+
+Used drive : HL-DT-ST BD-RE  BH10NS30 (revision EL00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 00:30:70 |         0    |     2319   
+        2  | 00:30:70 | 00:46:64 |      2320    |     5833   
+        3  | 01:17:59 | 02:10:48 |      5834    |    15631   
+        4  | 03:28:32 | 05:10:53 |     15632    |    38934   
+        5  | 08:39:10 | 01:46:01 |     38935    |    46885   
+        6  | 10:25:11 | 02:12:04 |     46886    |    56789   
+        7  | 12:37:15 | 01:57:41 |     56790    |    65605   
+        8  | 14:34:56 | 05:49:60 |     65606    |    91840   
+        9  | 20:24:41 | 14:16:22 |     91841    |   156062   
+
+AccurateRip Summary (DiscID: 000752a3-003b0e1f-66082009)
+    Track 01 : OK (v2, confidence 4/4)
+    Track 02 : OK (v2, confidence 4/4)
+    Track 03 : OK (v2, confidence 4/4)
+    Track 04 : OK (v2, confidence 4/4)
+    Track 05 : OK (v2, confidence 4/4)
+    Track 06 : OK (v2, confidence 4/4)
+    Track 07 : OK (v2, confidence 4/4)
+    Track 08 : OK (v2, confidence 4/4)
+    Track 09 : OK (v2, confidence 4/4)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Users/m4c/Music/Godley & Creme - Consequences (Disc 3) [5CD box set edition].flac
+    CRC32 hash               : 3777480A
+    CRC32 hash (skip zero)   : 2E8563B1
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : A1BDDEC8
+    CRC32 hash (skip zero)   : 27E735F3
+    AccurateRip v1 signature : 6479C1A0
+    AccurateRip v2 signature : 8AB2B2E9
+        ->Accurately ripped (v2, confidence 4/4)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+
+    CRC32 hash               : D2057CF9
+    CRC32 hash (skip zero)   : E53B1B73
+    AccurateRip v1 signature : 2B9647BD
+    AccurateRip v2 signature : 045E961E
+        ->Accurately ripped (v2, confidence 4/4)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+
+    CRC32 hash               : 2DFF2118
+    CRC32 hash (skip zero)   : 88B88352
+    AccurateRip v1 signature : C9BD5E29
+    AccurateRip v2 signature : F2EE71FF
+        ->Accurately ripped (v2, confidence 4/4)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+
+    CRC32 hash               : 696AAD8E
+    CRC32 hash (skip zero)   : 360A7DAB
+    AccurateRip v1 signature : 8F414A70
+    AccurateRip v2 signature : FAB3B5B5
+        ->Accurately ripped (v2, confidence 4/4)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+
+    CRC32 hash               : C9981B57
+    CRC32 hash (skip zero)   : 0380BD20
+    AccurateRip v1 signature : FB453CD3
+    AccurateRip v2 signature : 52B55522
+        ->Accurately ripped (v2, confidence 4/4)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+
+    CRC32 hash               : 8BC34CB7
+    CRC32 hash (skip zero)   : 80C10E27
+    AccurateRip v1 signature : 5712B0E2
+    AccurateRip v2 signature : B658F98E
+        ->Accurately ripped (v2, confidence 4/4)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+
+    CRC32 hash               : 1C117C95
+    CRC32 hash (skip zero)   : D29C30A7
+    AccurateRip v1 signature : 33CF8533
+    AccurateRip v2 signature : F53E9798
+        ->Accurately ripped (v2, confidence 4/4)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+
+    CRC32 hash               : 74FF29D7
+    CRC32 hash (skip zero)   : BB8F3C73
+    AccurateRip v1 signature : 4F73097B
+    AccurateRip v2 signature : A09C352B
+        ->Accurately ripped (v2, confidence 4/4)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+
+    CRC32 hash               : 6EF33888
+    CRC32 hash (skip zero)   : AEB48471
+    AccurateRip v1 signature : 8F863821
+    AccurateRip v2 signature : 06A21AD5
+        ->Accurately ripped (v2, confidence 4/4)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

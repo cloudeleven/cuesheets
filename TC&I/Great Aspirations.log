@@ -1,0 +1,97 @@
+X Lossless Decoder version 20181019 (151.1)
+
+XLD extraction logfile from 2019-09-19 00:02:17 +0900
+
+TC&I / Great Aspirations
+
+Used drive : HL-DT-ST BD-RE  BH10NS30 (revision EL00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:31:46 |         0    |    20370   
+        2  | 04:31:46 | 03:53:11 |     20371    |    37856   
+        3  | 08:24:57 | 04:33:15 |     37857    |    58346   
+        4  | 12:57:72 | 02:22:58 |     58347    |    69054   
+
+AccurateRip Summary (DiscID: 0002d51e-000b2f31-30039804)
+    Track 01 : OK (v2, confidence 10/10)
+    Track 02 : OK (v2, confidence 10/10)
+    Track 03 : OK (v2, confidence 10/10)
+    Track 04 : OK (v2, confidence 10/10)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Users/m4c/Music/TC&I - Great Aspirations.flac
+    CRC32 hash               : B4141E8D
+    CRC32 hash (skip zero)   : ABAFA54C
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : C8168E12
+    CRC32 hash (skip zero)   : C06C6242
+    AccurateRip v1 signature : 53BD8954
+    AccurateRip v2 signature : BA1F52BC
+        ->Accurately ripped (v2, confidence 10/10)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+
+    CRC32 hash               : 29DC9BC5
+    CRC32 hash (skip zero)   : EFF2C1E8
+    AccurateRip v1 signature : A31594D8
+    AccurateRip v2 signature : 0621FD4A
+        ->Accurately ripped (v2, confidence 10/10)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+
+    CRC32 hash               : 8896540C
+    CRC32 hash (skip zero)   : 3533D87C
+    AccurateRip v1 signature : 2D2AF720
+    AccurateRip v2 signature : 444EDEC3
+        ->Accurately ripped (v2, confidence 10/10)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+
+    CRC32 hash               : 48045187
+    CRC32 hash (skip zero)   : 9DC99FDA
+    AccurateRip v1 signature : 681DD08F
+    AccurateRip v2 signature : 01C3D665
+        ->Accurately ripped (v2, confidence 10/10)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

@@ -1,0 +1,173 @@
+X Lossless Decoder version 20211018 (154.0)
+
+XLD extraction logfile from 2022-02-22 01:10:30 +0900
+
+Seatbelts / COWBOY BEBOP: Vitaminless
+
+Used drive : PIONEER BD-RW   BDR-X12U (revision 1.03)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 06:17:05 |         0    |    28279   
+        2  | 06:17:05 | 03:10:50 |     28280    |    42579   
+        3  | 09:27:55 | 03:16:52 |     42580    |    57331   
+        4  | 12:44:32 | 02:45:53 |     57332    |    69759   
+        5  | 15:30:10 | 02:03:52 |     69760    |    79036   
+        6  | 17:33:62 | 04:59:53 |     79037    |   101514   
+        7  | 22:33:40 | 03:23:57 |    101515    |   116796   
+        8  | 25:57:22 | 03:14:58 |    116797    |   131404   
+
+List of alternate offset correction values
+        #  | Absolute | Relative | Confidence 
+    ------------------------------------------
+        1  |   2102   |   1435   |     26     
+        2  |   1620   |    953   |     12     
+        3  |   2771   |   2104   |      8     
+        4  |   1721   |   1054   |      6     
+        5  |   1574   |    907   |      2     
+
+AccurateRip Summary (DiscID: 00099012-003e0415-7706d808)
+    Track 01 : OK (v2, confidence 11/61)
+    Track 02 : OK (v2, confidence 11/63)
+    Track 03 : OK (v2, confidence 11/62)
+    Track 04 : OK (v2, confidence 11/61)
+    Track 05 : OK (v2, confidence 11/64)
+    Track 06 : OK (v2, confidence 11/63)
+    Track 07 : OK (v2, confidence 11/65)
+    Track 08 : OK (v2, confidence 11/64)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Volumes/RavelStorage1TB/tmp/Seatbelts - COWBOY BEBOP： Vitaminless.flac
+    CRC32 hash               : D93E953C
+    CRC32 hash (skip zero)   : 2B9346C7
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 47A6D6E5
+    CRC32 hash (skip zero)   : 31245997
+    AccurateRip v1 signature : FA4B36F2
+    AccurateRip v2 signature : B9334DA0
+        ->Accurately ripped (v2, confidence 11/61)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Pre-gap length : 00:00:35
+
+    CRC32 hash               : 4318E4A5
+    CRC32 hash (skip zero)   : 9ECE3D66
+    AccurateRip v1 signature : BF9D3E68
+    AccurateRip v2 signature : 0D991820
+        ->Accurately ripped (v2, confidence 11/63)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Pre-gap length : 00:01:35
+
+    CRC32 hash               : B26947DC
+    CRC32 hash (skip zero)   : A5A4FFB8
+    AccurateRip v1 signature : 6DB515FF
+    AccurateRip v2 signature : FF51D530
+        ->Accurately ripped (v2, confidence 11/62)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Pre-gap length : 00:01:55
+
+    CRC32 hash               : 9ED2C7AE
+    CRC32 hash (skip zero)   : DE0BEC4E
+    AccurateRip v1 signature : 07A36C50
+    AccurateRip v2 signature : 6C03E9F8
+        ->Accurately ripped (v2, confidence 11/61)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Pre-gap length : 00:00:73
+
+    CRC32 hash               : 5652E625
+    CRC32 hash (skip zero)   : CC97F769
+    AccurateRip v1 signature : 2B0BE01D
+    AccurateRip v2 signature : D1D75396
+        ->Accurately ripped (v2, confidence 11/64)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Pre-gap length : 00:00:62
+
+    CRC32 hash               : 065D1057
+    CRC32 hash (skip zero)   : 166517CF
+    AccurateRip v1 signature : B101C24D
+    AccurateRip v2 signature : 99516A23
+        ->Accurately ripped (v2, confidence 11/63)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Pre-gap length : 00:02:35
+
+    CRC32 hash               : ECF8E5CB
+    CRC32 hash (skip zero)   : EB5293F0
+    AccurateRip v1 signature : 98128718
+    AccurateRip v2 signature : A5416EC8
+        ->Accurately ripped (v2, confidence 11/65)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Pre-gap length : 00:19:35
+
+    CRC32 hash               : B0216C06
+    CRC32 hash (skip zero)   : 125EC061
+    AccurateRip v1 signature : BE00D184
+    AccurateRip v2 signature : A47EF212
+        ->Accurately ripped (v2, confidence 11/64)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

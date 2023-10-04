@@ -1,0 +1,312 @@
+X Lossless Decoder version 20210101 (153.1)
+
+XLD extraction logfile from 2021-05-09 09:40:44 +0900
+
+Godley & Creme / Body of Work (Disc2)
+
+Used drive : HL-DT-ST BD-RE  BH10NS30 (revision EL00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 07:13:65 |         0    |    32539   
+        2  | 07:13:65 | 04:45:70 |     32540    |    53984   
+        3  | 11:59:60 | 05:28:35 |     53985    |    78619   
+        4  | 17:28:20 | 04:04:65 |     78620    |    96984   
+        5  | 21:33:10 | 02:24:00 |     96985    |   107784   
+        6  | 23:57:10 | 03:25:66 |    107785    |   123225   
+        7  | 27:23:01 | 04:49:51 |    123226    |   144951   
+        8  | 32:12:52 | 04:25:38 |    144952    |   164864   
+        9  | 36:38:15 | 08:08:68 |    164865    |   201532   
+       10  | 44:47:08 | 02:25:39 |    201533    |   212446   
+       11  | 47:12:47 | 03:25:14 |    212447    |   227835   
+       12  | 50:37:61 | 03:44:36 |    227836    |   244671   
+       13  | 54:22:22 | 05:30:13 |    244672    |   269434   
+       14  | 59:52:35 | 03:38:60 |    269435    |   285844   
+       15  | 63:31:20 | 05:05:15 |    285845    |   308734   
+       16  | 68:36:35 | 04:40:19 |    308735    |   329753   
+       17  | 73:16:54 | 04:03:44 |    329754    |   348022   
+
+List of alternate offset correction values
+        #  | Absolute | Relative | Confidence 
+    ------------------------------------------
+        1  |    655   |    -12   |      2     
+
+AccurateRip Summary (DiscID: 00314e06-02672c02-f7122011)
+    Track 01 : OK (v2, confidence 20/22)
+    Track 02 : OK (v2, confidence 20/22)
+    Track 03 : OK (v2, confidence 20/22)
+    Track 04 : OK (v2, confidence 20/22)
+    Track 05 : OK (v2, confidence 20/22)
+    Track 06 : OK (v2, confidence 20/22)
+    Track 07 : OK (v2, confidence 20/22)
+    Track 08 : OK (v2, confidence 20/22)
+    Track 09 : OK (v2, confidence 20/22)
+    Track 10 : OK (v2, confidence 20/22)
+    Track 11 : OK (v2, confidence 20/22)
+    Track 12 : OK (v2, confidence 20/22)
+    Track 13 : OK (v2, confidence 20/22)
+    Track 14 : OK (v2, confidence 20/22)
+    Track 15 : OK (v2, confidence 20/22)
+    Track 16 : OK (v2, confidence 20/22)
+    Track 17 : OK (v2, confidence 20/22)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Users/m4c/Music/Godley & Creme - Body of Work (Disc2).flac
+    CRC32 hash               : E95B0D26
+    CRC32 hash (skip zero)   : 21ABD2AB
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 3506675B
+    CRC32 hash (skip zero)   : 6AFA510B
+    AccurateRip v1 signature : 370A052E
+    AccurateRip v2 signature : 85E69A39
+        ->Accurately ripped (v2, confidence 20/22)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Pre-gap length : 00:00:36
+
+    CRC32 hash               : DE2C7184
+    CRC32 hash (skip zero)   : D6AFC8E4
+    AccurateRip v1 signature : 3F3E066B
+    AccurateRip v2 signature : 8982283B
+        ->Accurately ripped (v2, confidence 20/22)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Pre-gap length : 00:01:74
+
+    CRC32 hash               : 5E371629
+    CRC32 hash (skip zero)   : 5876264E
+    AccurateRip v1 signature : D7FA3E60
+    AccurateRip v2 signature : CC57D975
+        ->Accurately ripped (v2, confidence 20/22)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : A6A381AD
+    CRC32 hash (skip zero)   : A93A0C14
+    AccurateRip v1 signature : C6D702D1
+    AccurateRip v2 signature : F9760530
+        ->Accurately ripped (v2, confidence 20/22)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+
+    CRC32 hash               : 566274EB
+    CRC32 hash (skip zero)   : C0FDD3EA
+    AccurateRip v1 signature : BC25001A
+    AccurateRip v2 signature : 21807DF8
+        ->Accurately ripped (v2, confidence 20/22)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Pre-gap length : 00:02:39
+
+    CRC32 hash               : 33443D73
+    CRC32 hash (skip zero)   : 0D8A9578
+    AccurateRip v1 signature : 5BB70D85
+    AccurateRip v2 signature : 274B1F0D
+        ->Accurately ripped (v2, confidence 20/22)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Pre-gap length : 00:01:73
+
+    CRC32 hash               : 4DD6AA35
+    CRC32 hash (skip zero)   : 89661532
+    AccurateRip v1 signature : 9FFF483F
+    AccurateRip v2 signature : 100918EE
+        ->Accurately ripped (v2, confidence 20/22)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 402ABF85
+    CRC32 hash (skip zero)   : 798D2FA0
+    AccurateRip v1 signature : 6C731B43
+    AccurateRip v2 signature : 4CAA95CB
+        ->Accurately ripped (v2, confidence 20/22)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : F00A3A3A
+    CRC32 hash (skip zero)   : 3929F9CC
+    AccurateRip v1 signature : 31909CAC
+    AccurateRip v2 signature : B802F327
+        ->Accurately ripped (v2, confidence 20/22)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+    Pre-gap length : 00:03:38
+
+    CRC32 hash               : 95A5BFFF
+    CRC32 hash (skip zero)   : 6B7C7376
+    AccurateRip v1 signature : 83F630C5
+    AccurateRip v2 signature : 3A1F54B7
+        ->Accurately ripped (v2, confidence 20/22)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 11
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : B9545AF0
+    CRC32 hash (skip zero)   : EBB38C4E
+    AccurateRip v1 signature : 250A0A5C
+    AccurateRip v2 signature : 4DA6E21D
+        ->Accurately ripped (v2, confidence 20/22)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 12
+    Pre-gap length : 00:01:09
+
+    CRC32 hash               : 333E6425
+    CRC32 hash (skip zero)   : 54B3CF44
+    AccurateRip v1 signature : F612781A
+    AccurateRip v2 signature : 84735C7C
+        ->Accurately ripped (v2, confidence 20/22)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 13
+    Pre-gap length : 00:01:44
+
+    CRC32 hash               : 6AF206A0
+    CRC32 hash (skip zero)   : 58BB8E49
+    AccurateRip v1 signature : C9B6D5E2
+    AccurateRip v2 signature : FBA1EF91
+        ->Accurately ripped (v2, confidence 20/22)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 14
+    Pre-gap length : 00:01:62
+
+    CRC32 hash               : BD28014D
+    CRC32 hash (skip zero)   : EE42DE03
+    AccurateRip v1 signature : 90BEB34D
+    AccurateRip v2 signature : 27BFAE7E
+        ->Accurately ripped (v2, confidence 20/22)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 15
+    Pre-gap length : 00:03:47
+
+    CRC32 hash               : 4FD8AA2A
+    CRC32 hash (skip zero)   : 54295F1B
+    AccurateRip v1 signature : 2B07FC45
+    AccurateRip v2 signature : FE7F8F09
+        ->Accurately ripped (v2, confidence 20/22)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 16
+    Pre-gap length : 00:02:24
+
+    CRC32 hash               : 1992554F
+    CRC32 hash (skip zero)   : 3BFEEA2A
+    AccurateRip v1 signature : 13CC8D9A
+    AccurateRip v2 signature : 509A4199
+        ->Accurately ripped (v2, confidence 20/22)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 17
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 767769F5
+    CRC32 hash (skip zero)   : 4EA83315
+    AccurateRip v1 signature : 7DA39483
+    AccurateRip v2 signature : C0B6969D
+        ->Accurately ripped (v2, confidence 20/22)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

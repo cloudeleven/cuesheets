@@ -1,0 +1,82 @@
+TITLE "GO AHEAD!"
+PERFORMER "Tatsuro Yamashita (山下達郎)"
+CATALOG 4988017607312
+REM GENRE "J-Pop"
+REM DATE "1978"
+REM DISCID A70CAD0D
+FILE "Tatsuro Yamashita (山下達郎) - GO AHEAD!.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "OVERTURE"
+    PERFORMER "Tatsuro Yamashita (山下達郎)"
+    ISRC JPBV07800901
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "LOVE CELEBRATION"
+    PERFORMER "Tatsuro Yamashita (山下達郎)"
+    ISRC JPBV07800902
+    INDEX 01 00:47:52
+  TRACK 03 AUDIO
+    TITLE "LET'S DANCE BABY"
+    PERFORMER "Tatsuro Yamashita (山下達郎)"
+    ISRC JPBV07800903
+    INDEX 01 05:12:50
+  TRACK 04 AUDIO
+    TITLE "MONDAY BLUE"
+    PERFORMER "Tatsuro Yamashita (山下達郎)"
+    ISRC JPBV07800904
+    INDEX 00 09:23:45
+    INDEX 01 09:26:32
+  TRACK 05 AUDIO
+    TITLE "ついておいで"
+    PERFORMER "Tatsuro Yamashita (山下達郎)"
+    ISRC JPBV07800905
+    INDEX 00 16:35:45
+    INDEX 01 16:38:27
+  TRACK 06 AUDIO
+    TITLE "BOMBER"
+    PERFORMER "Tatsuro Yamashita (山下達郎)"
+    ISRC JPBV07800906
+    INDEX 00 21:24:65
+    INDEX 01 21:29:00
+  TRACK 07 AUDIO
+    TITLE "潮騒"
+    PERFORMER "Tatsuro Yamashita (山下達郎)"
+    ISRC JPBV07800907
+    INDEX 00 27:24:00
+    INDEX 01 27:25:47
+  TRACK 08 AUDIO
+    TITLE "PAPER DOLL"
+    PERFORMER "Tatsuro Yamashita (山下達郎)"
+    ISRC JPBV07800908
+    INDEX 00 31:45:62
+    INDEX 01 31:47:70
+  TRACK 09 AUDIO
+    TITLE "THIS COULD BE THE NIGHT"
+    PERFORMER "Tatsuro Yamashita (山下達郎)"
+    ISRC JPBV07800909
+    INDEX 00 35:13:52
+    INDEX 01 35:15:02
+  TRACK 10 AUDIO
+    TITLE "2000トンの雨"
+    PERFORMER "Tatsuro Yamashita (山下達郎)"
+    ISRC JPBV07800910
+    INDEX 00 39:09:10
+    INDEX 01 39:10:65
+  TRACK 11 AUDIO
+    TITLE "潮騒 [English Version]"
+    PERFORMER "Tatsuro Yamashita (山下達郎)"
+    ISRC JPBV07800927
+    INDEX 00 42:15:00
+    INDEX 01 42:19:00
+  TRACK 12 AUDIO
+    TITLE "2000トンの雨 [カラオケ -Karaoke-]"
+    PERFORMER "Tatsuro Yamashita (山下達郎)"
+    ISRC JPBV07800928
+    INDEX 00 46:36:72
+    INDEX 01 46:40:12
+  TRACK 13 AUDIO
+    TITLE "潮騒 [カラオケ -Karaoke-]"
+    PERFORMER "Tatsuro Yamashita (山下達郎)"
+    ISRC JPBV07800929
+    INDEX 00 49:43:52
+    INDEX 01 49:46:65

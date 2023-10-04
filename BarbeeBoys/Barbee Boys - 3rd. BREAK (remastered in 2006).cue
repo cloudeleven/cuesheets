@@ -1,0 +1,56 @@
+TITLE "3rd. BREAK (remastered in 2006)"
+PERFORMER "Barbee Boys"
+REM GENRE "Rock"
+REM DATE "1986"
+REM DISCID A309C60A
+FILE "Barbee Boys - 3rd. BREAK (remastered in 2006).flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "離れろよ"
+    PERFORMER "Barbee Boys"
+    ISRC JPES08603430
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "どんなもんだいッ"
+    PERFORMER "Barbee Boys"
+    ISRC JPES08603440
+    INDEX 01 03:42:56
+  TRACK 03 AUDIO
+    TITLE "はやまったらイヤだぜ"
+    PERFORMER "Barbee Boys"
+    ISRC JPES08603450
+    INDEX 01 07:56:43
+  TRACK 04 AUDIO
+    TITLE "ショート寸前"
+    PERFORMER "Barbee Boys"
+    ISRC JPES08603460
+    INDEX 01 12:27:73
+  TRACK 05 AUDIO
+    TITLE "チークダンス"
+    PERFORMER "Barbee Boys"
+    ISRC JPES08603470
+    INDEX 01 16:35:04
+  TRACK 06 AUDIO
+    TITLE "打ち上げ花火"
+    PERFORMER "Barbee Boys"
+    ISRC JPES08603480
+    INDEX 01 20:35:01
+  TRACK 07 AUDIO
+    TITLE "なんだったんだ？7DAYS"
+    PERFORMER "Barbee Boys"
+    ISRC JPES08603490
+    INDEX 01 25:41:10
+  TRACK 08 AUDIO
+    TITLE "STOP!"
+    PERFORMER "Barbee Boys"
+    ISRC JPES08603500
+    INDEX 01 29:27:34
+  TRACK 09 AUDIO
+    TITLE "ラサーラ"
+    PERFORMER "Barbee Boys"
+    ISRC JPES08603510
+    INDEX 01 33:06:11
+  TRACK 10 AUDIO
+    TITLE "あいさつはいつでも"
+    PERFORMER "Barbee Boys"
+    ISRC JPES08603520
+    INDEX 01 38:27:02

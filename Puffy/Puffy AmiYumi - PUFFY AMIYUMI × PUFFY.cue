@@ -1,0 +1,134 @@
+TITLE "PUFFY AMIYUMI × PUFFY"
+PERFORMER "Puffy AmiYumi"
+REM GENRE "Pop"
+REM DATE "2009-03-25"
+REM DISCID 210F1B13
+FILE "Puffy AmiYumi - PUFFY AMIYUMI × PUFFY.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Girls Just Want To Have Fun"
+    PERFORMER "Puffy AmiYumi"
+    ISRC JPKS00801341
+    REM COMMENT "Cyndi Lauper"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "日曜日よりの使者"
+    PERFORMER "Puffy AmiYumi"
+    ISRC JPKS00900355
+    REM COMMENT "The HIGH-LOWS"
+    INDEX 00 03:29:26
+    INDEX 01 03:30:63
+  TRACK 03 AUDIO
+    TITLE "Basket Case"
+    PERFORMER "Puffy AmiYumi"
+    ISRC JPKS00600830
+    REM COMMENT "GREEN DAY"
+    INDEX 00 08:42:67
+    INDEX 01 08:43:62
+  TRACK 04 AUDIO
+    TITLE "フロンティアのパイオニア (しーたかver.)"
+    PERFORMER "Puffy AmiYumi"
+    ISRC JPKS00900356
+    REM COMMENT "奥田民生"
+    INDEX 00 11:36:41
+    INDEX 01 11:39:02
+  TRACK 05 AUDIO
+    TITLE "JOINING A FAN CLUB"
+    PERFORMER "Puffy AmiYumi"
+    ISRC JPES00400121
+    REM COMMENT "Jellyfish"
+    INDEX 00 15:19:37
+    INDEX 01 15:20:74
+  TRACK 06 AUDIO
+    TITLE "天使のウィンク"
+    PERFORMER "Puffy AmiYumi"
+    ISRC JPKS00602421
+    REM COMMENT "松田聖子"
+    INDEX 00 19:19:17
+    INDEX 01 19:21:12
+  TRACK 07 AUDIO
+    TITLE "Lucy In The Sky With Diamonds"
+    PERFORMER "Puffy AmiYumi"
+    SONGWRITER "John Lennon, Paul McCartney"
+    ISRC JPTO00502274
+    REM COMMENT "The Beatles"
+    INDEX 00 23:47:12
+    INDEX 01 23:49:49
+  TRACK 08 AUDIO
+    TITLE "人間はもう終わりだ！"
+    PERFORMER "Puffy AmiYumi"
+    ISRC JPES00401082
+    REM COMMENT "真心ブラザーズ"
+    INDEX 00 27:26:58
+    INDEX 01 27:27:19
+  TRACK 09 AUDIO
+    TITLE "Radio Tokyo"
+    PERFORMER "Puffy AmiYumi"
+    ISRC JPKS00600821
+    REM COMMENT "Marvelous 3"
+    INDEX 00 31:00:19
+    INDEX 01 31:02:12
+  TRACK 10 AUDIO
+    TITLE "健康"
+    PERFORMER "Puffy AmiYumi"
+    ISRC JPKS00701441
+    REM COMMENT "奥田民生"
+    INDEX 01 36:04:37
+  TRACK 11 AUDIO
+    TITLE "Not Listening"
+    PERFORMER "Puffy AmiYumi"
+    ISRC JPKS00900357
+    REM COMMENT "Snuff"
+    INDEX 00 40:33:13
+    INDEX 01 40:33:44
+  TRACK 12 AUDIO
+    TITLE "東京花火"
+    PERFORMER "Puffy AmiYumi"
+    ISRC JPES00400201
+    REM COMMENT "NEW ROTE'KA"
+    INDEX 00 43:35:18
+    INDEX 01 43:37:01
+  TRACK 13 AUDIO
+    TITLE "CAN-NANA FEVER"
+    PERFORMER "Puffy AmiYumi"
+    ISRC JPES00400581
+    REM COMMENT "GUITAR WOLF"
+    INDEX 00 46:30:26
+    INDEX 01 46:31:37
+  TRACK 14 AUDIO
+    TITLE "ひと夏の経験"
+    PERFORMER "Puffy AmiYumi"
+    ISRC JPES00400321
+    REM COMMENT "山口百恵"
+    INDEX 00 48:26:38
+    INDEX 01 48:27:74
+  TRACK 15 AUDIO
+    TITLE "Don’t Bring Me Down"
+    PERFORMER "Puffy AmiYumi"
+    ISRC JPKS00601943
+    REM COMMENT "Electric Light Orchestra"
+    INDEX 00 52:30:06
+    INDEX 01 52:31:42
+  TRACK 16 AUDIO
+    TITLE "雪が降る町"
+    PERFORMER "Puffy AmiYumi"
+    ISRC JPES09600866
+    REM COMMENT "ユニコーン"
+    INDEX 00 56:35:56
+    INDEX 01 56:37:50
+  TRACK 17 AUDIO
+    TITLE "Hi Hi 〜Spanish TV MIX〜"
+    PERFORMER "Puffy AmiYumi"
+    ISRC JPKS00500521
+    INDEX 00 61:30:29
+    INDEX 01 61:36:37
+  TRACK 18 AUDIO
+    TITLE "Hi Hi 〜Portuguese TV MIX〜"
+    PERFORMER "Puffy AmiYumi"
+    ISRC JPKS00500522
+    INDEX 01 62:40:05
+  TRACK 19 AUDIO
+    TITLE "Happy Birthday To You <Dear○○○ver.>"
+    PERFORMER "Puffy AmiYumi"
+    ISRC JPKS00801702
+    INDEX 00 63:43:37
+    INDEX 01 63:46:73

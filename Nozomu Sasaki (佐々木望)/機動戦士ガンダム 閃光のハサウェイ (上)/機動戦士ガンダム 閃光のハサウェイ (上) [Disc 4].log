@@ -1,0 +1,81 @@
+X Lossless Decoder version 20210101 (153.1)
+
+XLD extraction logfile from 2021-08-15 18:47:11 +0900
+
+Nozomu Sasaki (佐々木望) / 機動戦士ガンダム 閃光のハサウェイ (上) [Disc 4]
+
+Used drive : PIONEER BD-RW   BDR-X12U (revision 1.03)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 17:07:16 |         0    |    77040   
+        2  | 17:07:16 | 15:25:02 |     77041    |   146417   
+        3  | 32:32:18 | 29:30:06 |    146418    |   279173   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Filename : /Users/m4c/tmp/Nozomu Sasaki (佐々木望) - 機動戦士ガンダム 閃光のハサウェイ (上) [Disc 4].flac
+    CRC32 hash               : D002D2D0
+    CRC32 hash (skip zero)   : 223358A7
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : A8FB039B
+    CRC32 hash (skip zero)   : C92F8978
+    AccurateRip v1 signature : B04DEB85
+    AccurateRip v2 signature : D8EFC63C
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Pre-gap length : 00:01:42
+
+    CRC32 hash               : B357959A
+    CRC32 hash (skip zero)   : 7F07153D
+    AccurateRip v1 signature : 28940AC6
+    AccurateRip v2 signature : 7C47B785
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Pre-gap length : 00:01:42
+
+    CRC32 hash               : C0C9B738
+    CRC32 hash (skip zero)   : 56F25011
+    AccurateRip v1 signature : 565169D9
+    AccurateRip v2 signature : 07C908B6
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

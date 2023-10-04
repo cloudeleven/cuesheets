@@ -1,0 +1,178 @@
+X Lossless Decoder version 20210101 (153.1)
+
+XLD extraction logfile from 2021-05-09 12:03:43 +0900
+
+Barbee Boys / √5 (remastered in 2006)
+
+Used drive : HL-DT-ST BD-RE  BH10NS30 (revision EL00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:56:47 |         0    |    17746   
+        2  | 03:56:47 | 04:45:54 |     17747    |    39175   
+        3  | 08:42:26 | 04:10:23 |     39176    |    57948   
+        4  | 12:52:49 | 04:09:56 |     57949    |    76679   
+        5  | 17:02:30 | 03:38:40 |     76680    |    93069   
+        6  | 20:40:70 | 02:44:24 |     93070    |   105393   
+        7  | 23:25:19 | 03:39:47 |    105394    |   121865   
+        8  | 27:04:66 | 04:00:41 |    121866    |   139906   
+        9  | 31:05:32 | 04:14:21 |    139907    |   158977   
+       10  | 35:19:53 | 05:08:23 |    158978    |   182100   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Filename : /Users/m4c/Music/Barbee Boys - √5 (remastered in 2006).flac
+    CRC32 hash               : 082F1977
+    CRC32 hash (skip zero)   : F2C1192D
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 8D45BE52
+    CRC32 hash (skip zero)   : 8A00A2C4
+    AccurateRip v1 signature : 4AB93A7E
+    AccurateRip v2 signature : 69461179
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+
+    CRC32 hash               : 4B20E317
+    CRC32 hash (skip zero)   : 3372B82C
+    AccurateRip v1 signature : 0234713A
+    AccurateRip v2 signature : 2648FD4F
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+
+    CRC32 hash               : FCE76B80
+    CRC32 hash (skip zero)   : 1B12A3F7
+    AccurateRip v1 signature : 47039097
+    AccurateRip v2 signature : F2E88DAB
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+
+    CRC32 hash               : 453730A9
+    CRC32 hash (skip zero)   : 4D383B55
+    AccurateRip v1 signature : 840F34D4
+    AccurateRip v2 signature : 4664CF90
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+
+    CRC32 hash               : C2559E26
+    CRC32 hash (skip zero)   : 2195A5B7
+    AccurateRip v1 signature : 3255CBAC
+    AccurateRip v2 signature : A1542809
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Pre-gap length : 00:04:38
+
+    CRC32 hash               : A3D89B90
+    CRC32 hash (skip zero)   : 35F12E24
+    AccurateRip v1 signature : 90A7978E
+    AccurateRip v2 signature : 0C0AF860
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+
+    CRC32 hash               : 0CE5FB7D
+    CRC32 hash (skip zero)   : F23467A1
+    AccurateRip v1 signature : CEB8F9A5
+    AccurateRip v2 signature : 353388D6
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+
+    CRC32 hash               : 259F0A25
+    CRC32 hash (skip zero)   : A318E13F
+    AccurateRip v1 signature : 0D55F54A
+    AccurateRip v2 signature : 972E073B
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+
+    CRC32 hash               : A3EB5503
+    CRC32 hash (skip zero)   : 4F0D89E9
+    AccurateRip v1 signature : 7F6F4FC9
+    AccurateRip v2 signature : 003AF1F9
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+
+    CRC32 hash               : 72E1F74D
+    CRC32 hash (skip zero)   : 37566D75
+    AccurateRip v1 signature : F2656F91
+    AccurateRip v2 signature : F52780F3
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

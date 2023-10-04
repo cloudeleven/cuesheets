@@ -1,0 +1,277 @@
+X Lossless Decoder version 20191004 (152.0)
+
+XLD extraction logfile from 2020-02-23 11:33:44 +0900
+
+Electric Light Orchestra / A New World Record (remastered in 2006)
+
+Used drive : HL-DT-ST BD-RE  BH10NS30 (revision EL00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 05:06:06 |         0    |    22955   
+        2  | 05:06:06 | 04:40:27 |     22956    |    43982   
+        3  | 09:46:33 | 03:12:63 |     43983    |    58445   
+        4  | 12:59:21 | 04:25:56 |     58446    |    78376   
+        5  | 17:25:02 | 03:55:34 |     78377    |    96035   
+        6  | 21:20:36 | 03:32:23 |     96036    |   111958   
+        7  | 24:52:59 | 02:17:07 |    111959    |   122240   
+        8  | 27:09:66 | 03:45:08 |    122241    |   139123   
+        9  | 30:54:74 | 05:40:09 |    139124    |   164632   
+       10  | 36:35:08 | 04:41:34 |    164633    |   185741   
+       11  | 41:16:42 | 02:37:36 |    185742    |   197552   
+       12  | 43:54:03 | 04:55:40 |    197553    |   219717   
+       13  | 48:49:43 | 01:14:57 |    219718    |   225324   
+       14  | 50:04:25 | 04:16:28 |    225325    |   244552   
+       15  | 54:20:53 | 04:51:30 |    244553    |   266407   
+
+List of alternate offset correction values
+        #  | Absolute | Relative | Confidence 
+    ------------------------------------------
+        1  |     33   |   -634   |     180     
+        2  |    715   |     48   |     134     
+        3  |    679   |     12   |     120     
+        4  |   1314   |    647   |     110     
+        5  |    650   |    -17   |      2     
+
+AccurateRip Summary (DiscID: 0021381e-01743e4b-da0de00f)
+    Track 01 : OK (v1+v2, confidence 206/745)
+    Track 02 : OK (v1+v2, confidence 208/752)
+    Track 03 : OK (v1+v2, confidence 209/749)
+    Track 04 : OK (v1+v2, confidence 208/746)
+    Track 05 : OK (v1+v2, confidence 208/748)
+    Track 06 : OK (v1+v2, confidence 209/749)
+    Track 07 : OK (v1+v2, confidence 207/744)
+    Track 08 : OK (v1+v2, confidence 209/750)
+    Track 09 : OK (v1+v2, confidence 206/744)
+    Track 10 : OK (v1+v2, confidence 203/726)
+    Track 11 : OK (v1+v2, confidence 203/727)
+    Track 12 : OK (v1+v2, confidence 202/721)
+    Track 13 : OK (v1+v2, confidence 202/722)
+    Track 14 : OK (v1+v2, confidence 200/720)
+    Track 15 : OK (v1+v2, confidence 198/714)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Users/m4c/Music/Electric Light Orchestra - A New World Record (remastered in 2006).flac
+    CRC32 hash               : 2ECD5756
+    CRC32 hash (skip zero)   : B6BF6D7E
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : C20CA023
+    CRC32 hash (skip zero)   : 42634EFF
+    AccurateRip v1 signature : 1C4D0163
+    AccurateRip v2 signature : FF593569
+        ->Accurately ripped (v1+v2, confidence 10+196/745)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+
+    CRC32 hash               : 0BC8273C
+    CRC32 hash (skip zero)   : 87E819F7
+    AccurateRip v1 signature : F164D427
+    AccurateRip v2 signature : 91B7F2AD
+        ->Accurately ripped (v1+v2, confidence 11+197/752)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+
+    CRC32 hash               : 339E8B23
+    CRC32 hash (skip zero)   : 3472991F
+    AccurateRip v1 signature : DE516F72
+    AccurateRip v2 signature : 83DF98AB
+        ->Accurately ripped (v1+v2, confidence 11+198/749)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+
+    CRC32 hash               : 6E35F63F
+    CRC32 hash (skip zero)   : B851FD28
+    AccurateRip v1 signature : B2B75B43
+    AccurateRip v2 signature : B312665A
+        ->Accurately ripped (v1+v2, confidence 11+197/746)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+
+    CRC32 hash               : FC807A21
+    CRC32 hash (skip zero)   : 28CA8726
+    AccurateRip v1 signature : 3556637D
+    AccurateRip v2 signature : 68F35190
+        ->Accurately ripped (v1+v2, confidence 11+197/748)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+
+    CRC32 hash               : A30BE061
+    CRC32 hash (skip zero)   : F78CE916
+    AccurateRip v1 signature : BB8023A8
+    AccurateRip v2 signature : 14F44038
+        ->Accurately ripped (v1+v2, confidence 11+198/749)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+
+    CRC32 hash               : 115E7104
+    CRC32 hash (skip zero)   : 38BA918A
+    AccurateRip v1 signature : B805A76E
+    AccurateRip v2 signature : 02E868B6
+        ->Accurately ripped (v1+v2, confidence 11+196/744)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+
+    CRC32 hash               : D699B50F
+    CRC32 hash (skip zero)   : 9FCC0655
+    AccurateRip v1 signature : 8084A28E
+    AccurateRip v2 signature : EC6214E5
+        ->Accurately ripped (v1+v2, confidence 11+198/750)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+
+    CRC32 hash               : 2EF27250
+    CRC32 hash (skip zero)   : A31BDE12
+    AccurateRip v1 signature : B421F315
+    AccurateRip v2 signature : A577EF54
+        ->Accurately ripped (v1+v2, confidence 11+195/744)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+    Pre-gap length : 00:04:57
+
+    CRC32 hash               : 7990CF7D
+    CRC32 hash (skip zero)   : 2669311C
+    AccurateRip v1 signature : AAED4112
+    AccurateRip v2 signature : DC3D4440
+        ->Accurately ripped (v1+v2, confidence 11+192/726)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 11
+    Pre-gap length : 00:01:57
+
+    CRC32 hash               : 2C4AB1A4
+    CRC32 hash (skip zero)   : 816B08BA
+    AccurateRip v1 signature : C9C327F5
+    AccurateRip v2 signature : 5C77F454
+        ->Accurately ripped (v1+v2, confidence 11+192/727)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 12
+    Pre-gap length : 00:03:03
+
+    CRC32 hash               : C437D1FB
+    CRC32 hash (skip zero)   : FB54000B
+    AccurateRip v1 signature : C865104C
+    AccurateRip v2 signature : CEA471C8
+        ->Accurately ripped (v1+v2, confidence 11+191/721)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 13
+    Pre-gap length : 00:02:56
+
+    CRC32 hash               : 830DD5A7
+    CRC32 hash (skip zero)   : 48A131A9
+    AccurateRip v1 signature : 8E89409E
+    AccurateRip v2 signature : BF5C18CC
+        ->Accurately ripped (v1+v2, confidence 11+191/722)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 14
+    Pre-gap length : 00:02:56
+
+    CRC32 hash               : CF8CBA83
+    CRC32 hash (skip zero)   : 9CF0A253
+    AccurateRip v1 signature : 5B58725F
+    AccurateRip v2 signature : CCB06905
+        ->Accurately ripped (v1+v2, confidence 11+189/720)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 15
+    Pre-gap length : 00:02:57
+
+    CRC32 hash               : F6C86CEF
+    CRC32 hash (skip zero)   : C4848F91
+    AccurateRip v1 signature : BD2277F6
+    AccurateRip v2 signature : 6535318F
+        ->Accurately ripped (v1+v2, confidence 10+188/714)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
