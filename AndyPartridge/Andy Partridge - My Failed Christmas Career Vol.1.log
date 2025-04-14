@@ -1,0 +1,97 @@
+X Lossless Decoder version 20230627 (156.1)
+
+XLD extraction logfile from 2023-10-25 21:26:25 +0900
+
+Andy Partridge / My Failed Christmas Career Vol.1
+
+Used drive : PIONEER BD-RW   BDR-X12U (revision 1.03)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:32:26 |         0    |    15925   
+        2  | 03:32:26 | 03:04:23 |     15926    |    29748   
+        3  | 06:36:49 | 03:21:48 |     29749    |    44871   
+        4  | 09:58:22 | 03:35:05 |     44872    |    61001   
+
+AccurateRip Summary (DiscID: 00024ffd-00093d9e-23032d04)
+    Track 01 : OK (v2, confidence 10/10)
+    Track 02 : OK (v2, confidence 10/10)
+    Track 03 : OK (v2, confidence 10/10)
+    Track 04 : OK (v2, confidence 10/10)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Users/m4c/Music/Andy Partridge - My Failed Christmas Career Vol.1.flac
+    CRC32 hash               : A71B7C76
+    CRC32 hash (skip zero)   : AF41DE25
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 0EFDFD34
+    CRC32 hash (skip zero)   : 0DBBB7EC
+    AccurateRip v1 signature : 725F5FDE
+    AccurateRip v2 signature : FB80F157
+        ->Accurately ripped (v2, confidence 10/10)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+
+    CRC32 hash               : 7A7C6E5A
+    CRC32 hash (skip zero)   : 5B93D3F2
+    AccurateRip v1 signature : 71CB23B2
+    AccurateRip v2 signature : E29324A6
+        ->Accurately ripped (v2, confidence 10/10)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+
+    CRC32 hash               : EADD9301
+    CRC32 hash (skip zero)   : B1034382
+    AccurateRip v1 signature : C8C506E4
+    AccurateRip v2 signature : DCFD074A
+        ->Accurately ripped (v2, confidence 10/10)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+
+    CRC32 hash               : DA2E57F0
+    CRC32 hash (skip zero)   : 6BC546BA
+    AccurateRip v1 signature : 4C17A40D
+    AccurateRip v2 signature : 9550A992
+        ->Accurately ripped (v2, confidence 10/10)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

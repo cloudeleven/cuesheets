@@ -1,0 +1,39 @@
+TITLE "The Big Express 2001 EXTRA DEMOS"
+PERFORMER "XTC"
+FILE "XTC - The Big Express 2001 EXTRA DEMOS.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Red Brick Dream"
+    PERFORMER "XTC"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Washaway"
+    PERFORMER "XTC"
+    INDEX 01 01:24:50
+  TRACK 03 AUDIO
+    TITLE "Blue Overall"
+    PERFORMER "XTC"
+    INDEX 01 04:50:68
+  TRACK 04 AUDIO
+    TITLE "Now We All Dead (It Doesn't Matter)"
+    PERFORMER "XTC"
+    INDEX 01 07:54:21
+  TRACK 05 AUDIO
+    TITLE "Work"
+    PERFORMER "XTC"
+    INDEX 01 11:04:18
+  TRACK 06 AUDIO
+    TITLE "Gangway, Electric Guitar Is Coming Through"
+    PERFORMER "XTC"
+    INDEX 01 14:07:18
+  TRACK 07 AUDIO
+    TITLE "Broomstick Rhythm"
+    PERFORMER "XTC"
+    INDEX 01 15:57:56
+  TRACK 08 AUDIO
+    TITLE "Shiny Cage"
+    PERFORMER "XTC"
+    INDEX 01 19:35:28
+  TRACK 09 AUDIO
+    TITLE "A Patriotic Romance"
+    PERFORMER "XTC"
+    INDEX 01 22:36:65

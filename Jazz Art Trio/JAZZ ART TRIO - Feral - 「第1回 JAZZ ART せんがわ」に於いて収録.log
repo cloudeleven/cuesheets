@@ -1,0 +1,51 @@
+X Lossless Decoder version 20230627 (156.1)
+
+XLD extraction logfile from 2023-10-26 00:53:35 +0900
+
+JAZZ ART TRIO / Feral - 「第1回 JAZZ ART せんがわ」に於いて収録
+
+Used drive : PIONEER BD-RW   BDR-X12U (revision 1.03)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 52:22:09 |         0    |   235658   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Filename : /Users/m4c/Music/JAZZ ART TRIO - Feral - 「第1回 JAZZ ART せんがわ」に於いて収録.flac
+    CRC32 hash               : 11C1C561
+    CRC32 hash (skip zero)   : 6494C14D
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 11C1C561
+    CRC32 hash (skip zero)   : 6494C14D
+    AccurateRip v1 signature : 8DF35C8E
+    AccurateRip v2 signature : C7D8D3C3
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

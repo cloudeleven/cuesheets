@@ -1,0 +1,77 @@
+TITLE "Best"
+PERFORMER "Towa Tei"
+REM GENRE "Electronica"
+REM DATE "2001"
+REM DISCID AF10740D
+FILE "Towa Tei - Best.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Happy (1st Version)"
+    PERFORMER "Towa Tei"
+    ISRC JPAM09700530
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Technova (US Verson)"
+    PERFORMER "Towa Tei"
+    ISRC JPFL09403180
+    INDEX 00 05:08:48
+    INDEX 01 05:09:05
+  TRACK 03 AUDIO
+    TITLE "Butterfly (EP Version)"
+    PERFORMER "Towa Tei"
+    ISRC JPAM09804520
+    INDEX 01 10:56:42
+  TRACK 04 AUDIO
+    TITLE "Luv Connection (2001 Version)"
+    PERFORMER "Towa Tei"
+    ISRC JPAM00102500
+    INDEX 00 14:39:28
+    INDEX 01 14:40:40
+  TRACK 05 AUDIO
+    TITLE "Forget Me Nots"
+    PERFORMER "Towa Tei"
+    ISRC JPAM09700190
+    INDEX 01 21:55:27
+  TRACK 06 AUDIO
+    TITLE "La Douce Vie (Japan Version)"
+    PERFORMER "Towa Tei"
+    ISRC JPFL09403240
+    INDEX 01 27:11:55
+  TRACK 07 AUDIO
+    TITLE "Let Me Know"
+    PERFORMER "Towa Tei"
+    ISRC JPAM09901140
+    INDEX 01 31:25:45
+  TRACK 08 AUDIO
+    TITLE "Congratulations!"
+    PERFORMER "Towa Tei"
+    ISRC JPAM09901380
+    INDEX 01 35:35:50
+  TRACK 09 AUDIO
+    TITLE "GBI (Radio Edit)"
+    PERFORMER "Towa Tei"
+    ISRC JPAM00102510
+    INDEX 00 40:23:38
+    INDEX 01 40:23:55
+  TRACK 10 AUDIO
+    TITLE "Mars"
+    PERFORMER "Towa Tei"
+    ISRC JPAM00000730
+    INDEX 01 44:38:72
+  TRACK 11 AUDIO
+    TITLE "Last Century Modern"
+    PERFORMER "Towa Tei"
+    ISRC JPAM09901310
+    INDEX 00 49:09:21
+    INDEX 01 49:11:65
+  TRACK 12 AUDIO
+    TITLE "Obrigado (Dry Bebel Version)"
+    PERFORMER "Towa Tei"
+    ISRC JPFL09403250
+    INDEX 00 52:01:06
+    INDEX 01 52:02:45
+  TRACK 13 AUDIO
+    TITLE "Incense & A Night of UBUD (15 min Version)"
+    PERFORMER "Towa Tei"
+    ISRC JPAM00102520
+    INDEX 00 55:11:48
+    INDEX 01 55:12:45

@@ -1,0 +1,97 @@
+X Lossless Decoder version 20230627 (156.1)
+
+XLD extraction logfile from 2023-10-04 21:01:15 +0900
+
+The 3 Clubmen / The 3 Clubmen EP
+
+Used drive : PIONEER BD-RW   BDR-X12U (revision 1.03)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 05:03:64 |         0    |    22788   
+        2  | 05:03:64 | 03:55:58 |     22789    |    40471   
+        3  | 08:59:47 | 03:34:64 |     40472    |    56585   
+        4  | 12:34:36 | 04:08:56 |     56586    |    75241   
+
+AccurateRip Summary (DiscID: 0002fa11-000bbe0d-2603eb04)
+    Track 01 : OK (v2, confidence 2/2)
+    Track 02 : OK (v2, confidence 2/2)
+    Track 03 : OK (v2, confidence 2/2)
+    Track 04 : OK (v2, confidence 2/2)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Users/m4c/Music/The 3 Clubmen - The 3 Clubmen EP.flac
+    CRC32 hash               : 92BC8EFF
+    CRC32 hash (skip zero)   : E749D338
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : DF9BC122
+    CRC32 hash (skip zero)   : D9077A8B
+    AccurateRip v1 signature : 52117174
+    AccurateRip v2 signature : 913BD76C
+        ->Accurately ripped (v2, confidence 2/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+
+    CRC32 hash               : ECF7447B
+    CRC32 hash (skip zero)   : 3D5B0344
+    AccurateRip v1 signature : FD7AA28C
+    AccurateRip v2 signature : C663F84C
+        ->Accurately ripped (v2, confidence 2/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+
+    CRC32 hash               : 87297DA9
+    CRC32 hash (skip zero)   : B7FE69B1
+    AccurateRip v1 signature : 7FAB56BB
+    AccurateRip v2 signature : 5A406280
+        ->Accurately ripped (v2, confidence 2/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+
+    CRC32 hash               : B079CAF7
+    CRC32 hash (skip zero)   : 8947FA66
+    AccurateRip v1 signature : 3BA16FA1
+    AccurateRip v2 signature : 08AEA4B0
+        ->Accurately ripped (v2, confidence 2/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

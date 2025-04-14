@@ -1,0 +1,26 @@
+TITLE "The 3 Clubmen EP"
+PERFORMER "The 3 Clubmen"
+CATALOG 5060164400714
+REM DATE "2023"
+REM DISCID 2603EB04
+FILE "The 3 Clubmen - The 3 Clubmen EP.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Aviatrix"
+    PERFORMER "The 3 Clubmen"
+    ISRC GBMJG2309666
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Racecar"
+    PERFORMER "The 3 Clubmen"
+    ISRC GBMJG2314615
+    INDEX 01 05:03:64
+  TRACK 03 AUDIO
+    TITLE "Green Green Grasshopper"
+    PERFORMER "The 3 Clubmen"
+    ISRC GBMJG2314616
+    INDEX 01 08:59:47
+  TRACK 04 AUDIO
+    TITLE "Look At Those Stars"
+    PERFORMER "The 3 Clubmen"
+    ISRC GBMJG2314617
+    INDEX 01 12:34:36

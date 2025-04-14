@@ -1,0 +1,97 @@
+TITLE "Abbey Road - 2019 Mix"
+PERFORMER "Beatles, The"
+CATALOG 0602508145315
+REM DATE "2019-09-27"
+REM DISCNUMBER 1
+REM TOTALDISCS 4
+REM DISCID 030B2111
+FILE "Beatles, The - Abbey Road - 2019 Mix.flac" WAVE
+  TRACK 01 AUDIO
+    TITLE "Come Together"
+    PERFORMER "Beatles, The"
+    ISRC GBUM71903329
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "Something"
+    PERFORMER "Beatles, The"
+    SONGWRITER "George Harrison"
+    ISRC GBUM71903330
+    INDEX 01 04:20:15
+  TRACK 03 AUDIO
+    TITLE "Maxwell’s Silver Hammer"
+    PERFORMER "Beatles, The"
+    ISRC GBUM71903331
+    INDEX 01 07:22:32
+  TRACK 04 AUDIO
+    TITLE "Oh! Darling"
+    PERFORMER "Beatles, The"
+    ISRC GBUM71903332
+    INDEX 01 10:50:30
+  TRACK 05 AUDIO
+    TITLE "Octopus’s Garden"
+    PERFORMER "Beatles, The"
+    SONGWRITER "Ringo Starr"
+    ISRC GBUM71903333
+    INDEX 01 14:17:41
+  TRACK 06 AUDIO
+    TITLE "I Want You (She’s So Heavy)"
+    PERFORMER "Beatles, The"
+    ISRC GBUM71903334
+    INDEX 01 17:08:26
+  TRACK 07 AUDIO
+    TITLE "Here Comes the Sun"
+    PERFORMER "Beatles, The"
+    SONGWRITER "George Harrison"
+    ISRC GBUM71903335
+    INDEX 01 24:55:53
+  TRACK 08 AUDIO
+    TITLE "Because"
+    PERFORMER "Beatles, The"
+    ISRC GBUM71903336
+    INDEX 01 28:01:31
+  TRACK 09 AUDIO
+    TITLE "You Never Give Me Your Money"
+    PERFORMER "Beatles, The"
+    ISRC GBUM71903337
+    INDEX 01 30:47:02
+  TRACK 10 AUDIO
+    TITLE "Sun King"
+    PERFORMER "Beatles, The"
+    SONGWRITER "John Lennon, Paul McCartney"
+    ISRC GBUM71903338
+    INDEX 01 34:49:52
+  TRACK 11 AUDIO
+    TITLE "Mean Mr Mustard"
+    PERFORMER "Beatles, The"
+    ISRC GBUM71903339
+    INDEX 01 37:16:02
+  TRACK 12 AUDIO
+    TITLE "Polythene Pam"
+    PERFORMER "Beatles, The"
+    ISRC GBUM71903340
+    INDEX 01 38:22:37
+  TRACK 13 AUDIO
+    TITLE "She Came In Through the Bathroom Window"
+    PERFORMER "Beatles, The"
+    ISRC GBUM71903341
+    INDEX 01 39:35:22
+  TRACK 14 AUDIO
+    TITLE "Golden Slumbers"
+    PERFORMER "Beatles, The"
+    ISRC GBUM71903342
+    INDEX 01 41:34:08
+  TRACK 15 AUDIO
+    TITLE "Carry That Weight"
+    PERFORMER "Beatles, The"
+    ISRC GBUM71903343
+    INDEX 01 43:05:41
+  TRACK 16 AUDIO
+    TITLE "The End"
+    PERFORMER "Beatles, The"
+    ISRC GBUM71903344
+    INDEX 01 44:41:74
+  TRACK 17 AUDIO
+    TITLE "Her Majesty"
+    PERFORMER "Beatles, The"
+    ISRC GBUM71903345
+    INDEX 01 47:03:67

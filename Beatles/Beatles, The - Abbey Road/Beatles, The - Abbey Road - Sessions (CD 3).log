@@ -1,0 +1,215 @@
+X Lossless Decoder version 20230627 (156.1)
+
+XLD extraction logfile from 2023-10-25 22:32:22 +0900
+
+Beatles, The / Abbey Road - Sessions (CD 3)
+
+Used drive : PIONEER BD-RW   BDR-X12U (revision 1.03)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:30:11 |         0    |    15760   
+        2  | 03:30:11 | 02:11:06 |     15761    |    25591   
+        3  | 05:41:17 | 02:42:57 |     25592    |    37798   
+        4  | 08:23:74 | 03:14:02 |     37799    |    52350   
+        5  | 11:38:01 | 01:34:22 |     52351    |    59422   
+        6  | 13:12:23 | 01:39:12 |     59423    |    66859   
+        7  | 14:51:35 | 02:06:06 |     66860    |    76315   
+        8  | 16:57:41 | 03:07:39 |     76316    |    90379   
+        9  | 20:05:05 | 16:10:35 |     90380    |   163164   
+       10  | 36:15:40 | 02:41:54 |    163165    |   175293   
+       11  | 38:57:19 | 03:17:20 |    175294    |   190088   
+
+List of alternate offset correction values
+        #  | Absolute | Relative | Confidence 
+    ------------------------------------------
+        1  |    680   |     13   |     202     
+
+AccurateRip Summary (DiscID: 000e8ac6-00836394-8109e60b)
+    Track 01 : OK (v2, confidence 17/217)
+    Track 02 : OK (v2, confidence 17/219)
+    Track 03 : OK (v2, confidence 17/219)
+    Track 04 : OK (v2, confidence 17/219)
+    Track 05 : OK (v2, confidence 17/219)
+    Track 06 : OK (v2, confidence 17/219)
+    Track 07 : OK (v2, confidence 17/219)
+    Track 08 : OK (v2, confidence 17/219)
+    Track 09 : OK (v2, confidence 17/219)
+    Track 10 : OK (v2, confidence 17/219)
+    Track 11 : OK (v2, confidence 16/218)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Filename : /Users/m4c/Music/Beatles, The - Abbey Road - Sessions (CD 3).flac
+    CRC32 hash               : F09B7456
+    CRC32 hash (skip zero)   : D2DCD699
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 7DD2C0E3
+    CRC32 hash (skip zero)   : 822B080E
+    AccurateRip v1 signature : 7BD755C6
+    AccurateRip v2 signature : 1144E74C
+        ->Accurately ripped (v2, confidence 17/217)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Pre-gap length : 00:01:57
+
+    CRC32 hash               : F7E75A77
+    CRC32 hash (skip zero)   : 500C1420
+    AccurateRip v1 signature : 97B12FAF
+    AccurateRip v2 signature : CB090B6A
+        ->Accurately ripped (v2, confidence 17/219)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Pre-gap length : 00:01:57
+
+    CRC32 hash               : 9F2B2EB1
+    CRC32 hash (skip zero)   : 24C97755
+    AccurateRip v1 signature : 880E56D0
+    AccurateRip v2 signature : AFDD70CD
+        ->Accurately ripped (v2, confidence 17/219)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Pre-gap length : 00:01:57
+
+    CRC32 hash               : 9151F1AB
+    CRC32 hash (skip zero)   : F9933263
+    AccurateRip v1 signature : 69C69E99
+    AccurateRip v2 signature : 7D5CE79C
+        ->Accurately ripped (v2, confidence 17/219)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+
+    CRC32 hash               : FCDCCC0E
+    CRC32 hash (skip zero)   : D1DF650E
+    AccurateRip v1 signature : F4970099
+    AccurateRip v2 signature : 3AD6527F
+        ->Accurately ripped (v2, confidence 17/219)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Pre-gap length : 00:01:57
+
+    CRC32 hash               : 5E1B992D
+    CRC32 hash (skip zero)   : 774D2788
+    AccurateRip v1 signature : B5258217
+    AccurateRip v2 signature : E82620D9
+        ->Accurately ripped (v2, confidence 17/219)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+
+    CRC32 hash               : 034B1193
+    CRC32 hash (skip zero)   : FEF3C3E4
+    AccurateRip v1 signature : 202F4E81
+    AccurateRip v2 signature : BDC15C3B
+        ->Accurately ripped (v2, confidence 17/219)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Pre-gap length : 00:01:57
+
+    CRC32 hash               : 1C75B6EB
+    CRC32 hash (skip zero)   : 7BDBF7E9
+    AccurateRip v1 signature : E5086782
+    AccurateRip v2 signature : 5C095718
+        ->Accurately ripped (v2, confidence 17/219)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+    Pre-gap length : 00:01:57
+
+    CRC32 hash               : 7B35FB6B
+    CRC32 hash (skip zero)   : 0E732756
+    AccurateRip v1 signature : 4E4DED04
+    AccurateRip v2 signature : 985F56CF
+        ->Accurately ripped (v2, confidence 17/219)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+    Pre-gap length : 00:01:57
+
+    CRC32 hash               : 7C200D92
+    CRC32 hash (skip zero)   : DACD497E
+    AccurateRip v1 signature : 1C1EA40F
+    AccurateRip v2 signature : 66EE2EAC
+        ->Accurately ripped (v2, confidence 17/219)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 11
+    Pre-gap length : 00:01:57
+
+    CRC32 hash               : 8259160E
+    CRC32 hash (skip zero)   : E06A4541
+    AccurateRip v1 signature : A81A5C35
+    AccurateRip v2 signature : E140A0D9
+        ->Accurately ripped (v2, confidence 16/218)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

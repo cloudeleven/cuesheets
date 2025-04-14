@@ -1,0 +1,79 @@
+X Lossless Decoder version 20230627 (156.1)
+
+XLD extraction logfile from 2023-10-26 01:17:22 +0900
+
+Melting Architecture (融解建築) / mixed demo 2010
+
+Used drive : PIONEER BD-RW   BDR-X12U (revision 1.03)
+Media type : CD-Recordable
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 07:01:04 |         0    |    31578   
+        2  | 07:01:04 | 06:35:03 |     31579    |    61206   
+        3  | 13:36:07 | 07:20:50 |     61207    |    94256   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Filename : /Users/m4c/Music/Melting Architecture (融解建築) - mixed demo 2010.flac
+    CRC32 hash               : A79A28CB
+    CRC32 hash (skip zero)   : AA55BDC3
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 9CD98E1C
+    CRC32 hash (skip zero)   : FCB7BD2E
+    AccurateRip v1 signature : 153B7758
+    AccurateRip v2 signature : E7E581D7
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+
+    CRC32 hash               : 39527E78
+    CRC32 hash (skip zero)   : EBAB1C8B
+    AccurateRip v1 signature : E99C4EE1
+    AccurateRip v2 signature : 7761C7F1
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+
+    CRC32 hash               : 18B7F9D1
+    CRC32 hash (skip zero)   : 45E22072
+    AccurateRip v1 signature : B61D3019
+    AccurateRip v2 signature : 451C5D54
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

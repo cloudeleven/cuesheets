@@ -1,6 +1,6 @@
 TITLE "3 (amazon.co.jp limited bonus)"
 PERFORMER "Sweet Robots Against The Machine"
-REM GENRE "Techno"
+REM GENRE "Electronica"
 REM DATE "2018"
 REM DISCID 1B031F04
 FILE "Sweet Robots Against The Machine - 3 (amazon.co.jp limited bonus).flac" WAVE
