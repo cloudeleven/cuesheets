@@ -1,8 +1,9 @@
 TITLE "Yes!!"
-PERFORMER "さかいゆう"
+PERFORMER "Yu Sakai (さかいゆう)"
+REM GENRE "Pop"
 REM DATE "2010-06-23"
 REM DISCID 9E0C1C0C
-FILE "Yes!!.flac" WAVE
+FILE "Yu Sakai (さかいゆう) - Yes!!.flac" WAVE
   TRACK 01 AUDIO
     TITLE "N.A.M.E."
     ISRC JPBV01020671

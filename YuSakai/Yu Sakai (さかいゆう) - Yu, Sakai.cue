@@ -1,9 +1,9 @@
-TITLE "YU, SAKAI"
-PERFORMER "さかいゆう"
+TITLE "Yu, Sakai"
+PERFORMER "Yu Sakai (さかいゆう)"
 REM GENRE "Pop"
 REM DATE "2008"
 REM DISCID 6F0BC30B
-FILE "YU, SAKAI.flac" WAVE
+FILE "Yu Sakai (さかいゆう) - Yu, Sakai.flac" WAVE
   TRACK 01 AUDIO
     TITLE "Yu's groove"
     ISRC JPU800700044

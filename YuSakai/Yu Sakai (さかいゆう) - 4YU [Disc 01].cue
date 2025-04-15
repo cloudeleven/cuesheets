@@ -1,6 +1,6 @@
 TITLE "4YU [Disc 01]"
 PERFORMER "Yu Sakai (さかいゆう)"
-REM GENRE "JPop"
+REM GENRE "Pop"
 REM DATE "2016-02-03"
 REM DISCID 970C210B
 FILE "Yu Sakai (さかいゆう) - 4YU [Disc 01].flac" WAVE
