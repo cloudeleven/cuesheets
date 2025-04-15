@@ -3,7 +3,7 @@ PERFORMER "Beach Boys, The"
 REM GENRE "Pop"
 REM DATE "1970"
 REM DISCID A607F80C
-FILE "Beach Boys '69 The Beach Boys Live in London.flac" WAVE
+FILE "Beach Boys, The - Beach Boys '69 The Beach Boys Live in London.flac" WAVE
   TRACK 01 AUDIO
     TITLE "Darlin'"
     PERFORMER "Beach Boys, The"
