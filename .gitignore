@@ -86,6 +86,7 @@ tags
 # doc
 *.pdf
 *.rtf
+*.txt
 
 # other media
 *.00J
